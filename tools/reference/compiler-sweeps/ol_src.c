@@ -1,0 +1,19 @@
+// M3: first matched function. Seeds the global RNG state with the seed and
+// two magic constants. (fn_800034E4 is the PRNG step that consumes these.)
+#include "dolphin/types.h"
+
+extern s32 lbl_80311250;
+extern s32 lbl_80311254;
+extern s32 lbl_80311258;
+extern s32 lbl_8031125C;
+extern s32 lbl_80311260;
+extern s32 lbl_80311264;
+
+void fn_800034A0(s32 arg0) {
+    lbl_8031125C = arg0;
+    lbl_80311260 = 0x12B9B0A1;
+    lbl_80311264 = 0x0AA2FB3F;
+    lbl_80311250 = arg0;
+    lbl_80311254 = 0x12B9B0A1;
+    lbl_80311258 = 0x0AA2FB3F;
+}

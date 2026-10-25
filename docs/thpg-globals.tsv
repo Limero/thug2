@@ -1,0 +1,2734 @@
+name	unit	folder	folder_evidence	size	builds_seen	rows
+Bink	examwiibb.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+Loop_current	examwiibb.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+Show_help	examwiibb.o	Engine/Gel/Movies/wii	proven	4	cD	1
+frameNumber	examwiibb.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+DemoCurrentBuffer	wiidemo.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+DemoFrameBuffer1	wiidemo.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+DemoFrameBuffer2	wiidemo.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	wiidemo.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+fbSize	wiidemo.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+rmode	wiidemo.o	Engine/Gel/Movies/wii	proven	4	cf+cD+cR	3
+rmodeobj	wiidemo.o	Engine/Gel/Movies/wii	proven	60	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+GXTlutRegions	p_gx.o	Engine/sys/wii	proven	80	cf+cD+cR	3
+MyTmemRegions	p_gx.o	Engine/sys/wii	proven	64	cf+cD+cR	3
+P44_FlipRenderCmdCtr	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_BPCmd	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_CPCmd	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_XFCmd	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_XFCmdHdr	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_XFIndxACmd	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_XFIndxBCmd	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_XFIndxCCmd	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_XFIndxDCmd	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_f32	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_s16	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_s32	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_s8	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_u16	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_u24	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_u32	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+_u8	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+asel	p_gx.o	Engine/sys/wii	proven	64	cf+cD+cR	3
+c2r$23852	p_gx.o	Engine/sys/wii	proven	16	cf	1
+c2r$24286	p_gx.o	Engine/sys/wii	proven	16	cR	1
+c2r$24331	p_gx.o	Engine/sys/wii	proven	16	cD	1
+const_color_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+csel	p_gx.o	Engine/sys/wii	proven	64	cf+cD+cR	3
+frame_display_list	p_gx.o	Engine/sys/wii	proven	8	cf+cD+cR	3
+gAlphaNCBChannelStatePtrs	p_gx.o	Engine/sys/wii	proven	24	cf+cD+cR	3
+gColorNCBChannelStatePtrs	p_gx.o	Engine/sys/wii	proven	24	cf+cD+cR	3
+gFilterArray	p_gx.o	Engine/sys/wii	proven	24	cf+cD+cR	3
+gZmodeOverRide	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+g_dl2	p_gx.o	Engine/sys/wii	proven	16	cf+cD+cR	3
+g_projection	p_gx.o	Engine/sys/wii	proven	28	cf+cD+cR	3
+ind_stage_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+indirect_tex_coord	p_gx.o	Engine/sys/wii	proven	16	cf+cD+cR	3
+indirect_tex_coord_scale	p_gx.o	Engine/sys/wii	proven	32	cf+cD+cR	3
+indirect_tex_map	p_gx.o	Engine/sys/wii	proven	16	cf+cD+cR	3
+indirect_tex_stage_active	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+layer_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+map_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+max_rv$24083	p_gx.o	Engine/sys/wii	proven	4	cD	1
+ord	p_gx.o	Engine/sys/wii	proven	16	cf+cD+cR	3
+ordc	p_gx.o	Engine/sys/wii	proven	64	cf+cD+cR	3
+ordm	p_gx.o	Engine/sys/wii	proven	64	cf+cD+cR	3
+ordt	p_gx.o	Engine/sys/wii	proven	64	cf+cD+cR	3
+p44alpha_a$26235	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44alpha_a$26570	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44alpha_a$26820	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44alpha_b$26236	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44alpha_b$26571	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44alpha_b$26821	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44alpha_bias$26240	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44alpha_bias$26575	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44alpha_bias$26825	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44alpha_op$26239	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44alpha_op$26574	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44alpha_op$26824	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44alpha_regDelta$26243	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44alpha_regDelta$26578	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44alpha_regDelta$26828	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44alpha_scale$26241	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44alpha_scale$26576	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44alpha_scale$26826	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44color_b$26250	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44color_b$26585	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44color_b$26835	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44color_bias$26254	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44color_bias$26589	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44color_bias$26839	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44color_op$26253	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44color_op$26588	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44color_op$26838	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44color_regDelta$26257	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44color_regDelta$26592	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44color_regDelta$26842	p_gx.o	Engine/sys/wii	proven	4	cR	1
+p44color_scale$26255	p_gx.o	Engine/sys/wii	proven	4	cf	1
+p44color_scale$26590	p_gx.o	Engine/sys/wii	proven	4	cD	1
+p44color_scale$26840	p_gx.o	Engine/sys/wii	proven	4	cR	1
+pingPong$23318	p_gx.o	Engine/sys/wii	proven	4	cf	1
+pingPong$23743	p_gx.o	Engine/sys/wii	proven	4	cR	1
+pingPong$23950	p_gx.o	Engine/sys/wii	proven	4	cD	1
+rv$24749	p_gx.o	Engine/sys/wii	proven	128	cf	1
+rv$24756	p_gx.o	Engine/sys/wii	proven	128	cf	1
+rv$25228	p_gx.o	Engine/sys/wii	proven	128	cR	1
+rv$25235	p_gx.o	Engine/sys/wii	proven	128	cR	1
+rv$25308	p_gx.o	Engine/sys/wii	proven	128	cD	1
+rv$25315	p_gx.o	Engine/sys/wii	proven	128	cD	1
+sel	p_gx.o	Engine/sys/wii	proven	16	cf+cD+cR	3
+stage_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+tev_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+tex_mtx_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+texmtx	p_gx.o	Engine/sys/wii	proven	32	cf+cD+cR	3
+tlut_count	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+tmem_count	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+uv_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+uv_tex_id	p_gx.o	Engine/sys/wii	proven	4	cf+cD+cR	3
+vRenderMode	p_gx.o	Engine/sys/wii	proven	60	cf+cD+cR	3
+vfLists	p_gx.o	Engine/sys/wii	proven	3456	cf+cD+cR	3
+MovieQueueCount	Movies.o	Gel/Movies	heuristic	4	cf+cD+cR	3
+_startTime	Movies.o	Gel/Movies	heuristic	4	cf+cD+cR	3
+_subtitleInfo	Movies.o	Gel/Movies	heuristic	20	cf+cD+cR	3
+m_mark_game_time_stamp	Movies.o	Gel/Movies	heuristic	4	cf+cD+cR	3
+m_mark_true_time_stamp	Movies.o	Gel/Movies	heuristic	4	cf+cD+cR	3
+movie_flags	Movies.o	Gel/Movies	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+_DVDError	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+buffer$25642	p_dvd.o	SDK	heuristic	256	cf	1
+buffer$25759	p_dvd.o	SDK	heuristic	256	cD	1
+buffer$26074	p_dvd.o	SDK	heuristic	256	cR	1
+delayHomeMenuTime	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+gLegalScreenStartTime	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+homeMenuLockedOutForLoadingAndSaving	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+invalidHomeMenuRequestTime	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+legalStartTime	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+p_buffer_offset	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+p_no_home_menu_icon_texture	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+readState	p_dvd.o	SDK	heuristic	300	cf+cD+cR	3
+strapStartTime	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+user_callback	p_dvd.o	SDK	heuristic	4	cf+cD+cR	3
+prefetch_alloc_failures$14908	AnimCache.o	Sk/Anim	heuristic	4	cR	1
+prefetch_alloc_failures$14972	AnimCache.o	Sk/Anim	heuristic	4	cD	1
+prefetch_alloc_warnings$14909	AnimCache.o	Sk/Anim	heuristic	4	cR	1
+prefetch_alloc_warnings$14973	AnimCache.o	Sk/Anim	heuristic	4	cD	1
+s_timer	AnimCache.o	Sk/Anim	heuristic	4	cf+cD+cR	3
+sp_animCacheManager	AnimCache.o	Sk/Anim	heuristic	4	cf+cD+cR	3
+sp_pool	AnimCache.o	Sk/Anim	heuristic	8	cf+cD+cR	3
+g_PrimaryBonedAnimUS	BonedAnim.o	Sk/Anim	heuristic	8	cD+cR	2
+g_SecondaryBonedAnimUS	BonedAnim.o	Sk/Anim	heuristic	8	cD+cR	2
+g_curAnimName	BonedAnim.o	Sk/Anim	heuristic	4	cD+cR	2
+sQTable	BonedAnim.o	Sk/Anim	heuristic	2048	cf+cD+cR	3
+sTTable	BonedAnim.o	Sk/Anim	heuristic	2048	cf+cD+cR	3
+s_lastFrameThatCached	BonedAnim.o	Sk/Anim	heuristic	8	cf+cD+cR	3
+s_totalCachedThisFrame	BonedAnim.o	Sk/Anim	heuristic	4	cf+cD+cR	3
+g_failed_tut_count$45297	ProgrammerBoardAnimNode.o	Sk/Anim	heuristic	4	cD	1
+g_failed_tut_count$47855	ProgrammerBoardAnimNode.o	Sk/Anim	heuristic	4	cf	1
+g_failed_tut_count$49608	ProgrammerBoardAnimNode.o	Sk/Anim	heuristic	4	cR	1
+s_last_applied_axis	ProgrammerBoardAnimNode.o	Sk/Anim	heuristic	64	cf+cD+cR	3
+s_coll_cache_active_map	CollCache.o	Sk/Collision	heuristic	4	cf+cD+cR	3
+sp_coll_cache_registry	CollCache.o	Sk/Collision	heuristic	32	cf+cD+cR	3
+s_face_index_buffer_size	CollTriData.o	Sk/Collision	heuristic	4	cf+cD+cR	3
+s_num_face_indices	CollTriData.o	Sk/Collision	heuristic	4	cf+cD+cR	3
+s_seq_face_index_buffer	CollTriData.o	Sk/Collision	heuristic	4096	cf+cD+cR	3
+sp_face_index_buffer	CollTriData.o	Sk/Collision	heuristic	4	cf+cD+cR	3
+sOrient	Collision.o	Sk/Collision	heuristic	64	cf+cD+cR	3
+sWorldPos	Collision.o	Sk/Collision	heuristic	16	cf+cD+cR	3
+bone_pos_scratch	ModelCollData.o	Sk/Collision	heuristic	1024	cf+cD+cR	3
+s_modelColl_Lookup	ModelCollData.o	Sk/Collision	heuristic	28	cf+cD+cR	3
+s_collision_list	MovCollMan.o	Sk/Collision	heuristic	20	cf+cD+cR	3
+spMemberFunctions	AncillaryObjectComponent.o	Sk/Components	heuristic	20	cf+cD+cR	3
+spMemberFunctions	AnimBlenderComponent.o	Sk/Components	heuristic	760	cf+cD+cR	3
+spMemberFunctions	AnimExportComponent.o	Sk/Components	heuristic	160	cf+cD+cR	3
+spMemberFunctions	AnimStateMachineComponent.o	Sk/Components	heuristic	140	cf+cD+cR	3
+empty_params$25845	AnimTreeComponent.o	Sk/Components	heuristic	8	cf	1
+empty_params$26473	AnimTreeComponent.o	Sk/Components	heuristic	8	cR	1
+empty_params$26559	AnimTreeComponent.o	Sk/Components	heuristic	8	cD	1
+s_net_anim_hook	AnimTreeComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+spMemberFunctions	AnimTreeComponent.o	Sk/Components	heuristic	200	cf+cD+cR	3
+spMemberFunctions	BlinkComponent.o	Sk/Components	heuristic	100	cf+cD+cR	3
+COMPONENT_ID	BodyCheckComponent.o	Sk/Components	proven	4	cD+cR	2
+spMemberFunctions	BodyCheckComponent.o	Sk/Components	proven	80	cf+cD+cR	3
+spMemberFunctions	CameraComponent.o	Sk/Components	heuristic	80	cf+cD+cR	3
+spMemberFunctions	CameraLookAroundComponent.o	Sk/Components	heuristic	120	cf+cD+cR	3
+COMPONENT_ID	CapCameraComponent.o	Sk/Components	proven	4	cD+cR	2
+spMemberFunctions	CapCameraComponent.o	Sk/Components	proven	40	cf+cD+cR	3
+COMPONENT_ID	CapComponent.o	Sk/Components	proven	4	cD+cR	2
+spMemberFunctions	CapComponent.o	Sk/Components	proven	60	cf+cD+cR	3
+spMemberFunctions	CinematicCameraComponent.o	Sk/Components	heuristic	320	cf+cD+cR	3
+spMemberFunctions	CompassBlipComponent.o	Sk/Components	proven	80	cf+cD+cR	3
+spMemberFunctions	CompassDisplayComponent.o	Sk/Components	heuristic	40	cf+cD+cR	3
+spMemberFunctions	ContinuousTerrainParticleComponent.o	Sk/Components	heuristic	20	cf+cD+cR	3
+spMemberFunctions	FAMComponent.o	Sk/Components	heuristic	140	cf+cD+cR	3
+spMemberFunctions	FlexibleParticleComponent.o	Sk/Components	heuristic	640	cf+cD+cR	3
+spMemberFunctions	GoldComponent.o	Sk/Components	heuristic	20	cf+cD+cR	3
+spMemberFunctions	InputComponent.o	Sk/Components	heuristic	400	cf+cD+cR	3
+spMemberFunctions	MarkerComponent.o	Sk/Components	heuristic	20	cf+cD+cR	3
+spMemberFunctions	NailTheTrickCameraComponent.o	Sk/Components	heuristic	80	cf+cD+cR	3
+spMemberFunctions	ObjectProximityComponent.o	Sk/Components	heuristic	140	cf+cD+cR	3
+spMemberFunctions	PagerMessageComponent.o	Sk/Components	heuristic	120	cf+cD+cR	3
+spMemberFunctions	ParticleChainComponent.o	Sk/Components	heuristic	80	cf+cD+cR	3
+tempResults$21265	ParticleChainComponent.o	Sk/Components	heuristic	256	cf	1
+tempResults$21691	ParticleChainComponent.o	Sk/Components	heuristic	256	cR	1
+tempResults$21756	ParticleChainComponent.o	Sk/Components	heuristic	256	cD	1
+spMemberFunctions	ParticleComponent.o	Sk/Components	heuristic	460	cf+cD+cR	3
+AIR_LOOPING_SOUND_INFO	PedLogicComponent.o	Sk/Components	heuristic	28	cD+cR	2
+distIgnoreSqr	PedLogicComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+largeAngle$34505	PedLogicComponent.o	Sk/Components	heuristic	4	cf	1
+largeAngle$35981	PedLogicComponent.o	Sk/Components	heuristic	4	cD	1
+largeAngle$36221	PedLogicComponent.o	Sk/Components	heuristic	4	cR	1
+spMemberFunctions	PedLogicComponent.o	Sk/Components	heuristic	1000	cf+cD+cR	3
+speedSlowSqr	PedLogicComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+spMemberFunctions	RailManagerComponent.o	Sk/Components	heuristic	60	cf+cD+cR	3
+spMemberFunctions	RecordsComponent.o	Sk/Components	proven	120	cf+cD+cR	3
+sp_sgltn_instance	RecordsComponent.o	Sk/Components	proven	4	cf+cD+cR	3
+COMPONENT_ID	RigComponent.o	Sk/Components	proven	4	cD+cR	2
+spMemberFunctions	RigComponent.o	Sk/Components	proven	100	cf+cD+cR	3
+spMemberFunctions	SkaterAbilityComponent.o	Sk/Components	heuristic	160	cf+cD+cR	3
+uberfrig_nudges$26662	SkaterAdjustPhysicsComponent.o	Sk/Components	heuristic	80	cf	1
+uberfrig_nudges$27260	SkaterAdjustPhysicsComponent.o	Sk/Components	heuristic	80	cR	1
+uberfrig_nudges$27329	SkaterAdjustPhysicsComponent.o	Sk/Components	heuristic	80	cD	1
+spMemberFunctions	SkaterBalanceTrickComponent.o	Sk/Components	heuristic	240	cf+cD+cR	3
+lip_rotate$27168	SkaterCameraComponent.o	Sk/Components	heuristic	4	cf	1
+lip_rotate$27805	SkaterCameraComponent.o	Sk/Components	heuristic	4	cR	1
+lip_rotate$27889	SkaterCameraComponent.o	Sk/Components	heuristic	4	cD	1
+spMemberFunctions	SkaterCameraComponent.o	Sk/Components	heuristic	100	cf+cD+cR	3
+AIR_LOOPING_SOUND_INFO	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	28	cD+cR	2
+acid_hold	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	16	cf+cD+cR	3
+p__$47648	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	4	cf	1
+p__$49274	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	4	cD	1
+p__$50035	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	4	cR	1
+spMemberFunctions	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	3180	cf+cD+cR	3
+tempTimer$63093	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	4	cf	1
+tempTimer$66066	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	4	cD	1
+tempTimer$68686	SkaterCorePhysicsComponent.o	Sk/Components	heuristic	4	cR	1
+spMemberFunctions	SkaterEndRunComponent.o	Sk/Components	heuristic	160	cf+cD+cR	3
+AIR_LOOPING_SOUND_INFO	SkaterFinalizePhysicsComponent.o	Sk/Components	heuristic	28	cD+cR	2
+spMemberFunctions	SkaterFlipAndRotateComponent.o	Sk/Components	heuristic	260	cf+cD+cR	3
+p_gap_flag_checksums$30769	SkaterGapComponent.o	Sk/Components	heuristic	128	cR	1
+p_gap_flag_checksums$30825	SkaterGapComponent.o	Sk/Components	heuristic	128	cD	1
+spMemberFunctions	SkaterGapComponent.o	Sk/Components	heuristic	140	cf+cD+cR	3
+AIR_LOOPING_SOUND_INFO	SkaterLoopingSoundComponent.o	Sk/Components	heuristic	28	cD+cR	2
+spMemberFunctions	SkaterLoopingSoundComponent.o	Sk/Components	heuristic	20	cf+cD+cR	3
+spMemberFunctions	SkaterMatrixQueriesComponent.o	Sk/Components	heuristic	220	cf+cD+cR	3
+AIR_LOOPING_SOUND_INFO	SkaterNonLocalNetLogicComponent.o	Sk/Components	heuristic	28	cD+cR	2
+lag$33841	SkaterNonLocalNetLogicComponent.o	Sk/Components	heuristic	4	cD	1
+spMemberFunctions	SkaterPhysicsControlComponent.o	Sk/Components	heuristic	220	cf+cD+cR	3
+spMemberFunctions	SkaterProfileComponent.o	Sk/Components	heuristic	120	cf+cD+cR	3
+spMemberFunctions	SkaterRunTimerComponent.o	Sk/Components	heuristic	160	cf+cD+cR	3
+states$26685	SkaterRunTimerComponent.o	Sk/Components	heuristic	16	cf	1
+states$27285	SkaterRunTimerComponent.o	Sk/Components	heuristic	16	cR	1
+states$27359	SkaterRunTimerComponent.o	Sk/Components	heuristic	16	cD	1
+spMemberFunctions	SkaterScoreComponent.o	Sk/Components	heuristic	480	cf+cD+cR	3
+spMemberFunctions	SkaterSoundComponent.o	Sk/Components	heuristic	100	cf+cD+cR	3
+spMemberFunctions	SkaterStancePanelComponent.o	Sk/Components	heuristic	140	cf+cD+cR	3
+G_SKATERFLAGS_TO_CHECKSUMS	SkaterStateComponent.o	Sk/Components	heuristic	116	cf+cD+cR	3
+spMemberFunctions	SkaterStateComponent.o	Sk/Components	heuristic	420	cf+cD+cR	3
+spMemberFunctions	SkitchComponent.o	Sk/Components	heuristic	40	cf+cD+cR	3
+spMemberFunctions	StatsManagerComponent.o	Sk/Components	heuristic	380	cf+cD+cR	3
+spForbiddenStreams	StreamComponent.o	Sk/Components	heuristic	600	cf+cD+cR	3
+spMemberFunctions	StreamComponent.o	Sk/Components	heuristic	180	cf+cD+cR	3
+s_anim_interleave2_sqr	SuspendComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+s_anim_interleave4_sqr	SuspendComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+s_phase	SuspendComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+s_phase2	SuspendComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+s_phase4	SuspendComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+spMemberFunctions	SuspendComponent.o	Sk/Components	heuristic	100	cf+cD+cR	3
+sp_sgltn_instance	SuspendComponent.o	Sk/Components	heuristic	4	cf+cD+cR	3
+spMemberFunctions	TaggingComponent.o	Sk/Components	heuristic	60	cf+cD+cR	3
+spMemberFunctions	TaggingControlComponent.o	Sk/Components	heuristic	220	cf+cD+cR	3
+spMemberFunctions	TransitionNodeComponent.o	Sk/Components	heuristic	20	cf+cD+cR	3
+spMemberFunctions	TriggerComponent.o	Sk/Components	heuristic	40	cf+cD+cR	3
+spMemberFunctions	VibrationComponent.o	Sk/Components	heuristic	40	cf+cD+cR	3
+s_auto_repeat_delay$25182	ViewerObjComponent.o	Sk/Components	heuristic	4	cf	1
+s_auto_repeat_delay$27233	ViewerObjComponent.o	Sk/Components	heuristic	4	cR	1
+s_auto_repeat_delay$27255	ViewerObjComponent.o	Sk/Components	heuristic	4	cD	1
+s_save_mat	ViewerObjComponent.o	Sk/Components	heuristic	64	cD+cR	2
+s_save_pos	ViewerObjComponent.o	Sk/Components	heuristic	16	cD+cR	2
+s_viewer_matrix	ViewerObjComponent.o	Sk/Components	heuristic	64	cf+cD+cR	3
+s_wheelRotationX$26169	ViewerObjComponent.o	Sk/Components	heuristic	4	cR	1
+s_wheelRotationX$26195	ViewerObjComponent.o	Sk/Components	heuristic	4	cD	1
+spMemberFunctions	ViewerObjComponent.o	Sk/Components	heuristic	20	cf+cD+cR	3
+vPOS_VIEWEROBJECT	ViewerObjComponent.o	Sk/Components	heuristic	16	cf+cD+cR	3
+spMemberFunctions	WalkCameraComponent.o	Sk/Components	heuristic	60	cf+cD+cR	3
+spMemberFunctions	WalkComponent.o	Sk/Components	heuristic	780	cf+cD+cR	3
+sp_state_names	WalkComponent.o	Sk/Components	heuristic	36	cf+cD+cR	3
+m_currentPartsIndex	GlobalEffects.o	Sk/Effects	heuristic	4	cf+cD+cR	3
+m_delayCounter	GlobalEffects.o	Sk/Effects	heuristic	4	cf+cD+cR	3
+m_levelBumpLight	GlobalEffects.o	Sk/Effects	heuristic	16	cf+cD+cR	3
+m_startPartsIndex	GlobalEffects.o	Sk/Effects	heuristic	4	cf+cD+cR	3
+m_states	GlobalEffects.o	Sk/Effects	heuristic	8	cf+cD+cR	3
+m_tempLights	GlobalEffects.o	Sk/Effects	heuristic	20	cf+cD+cR	3
+prevSecondsTime$35428	GoalManager2.o	Sk/Modules/Skate/GoalMgr	proven	4	cf	1
+prevSecondsTime$36308	GoalManager2.o	Sk/Modules/Skate/GoalMgr	proven	4	cR	1
+prevSecondsTime$36390	GoalManager2.o	Sk/Modules/Skate/GoalMgr	proven	4	cD	1
+prevToggleTime$35427	GoalManager2.o	Sk/Modules/Skate/GoalMgr	proven	4	cf	1
+prevToggleTime$36307	GoalManager2.o	Sk/Modules/Skate/GoalMgr	proven	4	cR	1
+prevToggleTime$36389	GoalManager2.o	Sk/Modules/Skate/GoalMgr	proven	4	cD	1
+_sgltn_instance$29330	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	68	cf	1
+_sgltn_instance$29967	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	68	cR	1
+_sgltn_instance$30045	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	68	cD	1
+curr_index$30949	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	4	cf	1
+curr_index$31649	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	4	cD	1
+curr_index$31903	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	4	cR	1
+s_change_mask$30487	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	128	cf	1
+s_change_mask$31241	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	128	cD	1
+s_change_mask$31414	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	128	cR	1
+s_sgltn_count	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	4	cf+cD+cR	3
+sp_sgltn_instance	TrickObject.o	Sk/Modules/Skate/Trick	heuristic	4	cf+cD+cR	3
+s_auto_serve_start_time	CommonGameNet.o	Sk/Net	heuristic	4	cf+cD+cR	3
+s_last_refresh_time	CommonGameNet.o	Sk/Net	heuristic	4	cf+cD+cR	3
+s_time_to_redial	CommonGameNet.o	Sk/Net	heuristic	4	cf+cD+cR	3
+s_time_to_start_game	CommonGameNet.o	Sk/Net	heuristic	4	cf+cD+cR	3
+s_refresh_time$24146	CommonServerList.o	Sk/Net	heuristic	4	cf	1
+s_refresh_time$24675	CommonServerList.o	Sk/Net	heuristic	4	cR	1
+s_refresh_time$24765	CommonServerList.o	Sk/Net	heuristic	4	cD	1
+_sgltn_instance$32379	GameNet.o	Sk/Net	heuristic	6680	cf	1
+_sgltn_instance$33193	GameNet.o	Sk/Net	heuristic	6680	cR	1
+_sgltn_instance$33287	GameNet.o	Sk/Net	heuristic	6680	cD	1
+s_last_join_time$38115	GameNet.o	Sk/Net	heuristic	4	cf	1
+s_last_join_time$38850	GameNet.o	Sk/Net	heuristic	4	cD	1
+s_last_join_time$39213	GameNet.o	Sk/Net	heuristic	4	cR	1
+s_last_link_check$38263	GameNet.o	Sk/Net	heuristic	4	cf	1
+s_last_link_check$38937	GameNet.o	Sk/Net	heuristic	4	cD	1
+s_last_link_check$39363	GameNet.o	Sk/Net	heuristic	4	cR	1
+s_last_show$36236	GameNet.o	Sk/Net	heuristic	4	cf	1
+s_last_show$37112	GameNet.o	Sk/Net	heuristic	4	cD	1
+s_last_show$37261	GameNet.o	Sk/Net	heuristic	4	cR	1
+s_last_taunt_time$37381	GameNet.o	Sk/Net	heuristic	4	cf	1
+s_last_taunt_time$38161	GameNet.o	Sk/Net	heuristic	4	cD	1
+s_last_taunt_time$38442	GameNet.o	Sk/Net	heuristic	4	cR	1
+s_sgltn_count	GameNet.o	Sk/Net	heuristic	4	cf+cD+cR	3
+sp_sgltn_instance	GameNet.o	Sk/Net	heuristic	4	cf+cD+cR	3
+_sgltn_instance$17488	NetSessionManager.o	Sk/Net	heuristic	36	cf	1
+_sgltn_instance$17870	NetSessionManager.o	Sk/Net	heuristic	36	cR	1
+_sgltn_instance$17944	NetSessionManager.o	Sk/Net	heuristic	36	cD	1
+s_sgltn_count	NetSessionManager.o	Sk/Net	heuristic	4	cf+cD+cR	3
+sp_sgltn_instance	NetSessionManager.o	Sk/Net	heuristic	4	cf+cD+cR	3
+updateTime$30500	PlayerNet.o	Sk/Net	heuristic	4	cf	1
+updateTime$31200	PlayerNet.o	Sk/Net	heuristic	4	cR	1
+updateTime$31278	PlayerNet.o	Sk/Net	heuristic	4	cD	1
+pTempArray	AbilityFlags.o	Sk/Objects	proven	120	cf+cD+cR	3
+sm_flag_idx_hash_table	AbilityFlags.o	Sk/Objects	proven	28	cf+cD+cR	3
+s_point_types	GoalPoints.o	Sk/Objects	proven	16	cf+cD+cR	3
+m_editableLists	PedProfileManager.o	Sk/Ped	heuristic	8	cf+cD+cR	3
+m_numProfiles	PedProfileManager.o	Sk/Ped	heuristic	4	cf+cD+cR	3
+m_pedProfiles	PedProfileManager.o	Sk/Ped	heuristic	384	cf+cD+cR	3
+__FUNCTION	assfuncs.o	Sk/Scripting	heuristic	20	cD+cR	4
+CheckSumAdd	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+LastNodeArrayLoaded	cfuncs.o	Sk/Scripting	heuristic	128	cf+cD+cR	3
+NodeArrayHeap	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+NodeArrayName	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+PendingChecksumAdd	cfuncs.o	Sk/Scripting	heuristic	64	cf+cD+cR	3
+PendingNodeArrayHeap	cfuncs.o	Sk/Scripting	heuristic	64	cf+cD+cR	3
+PendingNodeArrayName	cfuncs.o	Sk/Scripting	heuristic	64	cf+cD+cR	3
+__FUNCTION	cfuncs.o	Sk/Scripting	heuristic	21	cD+cR	2
+current_node_index	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+dump_handle	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+dumping_printfs	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+g_cfuncs	cfuncs.o	Sk/Scripting	heuristic	8	cf+cD+cR	3
+nodename$44368	cfuncs.o	Sk/Scripting	heuristic	128	cR	1
+nodename$44490	cfuncs.o	Sk/Scripting	heuristic	128	cD	1
+num_pending_arrays	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+pNodeArray	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+pPendingNodeArray	cfuncs.o	Sk/Scripting	heuristic	64	cf+cD+cR	3
+p_buffer	cfuncs.o	Sk/Scripting	heuristic	2048	cf+cD+cR	3
+p_pos	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+parse_state	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+s_level_name	cfuncs.o	Sk/Scripting	heuristic	64	cf+cD+cR	3
+s_view_mode	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+skate_mod	cfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+sp_node_action_labels	cfuncs.o	Sk/Scripting	heuristic	32	cD+cR	2
+s_cutscene_destroy_items	cutscenefuncs.o	Sk/Scripting	heuristic	8	cf+cD+cR	3
+CFunctionLookupTable	ftables.o	Sk/Scripting	heuristic	13000	cf+cD+cR	3
+ppMemberFunctionNames	ftables.o	Sk/Scripting	heuristic	268	cf+cD+cR	3
+cutsceneName$27564	gfxfuncs.o	Sk/Scripting	heuristic	256	cf	1
+cutsceneName$28495	gfxfuncs.o	Sk/Scripting	heuristic	256	cR	1
+cutsceneName$28580	gfxfuncs.o	Sk/Scripting	heuristic	256	cD	1
+s_collision_line_checks	gfxfuncs.o	Sk/Scripting	heuristic	4	cD+cR	2
+s_collision_sphere_check	gfxfuncs.o	Sk/Scripting	heuristic	4	cD+cR	2
+s_collision_sphere_pass	gfxfuncs.o	Sk/Scripting	heuristic	4	cD+cR	2
+s_dropped_polys	gfxfuncs.o	Sk/Scripting	heuristic	4	cD+cR	2
+controller_pull_last_reset_time	inpfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+gButtonDebounceTime	inpfuncs.o	Sk/Scripting	heuristic	176	cf+cD+cR	3
+s_second_controller_check_task	inpfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+unpluggedCount	inpfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+gStateBuffer	machine.o	Sk/Scripting	heuristic	256	cf+cD+cR	3
+mMachineList	machine.o	Sk/Scripting	heuristic	20	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	mcfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+p_directory_name$31927	mcfuncs.o	Sk/Scripting	heuristic	100	cf	1
+p_directory_name$32723	mcfuncs.o	Sk/Scripting	heuristic	100	cR	1
+p_directory_name$32727	mcfuncs.o	Sk/Scripting	heuristic	100	cD	1
+sVaultDataType	mcfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+s_apply_flags	mcfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+s_pool_push_types	mcfuncs.o	Sk/Scripting	heuristic	8	cf+cD+cR	3
+spSummaryInfoBuffer	mcfuncs.o	Sk/Scripting	heuristic	132	cf+cD+cR	3
+spVaultData	mcfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+s_last_broadcast_cheat	netfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+s_password_string$23963	netfuncs.o	Sk/Scripting	heuristic	32	cf	1
+s_password_string$24468	netfuncs.o	Sk/Scripting	heuristic	32	cR	1
+s_password_string$24549	netfuncs.o	Sk/Scripting	heuristic	32	cD	1
+s_last_time_profiled$27630	nxfuncs.o	Sk/Scripting	heuristic	4	cR	1
+s_last_time_profiled$27761	nxfuncs.o	Sk/Scripting	heuristic	4	cD	1
+s_level_specific_qbs	nxfuncs.o	Sk/Scripting	heuristic	60	cf+cD+cR	3
+sMostRecentIndex	scriptfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+sNumScriptsInBuffer	scriptfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+sTempComponent	scriptfuncs.o	Sk/Scripting	heuristic	16	cf+cD+cR	3
+s_printf_buffer$23320	scriptfuncs.o	Sk/Scripting	heuristic	2049	cf	1
+s_printf_buffer$24199	scriptfuncs.o	Sk/Scripting	heuristic	2049	cD	1
+s_printf_buffer$24232	scriptfuncs.o	Sk/Scripting	heuristic	2049	cR	1
+spNoRepeatScripts	scriptfuncs.o	Sk/Scripting	heuristic	240	cf+cD+cR	3
+sStartTime	tmrfuncs.o	Sk/Scripting	heuristic	4	cf+cD+cR	3
+AIR_LOOPING_SOUND_INFO	skater.o	Sk/Skater	heuristic	28	cD+cR	2
+air_dir$43568	skater.o	Sk/Skater	heuristic	16	cf	1
+air_dir$44709	skater.o	Sk/Skater	heuristic	16	cR	1
+air_dir$44797	skater.o	Sk/Skater	heuristic	16	cD	1
+ground_dir$43565	skater.o	Sk/Skater	heuristic	16	cf	1
+ground_dir$44706	skater.o	Sk/Skater	heuristic	16	cR	1
+ground_dir$44794	skater.o	Sk/Skater	heuristic	16	cD	1
+DirectionMap$15462	skaterpad.o	Sk/Skater	heuristic	64	cf	1
+DirectionMap$15472	skaterpad.o	Sk/Skater	heuristic	64	cf	1
+DirectionMap$15482	skaterpad.o	Sk/Skater	heuristic	64	cf	1
+DirectionMap$15492	skaterpad.o	Sk/Skater	heuristic	64	cf	1
+DirectionMap$15665	skaterpad.o	Sk/Skater	heuristic	64	cR	1
+DirectionMap$15675	skaterpad.o	Sk/Skater	heuristic	64	cR	1
+DirectionMap$15685	skaterpad.o	Sk/Skater	heuristic	64	cR	1
+DirectionMap$15695	skaterpad.o	Sk/Skater	heuristic	64	cR	1
+DirectionMap$15766	skaterpad.o	Sk/Skater	heuristic	64	cD	1
+DirectionMap$15778	skaterpad.o	Sk/Skater	heuristic	64	cD	1
+DirectionMap$15790	skaterpad.o	Sk/Skater	heuristic	64	cD	1
+DirectionMap$15802	skaterpad.o	Sk/Skater	heuristic	64	cD	1
+PermTrackTitle	music.o	Sys/Audio	heuristic	8000	cf+cD+cR	3
+current_music_track	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+gCurrentStreamInfo	music.o	Sys/Audio	heuristic	768	cf+cD+cR	3
+gCurrentTrackList	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+gLastStreamChannelPlayed	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+gMusicStreamType	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+gTrackLists	music.o	Sys/Audio	heuristic	12096	cf+cD+cR	3
+gTrackName	music.o	Sys/Audio	heuristic	75	cf+cD+cR	3
+random_song_index	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+sCurrentTrackName	music.o	Sys/Audio	heuristic	96	cf+cD+cR	3
+sMaxStreamsPlaying	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+sNumStreamResources	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+s_current_load_sound_ram_request	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+s_frame_amp_data	music.o	Sys/Audio	heuristic	4104	cf+cD+cR	3
+s_free_load_sound_ram_request	music.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+s_load_sound_ram_queue	music.o	Sys/Audio	heuristic	864	cf+cD+cR	3
+sp_random_song_order	music.o	Sys/Audio	heuristic	2400	cf+cD+cR	3
+DirectWaveTable	soundfx.o	Sys/Audio	heuristic	38912	cf+cD+cR	3
+GpPositionalSounds	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+NumPositionalSounds	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+NumWavesInDirectTable	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+NumWavesInPermTable	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+NumWavesInTable	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+PermWaveTable	soundfx.o	Sys/Audio	heuristic	38912	cf+cD+cR	3
+PositionalSounds	soundfx.o	Sys/Audio	heuristic	3072	cf+cD+cR	3
+VoiceInfoTable	soundfx.o	Sys/Audio	heuristic	5632	cf+cD+cR	3
+WaveTable	soundfx.o	Sys/Audio	heuristic	38912	cf+cD+cR	3
+_sgltn_instance$23766	soundfx.o	Sys/Audio	heuristic	8	cf	1
+_sgltn_instance$24304	soundfx.o	Sys/Audio	heuristic	8	cR	1
+_sgltn_instance$24408	soundfx.o	Sys/Audio	heuristic	8	cD	1
+s_group_array	soundfx.o	Sys/Audio	heuristic	1536	cf+cD+cR	3
+s_sgltn_count	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+sp_free_list	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+sp_group_table	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+sp_sgltn_instance	soundfx.o	Sys/Audio	heuristic	4	cf+cD+cR	3
+speakers$26132	soundfx.o	Sys/Audio	heuristic	60	cf	1
+speakers$26150	soundfx.o	Sys/Audio	heuristic	60	cD	1
+speakers$26860	soundfx.o	Sys/Audio	heuristic	60	cR	1
+_sgltn_instance$13132	p_McMan.o	Sys/NGC	heuristic	32	cf	1
+_sgltn_instance$13225	p_McMan.o	Sys/NGC	heuristic	32	cR	1
+_sgltn_instance$13299	p_McMan.o	Sys/NGC	heuristic	32	cD	1
+cardWorkArea	p_McMan.o	Sys/NGC	heuristic	40960	cf+cD+cR	3
+s_sgltn_count	p_McMan.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+sp_sgltn_instance	p_McMan.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+DefaultFifo	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+DefaultFifoObj	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+FrameMissThreshold	p_hwinit.o	Sys/NGC	heuristic	4	cf	1
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GPHangWorkaround	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+OVThread	p_hwinit.o	Sys/NGC	heuristic	792	cf+cD+cR	3
+OVThreadStack	p_hwinit.o	Sys/NGC	heuristic	4096	cf+cD+cR	3
+display_change_tick	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+fbSize	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+gDebug_Size	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+gLowMem_Size	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+gMem_Size	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+gTokenData	p_hwinit.o	Sys/NGC	heuristic	16380	cf+cD+cR	3
+g_mem1_heap	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+g_pMainThread	p_hwinit.o	Sys/NGC	heuristic	4	cD+cR	2
+hwCurrentBuffer	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+hwFrameBuffer1	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+hwFrameBuffer2	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+hwFrameBuffer3	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+hwMemStats	p_hwinit.o	Sys/NGC	heuristic	8	cf+cD+cR	3
+pseudo_aram_buffer	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+rmode	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+rmodeobj	p_hwinit.o	Sys/NGC	heuristic	60	cf+cD+cR	3
+s_p_small_pool	p_hwinit.o	Sys/NGC	heuristic	4	cD+cR	2
+s_small_pool_size	p_hwinit.o	Sys/NGC	heuristic	4	cD+cR	2
+s_starting_mem_size	p_hwinit.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+PadChanMask	p_hwpad.o	Sys/NGC	heuristic	16	cD	1
+hwNumPadsInUse	p_hwpad.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+hwNumValidPads	p_hwpad.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+info	p_hwpad.o	Sys/NGC	heuristic	624	cf+cD+cR	3
+kpadBuffers	p_hwpad.o	Sys/NGC	heuristic	53408	cf+cD+cR	3
+kpadData	p_hwpad.o	Sys/NGC	heuristic	528	cf+cD+cR	3
+last_hwPadRead_tick	p_hwpad.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+play_radius	p_hwpad.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+RTTexData	p_nx.o	Sys/NGC	heuristic	76	cf+cD+cR	3
+aspect_ratio$26817	p_nx.o	Sys/NGC	heuristic	4	cf	1
+aspect_ratio$27328	p_nx.o	Sys/NGC	heuristic	4	cR	1
+aspect_ratio$27398	p_nx.o	Sys/NGC	heuristic	4	cD	1
+g_ngc_immediate_safe_delete	p_nx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+g_skipInstanceRendering	p_nx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+lastEye$27040	p_nx.o	Sys/NGC	heuristic	12	cf	1
+nNCBFrameCount	p_nx.o	Sys/NGC	heuristic	4	cD	1
+shadowTextureData	p_nx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+x$26821	p_nx.o	Sys/NGC	heuristic	4	cf	1
+x$27332	p_nx.o	Sys/NGC	heuristic	4	cR	1
+x$27402	p_nx.o	Sys/NGC	heuristic	4	cD	1
+y$26824	p_nx.o	Sys/NGC	heuristic	4	cf	1
+y$27335	p_nx.o	Sys/NGC	heuristic	4	cR	1
+y$27405	p_nx.o	Sys/NGC	heuristic	4	cD	1
+z$27408	p_nx.o	Sys/NGC	heuristic	4	cD	1
+FogData	p_nxfog.o	Sys/NGC	heuristic	28	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxfog.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxlight.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxloadscreen.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+cachedScreen$22749	p_nxloadscreen.o	Sys/NGC	heuristic	4	cf	1
+cachedScreen$23174	p_nxloadscreen.o	Sys/NGC	heuristic	4	cR	1
+cachedScreen$23248	p_nxloadscreen.o	Sys/NGC	heuristic	4	cD	1
+gLoadBarBorderColor	p_nxloadscreen.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+gLoadBarDeltaColor	p_nxloadscreen.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+gLoadBarNumFrames	p_nxloadscreen.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+gLoadBarStartColor	p_nxloadscreen.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+gLoadBarTotalFrames	p_nxloadscreen.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxmodel.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+test_root_matrix	p_nxmodel.o	Sys/NGC	heuristic	64	cD	1
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxnewparticle.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+g_pRotatedVectorTable	p_nxparticle.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+g_pRotatedVectorTable3D	p_nxparticle.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxparticleflat.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+quad_uvindex_lookup_table	p_nxparticleflat.o	Sys/NGC	heuristic	256	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxprim.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxscene.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+TLUT$29897	p_nxscreeneffects.o	Sys/NGC	heuristic	512	cf	1
+TLUT$30447	p_nxscreeneffects.o	Sys/NGC	heuristic	512	cR	1
+bloom_vars	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+blurSpeedfactor$29688	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cf	1
+blurSpeedfactor$30033	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cD	1
+blurSpeedfactor$30236	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cR	1
+blur_speed_factor_last_frame	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+cam	p_nxscreeneffects.o	Sys/NGC	heuristic	272	cf+cD+cR	3
+constant_offset_table	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+depth_of_field_vars	p_nxscreeneffects.o	Sys/NGC	heuristic	28	cf+cD+cR	3
+filterDelay$29686	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cf	1
+filterDelay$30031	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cD	1
+filterDelay$30234	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cR	1
+initBlurMark$29687	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cf	1
+initBlurMark$30032	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cD	1
+initBlurMark$30235	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cR	1
+k_table	p_nxscreeneffects.o	Sys/NGC	heuristic	28	cf+cD+cR	3
+lUOffset$30232	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cf	1
+lUOffset$30302	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cf	1
+lUOffset$30630	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cD	1
+lUOffset$30784	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cR	1
+lUOffset$30854	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cR	1
+lVOffset$30233	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cf	1
+lVOffset$30303	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cf	1
+lVOffset$30631	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cD	1
+lVOffset$30785	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cR	1
+lVOffset$30855	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cR	1
+offset0	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+offset1	p_nxscreeneffects.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+offset_table	p_nxscreeneffects.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+posterise_vars	p_nxscreeneffects.o	Sys/NGC	heuristic	536	cf+cD+cR	3
+shadow_vars	p_nxscreeneffects.o	Sys/NGC	heuristic	20	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxscreenflash.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxsector.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+dummy$23684	p_nxsector.o	Sys/NGC	heuristic	32	cf	1
+dummy$24118	p_nxsector.o	Sys/NGC	heuristic	32	cR	1
+dummy$24166	p_nxsector.o	Sys/NGC	heuristic	32	cD	1
+tmp$23703	p_nxsector.o	Sys/NGC	heuristic	16	cf	1
+tmp$24137	p_nxsector.o	Sys/NGC	heuristic	16	cR	1
+tmp$24185	p_nxsector.o	Sys/NGC	heuristic	16	cD	1
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxshatter.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+shatterColorModulate	p_nxshatter.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxsplat.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+splatColorModulate	p_nxsplat.o	Sys/NGC	heuristic	16	cf+cD+cR	3
+splat_mat	p_nxsplat.o	Sys/NGC	heuristic	32	cf+cD+cR	3
+splat_pass	p_nxsplat.o	Sys/NGC	heuristic	44	cf+cD+cR	3
+sPlatParams	p_nxstartup.o	Sys/NGC	heuristic	28	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxtexproj.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+s_TexProjIndex	p_nxtexproj.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+s_TexProjInstances	p_nxtexproj.o	Sys/NGC	heuristic	49192	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxtexture.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+WiiConversionFactorTable	p_nxtexture.o	Sys/NGC	heuristic	64	cf+cD+cR	3
+__FUNCTION	p_nxtexture.o	Sys/NGC	heuristic	26	cD+cR	2
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_nxtopology.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+AudioBuffer	p_sfx.o	Sys/NGC	heuristic	320	cf+cD+cR	3
+GAMECUBE_END_DSP_DATA_ADDR	p_sfx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GAMECUBE_START_DSP_DATA_ADDR	p_sfx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_ARAM_BASE	p_sfx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+GLOBAL_ARAM_SIZE	p_sfx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+SpeakerAlarm	p_sfx.o	Sys/NGC	heuristic	48	cf+cD+cR	3
+last_sensitivity_check	p_sfx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+nTotalOver$23106	p_sfx.o	Sys/NGC	heuristic	4	cR	1
+nTotalOver$23153	p_sfx.o	Sys/NGC	heuristic	4	cD	1
+reserved_aram	p_sfx.o	Sys/NGC	heuristic	4	cf+cD+cR	3
+voices	p_sfx.o	Sys/NGC	heuristic	9216	cf+cD+cR	3
+AX.o - __init		unknown	unknown	4	cf+cD+cR	3
+AXAlloc.o - __AXCallbackStack		unknown	unknown	4	cf+cD+cR	3
+AXAlloc.o - __AXStackHead		unknown	unknown	128	cf+cD+cR	3
+AXAlloc.o - __AXStackTail		unknown	unknown	128	cf+cD+cR	3
+AXAux.o - __AXAuxADspRead		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxADspWrite		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxBDspRead		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxBDspWrite		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxCDspRead		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxCDspWrite		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxCpuReadWritePosition		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxDspReadPosition		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXAuxDspWritePosition		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXBufferAuxA		unknown	unknown	4608	cf+cD+cR	3
+AXAux.o - __AXBufferAuxB		unknown	unknown	4608	cf+cD+cR	3
+AXAux.o - __AXBufferAuxC		unknown	unknown	3456	cf+cD+cR	3
+AXAux.o - __AXCallbackAuxA		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXCallbackAuxB		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXCallbackAuxC		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXContextAuxA		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXContextAuxB		unknown	unknown	4	cf+cD+cR	3
+AXAux.o - __AXContextAuxC		unknown	unknown	4	cf+cD+cR	3
+AXCL.o - __AXClMode		unknown	unknown	4	cf+cD+cR	3
+AXCL.o - __AXClWrite		unknown	unknown	4	cf+cD+cR	3
+AXCL.o - __AXCommandList		unknown	unknown	256	cf+cD+cR	3
+AXCL.o - __AXCommandListCycles		unknown	unknown	4	cf+cD+cR	3
+AXCL.o - __AXCommandListPosition		unknown	unknown	4	cf+cD+cR	3
+AXCL.o - __AXCompressor		unknown	unknown	4	cf+cD+cR	3
+AXComp.o - __AXCompressorTable		unknown	unknown	4032	cf+cD+cR	3
+AXFXReverbHiExp.o - __EarlyCoefTable		unknown	unknown	96	cf+cD+cR	3
+AXFXReverbHiExp.o - __EarlySizeTable		unknown	unknown	96	cf+cD+cR	3
+AXFXReverbHiExp.o - __FilterSizeTable		unknown	unknown	224	cf+cD+cR	3
+AXOut.o - __AXAiDmaFrame		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXDSPDoneFlag		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXDSPInitFlag		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXDSPTask		unknown	unknown	80	cf+cD+cR	3
+AXOut.o - __AXDebugSteppingMode		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXDramImage		unknown	unknown	64	cf+cD+cR	3
+AXOut.o - __AXExceedCallback		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXLocalProfile		unknown	unknown	56	cf+cD+cR	3
+AXOut.o - __AXOutBuffer		unknown	unknown	1152	cf+cD+cR	3
+AXOut.o - __AXOutDspReady		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXOutFrame		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXOutSBuffer		unknown	unknown	768	cf+cD+cR	3
+AXOut.o - __AXOutThreadQueue		unknown	unknown	8	cf+cD+cR	3
+AXOut.o - __AXOutputBufferMode		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXRmtBuffLen		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXRmtCpuPtr		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXRmtDspPtr		unknown	unknown	4	cf+cD+cR	3
+AXOut.o - __AXRmtOutBuffer		unknown	unknown	1440	cf+cD+cR	3
+AXOut.o - __AXUserFrameCallback		unknown	unknown	4	cf+cD+cR	3
+AXProf.o - __AXCurrentProfile		unknown	unknown	4	cf+cD+cR	3
+AXProf.o - __AXMaxProfiles		unknown	unknown	4	cf+cD+cR	3
+AXProf.o - __AXProfile		unknown	unknown	4	cf+cD+cR	3
+AXProf.o - __AXProfileInitialized		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAAL		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAAR		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAAS		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbABL		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbABR		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbABS		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbACL		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbACR		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbACS		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAL		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAR		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAS		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAux0		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAux1		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAux2		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbAux3		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbMain0		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbMain1		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbMain2		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXSpbMain3		unknown	unknown	4	cf+cD+cR	3
+AXSPB.o - __AXStudio		unknown	unknown	120	cf+cD+cR	3
+AXVPB.o - __AXITD		unknown	unknown	4	cf+cD+cR	3
+AXVPB.o - __AXMaxDspCycles		unknown	unknown	4	cf+cD+cR	3
+AXVPB.o - __AXMaxVoices		unknown	unknown	4	cf+cD+cR	3
+AXVPB.o - __AXMixCycles		unknown	unknown	128	cf+cD+cR	3
+AXVPB.o - __AXNumVoices		unknown	unknown	4	cf+cD+cR	3
+AXVPB.o - __AXPB		unknown	unknown	4	cf+cD+cR	3
+AXVPB.o - __AXRecDspCycles		unknown	unknown	4	cf+cD+cR	3
+AXVPB.o - __AXRmtMixCycles		unknown	unknown	16	cf+cD+cR	3
+AXVPB.o - __AXVPB		unknown	unknown	4	cf+cD+cR	3
+AXVPB.o - __s_AXITD		unknown	unknown	6144	cf+cD+cR	3
+AXVPB.o - __s_AXPB		unknown	unknown	30720	cf+cD+cR	3
+AXVPB.o - __s_AXVPB		unknown	unknown	34560	cf+cD+cR	3
+DSPCode.o - axDspSlave		unknown	unknown	8192	cf+cD+cR	3
+DebuggerDriver.o - __DBDbgCallback		unknown	unknown	4	cf+cD+cR	3
+DebuggerDriver.o - __DBMtrCallback		unknown	unknown	4	cf+cD+cR	3
+DebuggerDriver.o - __DBRecvDataSize		unknown	unknown	4	cf+cD+cR	3
+DebuggerDriver.o - __DBRecvMail		unknown	unknown	4	cf+cD+cR	3
+EXIBios.o - Ecb		unknown	unknown	192	cf+cD+cR	3
+EXIBios.o - IDSerialPort1		unknown	unknown	4	cf+cD+cR	3
+EXIUart.o - BarnacleEnabled		unknown	unknown	4	cf+cD+cR	3
+EXIUart.o - Chan		unknown	unknown	4	cf+cD+cR	3
+EXIUart.o - Dev		unknown	unknown	4	cf+cD+cR	3
+EXIUart.o - Enabled		unknown	unknown	4	cf+cD+cR	3
+GDBase.o - __GDCurrentDL		unknown	unknown	4	cf+cD+cR	3
+GDBase.o - overflowcb		unknown	unknown	4	cf+cD+cR	3
+GXFifo.o - BreakPointCB		unknown	unknown	4	cf+cD+cR	3
+GXFifo.o - CPUFifo		unknown	unknown	36	cf+cD+cR	3
+GXFifo.o - GPFifo		unknown	unknown	36	cf+cD+cR	3
+GXFifo.o - GXOverflowSuspendInProgress		unknown	unknown	4	cf+cD+cR	3
+GXFifo.o - __GXCurrentBP		unknown	unknown	4	cf+cD+cR	3
+GXFifo.o - __GXCurrentThread		unknown	unknown	4	cf+cD+cR	3
+GXFifo.o - __GXOverflowCount		unknown	unknown	4	cf+cD+cR	3
+GXFrameBuf.o - GXEurgb60Hz240Ds		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz240DsAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz240Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz240IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz480Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz480IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz480IntDf		unknown	unknown	60	cf+cD+cR	3
+GXFrameBuf.o - GXEurgb60Hz480Prog		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz480ProgAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXEurgb60Hz480ProgSoft		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal240Ds		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal240DsAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal240Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal240IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal480Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal480IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal480IntDf		unknown	unknown	60	cf+cD+cR	3
+GXFrameBuf.o - GXMpal480Prog		unknown	unknown	60	cf+cD+cR	3
+GXFrameBuf.o - GXMpal480ProgAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXMpal480ProgSoft		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc240Ds		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc240DsAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc240Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc240IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc480Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc480IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc480IntDf		unknown	unknown	60	cf+cD+cR	3
+GXFrameBuf.o - GXNtsc480Prog		unknown	unknown	60	cf+cD+cR	3
+GXFrameBuf.o - GXNtsc480ProgAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXNtsc480ProgSoft		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXPal264Ds		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXPal264DsAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXPal264Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXPal264IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXPal524IntAa		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXPal528Int		unknown	unknown	60	cD	1
+GXFrameBuf.o - GXPal528IntDf		unknown	unknown	60	cf+cD+cR	3
+GXFrameBuf.o - GXRmHW		unknown	unknown	60	cD	1
+GXInit.o - DefaultTexData		unknown	unknown	32	cf+cD+cR	3
+GXInit.o - FifoObj		unknown	unknown	128	cf+cD+cR	3
+GXInit.o - GXDefaultProjData		unknown	unknown	28	cf+cD+cR	3
+GXInit.o - GXDefaultVATList		unknown	unknown	208	cf+cD+cR	3
+GXInit.o - GXShutdownFuncInfo		unknown	unknown	16	cf+cD+cR	3
+GXInit.o - GXTexRegionAddrTable		unknown	unknown	192	cf+cD+cR	3
+GXInit.o - __cpReg		unknown	unknown	4	cf+cD+cR	3
+GXInit.o - __memReg		unknown	unknown	4	cf+cD+cR	3
+GXInit.o - __peReg		unknown	unknown	4	cf+cD+cR	3
+GXInit.o - __piReg		unknown	unknown	4	cf+cD+cR	3
+GXInit.o - calledOnce$2128		unknown	unknown	4	cD	1
+GXInit.o - calledOnce$2236		unknown	unknown	4	cf+cR	2
+GXInit.o - gxData		unknown	unknown	1536	cf+cD+cR	3
+GXInit.o - peCount$2126		unknown	unknown	4	cD	1
+GXInit.o - peCount$2234		unknown	unknown	4	cf+cR	2
+GXInit.o - shutdownFuncRegistered$2238		unknown	unknown	4	cD	1
+GXInit.o - shutdownFuncRegistered$2322		unknown	unknown	4	cf+cR	2
+GXInit.o - time$2127		unknown	unknown	8	cD	1
+GXInit.o - time$2235		unknown	unknown	8	cf+cR	2
+GXMisc.o - DrawDoneCB		unknown	unknown	4	cf+cD+cR	3
+GXMisc.o - FinishQueue		unknown	unknown	8	cf+cD+cR	3
+GXMisc.o - TokenCB		unknown	unknown	4	cf+cD+cR	3
+GXPixel.o - p2f$2645		unknown	unknown	32	cD	1
+GXPixel.o - p2f$2915		unknown	unknown	32	cf+cR	2
+GXSave.o - bytesRead		unknown	unknown	4	cD	1
+GXSave.o - clrCompSize		unknown	unknown	24	cD	1
+GXSave.o - dlist		unknown	unknown	4	cD	1
+GXSave.o - dlistSize		unknown	unknown	4	cD	1
+GXSave.o - vtxCompSize		unknown	unknown	20	cD	1
+GXTev.o - TEVAOpTableST0		unknown	unknown	20	cf+cD+cR	3
+GXTev.o - TEVAOpTableST1		unknown	unknown	20	cf+cD+cR	3
+GXTev.o - TEVCOpTableST0		unknown	unknown	20	cf+cD+cR	3
+GXTev.o - TEVCOpTableST1		unknown	unknown	20	cf+cD+cR	3
+GXTev.o - c2r$2562		unknown	unknown	36	cf+cR	2
+GXTev.o - c2r$2926		unknown	unknown	36	cD	1
+GXVerifRAS.o - TevRegNames		unknown	unknown	32	cD	1
+GXVerifXF.o - DumpCount		unknown	unknown	4	cD	1
+GXVerifXF.o - MtxIdxEnums		unknown	unknown	36	cD	1
+GXVerifXF.o - TextureEnums		unknown	unknown	32	cD	1
+GXVerifXF.o - lightRegisterNames		unknown	unknown	3328	cD	1
+GXVerifXF.o - numBumpmapTextures		unknown	unknown	4	cD	1
+GXVerifXF.o - numColor0Textures		unknown	unknown	4	cD	1
+GXVerifXF.o - numColor1Textures		unknown	unknown	4	cD	1
+GXVerifXF.o - numColorTextures		unknown	unknown	4	cD	1
+GXVerifXF.o - numRegularTextures		unknown	unknown	4	cD	1
+GXVerify.o - __gxVerifData		unknown	unknown	5112	cD	1
+GXVerify.o - __gxvDummyStr		unknown	unknown	256	cD	1
+GXVerify.o - __gxvWarnLev		unknown	unknown	504	cD	1
+GXVerify.o - __gxvWarnings		unknown	unknown	504	cD	1
+Gecko_ExceptionPPC.o - fragmentinfo		unknown	unknown	12	cf+cD+cR	3
+HBMBase.o - sAllocator		unknown	unknown	16	cf+cD+cR	3
+HBMBase.o - sAllocator2		unknown	unknown	16	cf+cD+cR	3
+HBMBase.o - sMutex		unknown	unknown	24	cf+cD+cR	3
+HBMBase.o - scAnimName		unknown	unknown	12	cf+cD+cR	3
+HBMBase.o - scAnmTable		unknown	unknown	96	cf+cD+cR	3
+HBMBase.o - scBatteryPaneName		unknown	unknown	64	cf+cD+cR	3
+HBMBase.o - scBtnName		unknown	unknown	16	cf+cD+cR	3
+HBMBase.o - scCursorLytName		unknown	unknown	16	cf+cD+cR	3
+HBMBase.o - scFuncPaneName		unknown	unknown	20	cf+cD+cR	3
+HBMBase.o - scFuncTextPaneName		unknown	unknown	12	cf+cD+cR	3
+HBMBase.o - scFuncTouchPaneName		unknown	unknown	40	cf+cD+cR	3
+HBMBase.o - scGrName		unknown	unknown	32	cf+cD+cR	3
+HBMBase.o - scGroupAnimName		unknown	unknown	88	cf+cD+cR	3
+HBMBase.o - scGroupAnmTable		unknown	unknown	592	cf+cD+cR	3
+HBMBase.o - scGroupName		unknown	unknown	140	cf+cD+cR	3
+HBMBase.o - scPairGroupAnimName		unknown	unknown	60	cf+cD+cR	3
+HBMBase.o - scPairGroupName		unknown	unknown	60	cf+cD+cR	3
+HBMBase.o - scTxtName		unknown	unknown	16	cf+cD+cR	3
+HBMBase.o - spHomeButtonObj		unknown	unknown	4	cf+cD+cR	3
+HBMController.o - sAlarm		unknown	unknown	192	cf+cD+cR	3
+HBMController.o - sAlarmSoundOff		unknown	unknown	192	cf+cD+cR	3
+HBMController.o - sBatteryFlag		unknown	unknown	4	cf+cD+cR	3
+HBMController.o - sThis		unknown	unknown	16	cf+cD+cR	3
+HBMGUIManager.o - suIDCounter		unknown	unknown	4	cf+cD+cR	3
+HBMRemoteSpk.o - spInstance		unknown	unknown	4	cf+cD+cR	3
+KPAD.o - Vec2_0		unknown	unknown	8	cf+cD+cR	3
+KPAD.o - icenter_org		unknown	unknown	8	cf+cD+cR	3
+KPAD.o - inside_kpads		unknown	unknown	5264	cf+cD+cR	3
+KPAD.o - kp_dist_vv1		unknown	unknown	4	cf+cD+cR	3
+KPAD.o - kp_err_dist_min		unknown	unknown	4	cf+cD+cR	3
+KPAD.o - kp_stick_clamp_cross		unknown	unknown	4	cf+cD+cR	3
+KPAD.o - table$3302		unknown	unknown	12	cD	1
+KPAD.o - table$3635		unknown	unknown	12	cf+cR	2
+M4BitstreamParser.obj - _17M4BitstreamParser.mDefaultInterMatrix		unknown	unknown	64	cf+cD+cR	3
+M4BitstreamParser.obj - _17M4BitstreamParser.mDefaultIntraMatrix		unknown	unknown	64	cf+cD+cR	3
+M4BitstreamParser.obj - _17M4BitstreamParser.mIntraDCThresholdTable		unknown	unknown	32	cf+cD+cR	3
+M4BitstreamParser.obj - _17M4BitstreamParser.mScanTableInput		unknown	unknown	192	cf+cD+cR	3
+M4Decoder.obj - _9M4Decoder.deltaBottom		unknown	unknown	32	cf+cD+cR	3
+M4Decoder.obj - _9M4Decoder.deltaTop		unknown	unknown	32	cf+cD+cR	3
+M4Decoder.obj - _9M4Decoder.mDequantTable		unknown	unknown	16	cf+cD+cR	3
+M4Decoder.obj - _9M4Decoder.mID		unknown	unknown	30	cf+cD+cR	3
+M4Decoder.obj - _9M4Decoder.mRoundtab		unknown	unknown	64	cf+cD+cR	3
+M4Prediction.obj - _12M4Prediction.mDefaultACDCValues		unknown	unknown	30	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mDCLumTab		unknown	unknown	32	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mMaxLevel		unknown	unknown	256	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mMaxRun		unknown	unknown	1024	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabCbpCInter		unknown	unknown	1028	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabCbpCIntra		unknown	unknown	256	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabCbpY		unknown	unknown	256	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabDCT3D0		unknown	unknown	448	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabDCT3D1		unknown	unknown	384	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabDCT3D2		unknown	unknown	480	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabDCT3D3		unknown	unknown	448	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabDCT3D4		unknown	unknown	384	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabDCT3D5		unknown	unknown	480	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabTMNMV0		unknown	unknown	56	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabTMNMV1		unknown	unknown	384	cf+cD+cR	3
+M4VlcDecoder.obj - _12M4VlcDecoder.mTabTMNMV2		unknown	unknown	496	cf+cD+cR	3
+NANDCheck.o - USER_DIR_LIST		unknown	unknown	44	cf+cD+cR	3
+NANDCheck.o - __FUNCTION		unknown	unknown	21	cf+cD+cR	3
+NANDCore.o - __FUNCTION		unknown	unknown	15	cD	4
+NANDCore.o - s_currentDir		unknown	unknown	64	cf+cD+cR	3
+NANDCore.o - s_homeDir		unknown	unknown	64	cf+cD+cR	3
+NANDCore.o - s_libState		unknown	unknown	4	cf+cD+cR	3
+NANDCore.o - s_shutdownFuncInfo		unknown	unknown	16	cf+cD+cR	3
+NewMore.o - __new_handler		unknown	unknown	4	cf+cD+cR	3
+OS.o - AreWeInitialized		unknown	unknown	4	cf+cD+cR	3
+OS.o - BI2DebugFlag		unknown	unknown	4	cf+cD+cR	3
+OS.o - BI2DebugFlagHolder		unknown	unknown	4	cf+cD+cR	3
+OS.o - BootInfo		unknown	unknown	4	cf+cD+cR	3
+OS.o - DriveBlock		unknown	unknown	48	cf+cD+cR	3
+OS.o - DriveInfo		unknown	unknown	32	cf+cD+cR	3
+OS.o - GameNameBuffer		unknown	unknown	5	cf+cD+cR	3
+OS.o - OSExceptionTable		unknown	unknown	4	cf+cD+cR	3
+OS.o - ZeroF		unknown	unknown	8	cf+cD+cR	3
+OS.o - ZeroPS		unknown	unknown	8	cf+cD+cR	3
+OS.o - __OSExceptionLocations		unknown	unknown	60	cf+cD+cR	3
+OS.o - __OSExceptionNames		unknown	unknown	68	cD	1
+OS.o - __OSInIPL		unknown	unknown	4	cf+cD+cR	3
+OS.o - __OSInNandBoot		unknown	unknown	4	cf+cD+cR	3
+OS.o - __OSIsGcam		unknown	unknown	4	cf+cD+cR	3
+OS.o - __OSRebootParams		unknown	unknown	28	cf+cD+cR	3
+OS.o - __OSStartTime		unknown	unknown	8	cf+cD+cR	3
+OSAlarm.o - AlarmQueue		unknown	unknown	8	cf+cD+cR	3
+OSAlarm.o - ShutdownFunctionInfo		unknown	unknown	16	cf+cD+cR	3
+OSAlarm.o - __FUNCTION		unknown	unknown	19	cD	2
+OSAlloc.o - ArenaEnd		unknown	unknown	4	cf+cD+cR	3
+OSAlloc.o - ArenaStart		unknown	unknown	4	cf+cD+cR	3
+OSAlloc.o - HeapArray		unknown	unknown	4	cf+cD+cR	3
+OSAlloc.o - NumHeaps		unknown	unknown	4	cf+cD+cR	3
+OSArena.o - __OSArenaHi		unknown	unknown	4	cf+cD+cR	3
+OSArena.o - s_mem2ArenaHi		unknown	unknown	4	cf+cD+cR	3
+OSAudioSystem.o - DSPInitCode		unknown	unknown	128	cf+cD+cR	3
+OSError.o - __OSErrorTable		unknown	unknown	68	cf+cD+cR	3
+OSExec.o - DVDLowIntType		unknown	unknown	4	cf+cD+cR	3
+OSExec.o - Prepared		unknown	unknown	4	cf+cD+cR	3
+OSExec.o - __OSInReboot		unknown	unknown	4	cf+cD+cR	3
+OSExec.o - apploaderPosition$742		unknown	unknown	4	cf+cR	2
+OSExec.o - apploaderPosition$759		unknown	unknown	4	cD	1
+OSExec.o - bootGameInfo		unknown	unknown	4	cf+cD+cR	3
+OSExec.o - gameToc		unknown	unknown	4	cf+cD+cR	3
+OSExec.o - gameTocBuffer		unknown	unknown	32	cf+cD+cR	3
+OSExec.o - id		unknown	unknown	32	cf+cD+cR	3
+OSExec.o - partInfo		unknown	unknown	4	cf+cD+cR	3
+OSExec.o - partInfoBuffer		unknown	unknown	32	cf+cD+cR	3
+OSExec.o - tmd		unknown	unknown	4	cf+cD+cR	3
+OSExec.o - tmdBuffer		unknown	unknown	18944	cf+cD+cR	3
+OSExec.o - views		unknown	unknown	48384	cf+cD+cR	3
+OSFatal.o - FatalContext		unknown	unknown	712	cf+cD+cR	3
+OSFatal.o - FatalParam		unknown	unknown	12	cf+cD+cR	3
+OSFont.o - FixedPitch		unknown	unknown	4	cf+cD+cR	3
+OSFont.o - FontDataAnsi		unknown	unknown	4	cf+cD+cR	3
+OSFont.o - FontDataSjis		unknown	unknown	4	cf+cD+cR	3
+OSFont.o - HankakuToCode		unknown	unknown	384	cf+cD+cR	3
+OSFont.o - ParseString		unknown	unknown	4	cf+cD+cR	3
+OSFont.o - Zenkaku2Code		unknown	unknown	2442	cf+cD+cR	3
+OSInterrupt.o - InterruptHandlerTable		unknown	unknown	4	cf+cD+cR	3
+OSInterrupt.o - InterruptPrioTable		unknown	unknown	48	cf+cD+cR	3
+OSInterrupt.o - __OSInterruptNames		unknown	unknown	132	cD	1
+OSInterrupt.o - __OSLastInterruptSrr0		unknown	unknown	4	cf+cD+cR	3
+OSInterrupt.o - __OSLastInterruptTime		unknown	unknown	8	cf+cD+cR	3
+OSInterrupt.o - __OSPIErrors		unknown	unknown	32	cD	1
+OSInterrupt.o - __OSSpuriousInterrupts		unknown	unknown	8	cD	1
+OSIpc.o - IpcBufferHi		unknown	unknown	4	cf+cD+cR	3
+OSMemory.o - ShutdownFunctionInfo		unknown	unknown	16	cf+cD+cR	3
+OSNet.o - NWC24iIsRequestPending		unknown	unknown	4	cf+cD+cR	3
+OSNet.o - ShutdownFuncInfo		unknown	unknown	16	cf+cD+cR	3
+OSNet.o - __FUNCTION		unknown	unknown	22	cf+cD+cR	15
+OSNet.o - nwc24ShtRetryRest		unknown	unknown	4	cf+cD+cR	3
+OSNet.o - nwc24TimeCommonBuffer		unknown	unknown	32	cf+cD+cR	3
+OSNet.o - nwc24TimeCommonResult		unknown	unknown	32	cf+cD+cR	3
+OSNet.o - result$721		unknown	unknown	4	cf+cR	2
+OSNet.o - result$732		unknown	unknown	4	cD	1
+OSNet.o - shtBuffer$713		unknown	unknown	32	cf+cR	2
+OSNet.o - shtBuffer$723		unknown	unknown	32	cD	1
+OSNet.o - shtResult$714		unknown	unknown	32	cf+cR	2
+OSNet.o - shtResult$724		unknown	unknown	32	cD	1
+OSNet.o - shuttingdown$720		unknown	unknown	4	cf+cR	2
+OSNet.o - shuttingdown$731		unknown	unknown	4	cD	1
+OSNet.o - susResult$679		unknown	unknown	32	cf+cR	2
+OSNet.o - susResult$687		unknown	unknown	32	cD	1
+OSNet.o - whenCached$667		unknown	unknown	8	cf+cR	2
+OSNet.o - whenCached$674		unknown	unknown	8	cD	1
+OSPlayRecord.o - Block		unknown	unknown	184	cf+cD+cR	3
+OSPlayRecord.o - FileInfo		unknown	unknown	140	cf+cD+cR	3
+OSPlayRecord.o - PlayRecord		unknown	unknown	128	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordAlarm		unknown	unknown	48	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordError		unknown	unknown	4	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordGet		unknown	unknown	4	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordLastCloseTime		unknown	unknown	8	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordLastError		unknown	unknown	4	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordRetry		unknown	unknown	4	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordTerminate		unknown	unknown	4	cf+cD+cR	3
+OSPlayRecord.o - PlayRecordTerminated		unknown	unknown	4	cf+cD+cR	3
+OSReboot.o - SaveEnd		unknown	unknown	4	cf+cD+cR	3
+OSReboot.o - SaveStart		unknown	unknown	4	cf+cD+cR	3
+OSReset.o - ShutdownFunctionQueue		unknown	unknown	8	cf+cD+cR	3
+OSReset.o - bootThisDol		unknown	unknown	4	cf+cD+cR	3
+OSRtc.o - Scb		unknown	unknown	84	cf+cD+cR	3
+OSStateFlags.o - StateFlags		unknown	unknown	32	cf+cD+cR	3
+OSStateTM.o - PowerCallback		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - ResetCallback		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - ResetDown		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - StmEhDesc		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - StmEhInBuf		unknown	unknown	32	cf+cD+cR	3
+OSStateTM.o - StmEhOutBuf		unknown	unknown	32	cf+cD+cR	3
+OSStateTM.o - StmEhRegistered		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - StmImDesc		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - StmImInBuf		unknown	unknown	32	cf+cD+cR	3
+OSStateTM.o - StmImOutBuf		unknown	unknown	32	cf+cD+cR	3
+OSStateTM.o - StmReady		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - StmVdInBuf		unknown	unknown	32	cf+cD+cR	3
+OSStateTM.o - StmVdInUse		unknown	unknown	4	cf+cD+cR	3
+OSStateTM.o - StmVdOutBuf		unknown	unknown	32	cf+cD+cR	3
+OSThread.o - DefaultThread		unknown	unknown	792	cf+cD+cR	3
+OSThread.o - IdleContext		unknown	unknown	712	cf+cD+cR	3
+OSThread.o - IdleThread		unknown	unknown	792	cf+cR	2
+OSThread.o - Reschedule		unknown	unknown	4	cf+cD+cR	3
+OSThread.o - RunQueue		unknown	unknown	256	cf+cD+cR	3
+OSThread.o - RunQueueBits		unknown	unknown	4	cf+cD+cR	3
+OSThread.o - RunQueueHint		unknown	unknown	4	cf+cD+cR	3
+OSTime.o - LeapYearDays		unknown	unknown	48	cf+cD+cR	3
+OSTime.o - YearDays		unknown	unknown	48	cf+cD+cR	3
+OSUtf.o - Ucs00		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs03		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs04		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs20		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs21		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs22		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs23		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs25		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs26		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs30		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs4E		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs4F		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs50		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs51		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs52		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs53		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs54		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs55		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs56		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs57		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs58		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs59		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs5A		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs5B		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs5C		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs5D		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs5E		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs5F		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs60		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs61		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs62		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs63		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs64		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs65		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs66		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs67		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs68		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs69		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs6A		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs6B		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs6C		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs6D		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs6E		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs6F		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs70		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs71		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs72		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs73		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs74		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs75		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs76		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs77		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs78		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs79		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs7A		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs7B		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs7C		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs7D		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs7E		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs7F		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs80		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs81		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs82		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs83		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs84		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs85		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs86		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs87		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs88		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs89		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs8A		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs8B		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs8C		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs8D		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs8E		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs8F		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs90		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs91		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs92		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs93		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs94		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs95		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs96		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs97		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs98		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs99		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs9A		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs9B		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs9C		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs9D		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs9E		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - Ucs9F		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - UcsAnsiTable		unknown	unknown	64	cf+cD+cR	3
+OSUtf.o - UcsFF		unknown	unknown	512	cf+cD+cR	3
+OSUtf.o - UcsSjisTable		unknown	unknown	1024	cf+cD+cR	3
+Pad.o - __PADSpec		unknown	unknown	4	cf+cD+cR	3
+SIBios.o - Alarm		unknown	unknown	192	cf+cD+cR	3
+SIBios.o - Initialized$694		unknown	unknown	4	cf+cR	2
+SIBios.o - Initialized$723		unknown	unknown	4	cD	1
+SIBios.o - InputBuffer		unknown	unknown	32	cf+cD+cR	3
+SIBios.o - InputBufferValid		unknown	unknown	16	cf+cD+cR	3
+SIBios.o - InputBufferVcount		unknown	unknown	16	cf+cD+cR	3
+SIBios.o - Packet		unknown	unknown	128	cf+cD+cR	3
+SIBios.o - RDSTHandler		unknown	unknown	16	cf+cD+cR	3
+SIBios.o - Si		unknown	unknown	20	cf+cD+cR	3
+SIBios.o - Type		unknown	unknown	16	cf+cD+cR	3
+SIBios.o - TypeCallback		unknown	unknown	64	cf+cD+cR	3
+SIBios.o - TypeTime		unknown	unknown	32	cf+cD+cR	3
+SIBios.o - XferTime		unknown	unknown	32	cf+cD+cR	3
+SIBios.o - __PADFixBits		unknown	unknown	4	cf+cD+cR	3
+SIBios.o - cmdFixDevice$1027		unknown	unknown	16	cD	1
+SIBios.o - cmdFixDevice$850		unknown	unknown	16	cf+cR	2
+SIBios.o - cmdTypeAndStatus$1069		unknown	unknown	4	cD	1
+SIBios.o - cmdTypeAndStatus$598		unknown	unknown	4	cf+cR	2
+SIBios.o - cmdTypeAndStatus$610		unknown	unknown	4	cD	1
+SIBios.o - cmdTypeAndStatus$877		unknown	unknown	4	cf+cR	2
+SISamplingRate.o - SamplingRate		unknown	unknown	4	cf+cD+cR	3
+SISamplingRate.o - XYNTSC		unknown	unknown	48	cf+cD+cR	3
+SISamplingRate.o - XYPAL		unknown	unknown	48	cf+cD+cR	3
+VAUDall.obj - _4VAUD.COS_LOOKUP		unknown	unknown	516	cf+cD+cR	3
+VAUDall.obj - _4VAUD.FLOOR1_fromdB_LOOKUP		unknown	unknown	1024	cf+cD+cR	3
+VAUDall.obj - _4VAUD.FROMdB2_LOOKUP		unknown	unknown	128	cf+cD+cR	3
+VAUDall.obj - _4VAUD.FROMdB_LOOKUP		unknown	unknown	140	cf+cD+cR	3
+VAUDall.obj - _4VAUD.INVSQ2EXP_LOOKUP		unknown	unknown	260	cf+cD+cR	3
+VAUDall.obj - _4VAUD.INVSQ_LOOKUP		unknown	unknown	132	cf+cD+cR	3
+WPAD.o - ShutdownFunctionInfo		unknown	unknown	16	cf+cD+cR	3
+WPAD.o - __WPADiManageHandlerStack		unknown	unknown	4096	cf+cD+cR	3
+WPAD.o - _chan_active_state		unknown	unknown	4	cf+cD+cR	3
+WPAD.o - _dev_handle_index		unknown	unknown	16	cf+cD+cR	3
+WPAD.o - _diskId		unknown	unknown	32	cf+cD+cR	3
+WPAD.o - _dummyAttach		unknown	unknown	4	cD	1
+WPAD.o - _extCnt		unknown	unknown	4	cf+cD+cR	3
+WPAD.o - _gameTitle		unknown	unknown	34	cf+cD+cR	3
+WPAD.o - _gamecode		unknown	unknown	4	cf+cD+cR	3
+WPAD.o - _infRes		unknown	unknown	4	cD+cR	2
+WPAD.o - _initialized		unknown	unknown	4	cf+cD+cR	3
+WPAD.o - _managerAlarm		unknown	unknown	48	cf+cD+cR	3
+WPAD.o - _rumble		unknown	unknown	4	cf+cD+cR	3
+WPAD.o - _rumbleCnt		unknown	unknown	4	cf+cD+cR	3
+WPAD.o - _wpd		unknown	unknown	9856	cf+cD+cR	3
+WPAD.o - _wpdcb		unknown	unknown	16	cf+cD+cR	3
+WPAD.o - cfg1$3365		unknown	unknown	45	cf+cR	2
+WPAD.o - cfg1$3453		unknown	unknown	45	cD	1
+WPAD.o - cfg2$3366		unknown	unknown	10	cf+cR	2
+WPAD.o - cfg2$3454		unknown	unknown	10	cD	1
+WPADEncrypt.o - base		unknown	unknown	42	cf+cD+cR	3
+WPADEncrypt.o - base3		unknown	unknown	42	cf+cD+cR	3
+WPADEncrypt.o - tb		unknown	unknown	2304	cf+cD+cR	3
+WPADEncrypt.o - tb3		unknown	unknown	2304	cf+cD+cR	3
+WPADHIDParser.o - __a1_input_reports_array		unknown	unknown	128	cf+cD+cR	3
+WPADHIDParser.o - _devMode		unknown	unknown	4	cf+cD+cR	3
+WPADHIDParser.o - _devType		unknown	unknown	4	cf+cD+cR	3
+WPADHIDParser.o - _recv_3e		unknown	unknown	4	cf+cD+cR	3
+WPADHIDParser.o - _recv_3f		unknown	unknown	4	cf+cD+cR	3
+WPADHIDParser.o - _retryCnt		unknown	unknown	4	cf+cD+cR	3
+WPADHIDParser.o - checkBuffer		unknown	unknown	21	cf+cD+cR	3
+WPADHIDParser.o - checkInvalidData		unknown	unknown	21	cf+cD+cR	3
+WPADMem.o - _wmb		unknown	unknown	80	cf+cD+cR	3
+WUD.o - __WUDHandlerStack		unknown	unknown	4096	cf+cD+cR	3
+WUD.o - _arm		unknown	unknown	48	cf+cD+cR	3
+WUD.o - _dev_handle_notack_num		unknown	unknown	32	cf+cD+cR	3
+WUD.o - _dev_handle_queue_size		unknown	unknown	32	cf+cD+cR	3
+WUD.o - _dev_handle_to_bda		unknown	unknown	64	cf+cD+cR	3
+WUD.o - _discResp		unknown	unknown	264	cf+cD+cR	3
+WUD.o - _initialized		unknown	unknown	4	cf+cD+cR	3
+WUD.o - _scArray		unknown	unknown	1121	cf+cD+cR	3
+WUD.o - _wcb		unknown	unknown	1864	cf+cD+cR	3
+WUD.o - _work		unknown	unknown	96	cf+cD+cR	3
+WUD.o - addr		unknown	unknown	4	cf+cD+cR	3
+WUD.o - descriptor		unknown	unknown	217	cf+cD+cR	3
+WUD.o - offset		unknown	unknown	4	cf+cD+cR	3
+WUD.o - patch_binary		unknown	unknown	188	cf+cD+cR	3
+WUD.o - patch_install		unknown	unknown	92	cf+cD+cR	3
+WUD.o - size		unknown	unknown	4	cf+cD+cR	3
+abort_exit_ppc_eabi.o - __aborting		unknown	unknown	4	cf+cD+cR	3
+abort_exit_ppc_eabi.o - __stdio_exit		unknown	unknown	4	cf+cD+cR	3
+acc.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+ai.o - __AID_Active		unknown	unknown	4	cf+cD+cR	3
+ai.o - __AID_Callback		unknown	unknown	4	cf+cD+cR	3
+ai.o - __AI_init_flag		unknown	unknown	4	cf+cD+cR	3
+ai.o - __CallbackStack		unknown	unknown	4	cf+cD+cR	3
+ai.o - __OldStack		unknown	unknown	4	cf+cD+cR	3
+ai.o - bound_32KHz		unknown	unknown	8	cf+cD+cR	3
+ai.o - bound_48KHz		unknown	unknown	8	cf+cD+cR	3
+ai.o - buffer		unknown	unknown	8	cf+cD+cR	3
+ai.o - max_wait		unknown	unknown	8	cf+cD+cR	3
+ai.o - min_wait		unknown	unknown	8	cf+cD+cR	3
+ai.o - profile		unknown	unknown	48	cD	1
+ansi_files.o - __files		unknown	unknown	320	cf+cD+cR	3
+ansi_files.o - stderr_buff		unknown	unknown	256	cf+cD+cR	3
+ansi_files.o - stdin_buff		unknown	unknown	256	cf+cD+cR	3
+ansi_files.o - stdout_buff		unknown	unknown	256	cf+cD+cR	3
+ansi_fp.o - pow_10$933		unknown	unknown	64	cD+cR	2
+binkacd.obj - Undecibel_table		unknown	unknown	384	cf+cD+cR	3
+binkacd.obj - bandtopfreq		unknown	unknown	100	cf+cD+cR	3
+binkacd.obj - invertbins		unknown	unknown	96	cf+cD+cR	3
+binkacd.obj - rlelens		unknown	unknown	16	cf+cD+cR	3
+binkread.obj - ForceRateDiv		unknown	unknown	4	cf+cD+cR	3
+binkread.obj - TrackNums		unknown	unknown	32	cf+cD+cR	3
+binkread.obj - UserOpen		unknown	unknown	4	cf+cD+cR	3
+binkread.obj - binkerr		unknown	unknown	256	cf+cD+cR	3
+binkread.obj - cb_bink_sound		unknown	unknown	4	cf+cD+cR	3
+binkread.obj - numopensounds		unknown	unknown	4	cf+cD+cR	3
+binkread.obj - sndopen		unknown	unknown	4	cf+cD+cR	3
+binkread.obj - sysopen		unknown	unknown	4	cf+cD+cR	3
+binkwii.obj - starttime$2698		unknown	unknown	8	cf+cD+cR	3
+bitplane.obj - patterns		unknown	unknown	1024	cf+cD+cR	3
+bta_dm_act.o - bta_dm_compress_srvcs		unknown	unknown	45	cf+cD+cR	3
+bta_dm_act.o - bta_security		unknown	unknown	24	cf+cD+cR	3
+bta_dm_act.o - bta_service_id_to_btm_srv_id_lkup_tbl		unknown	unknown	92	cf+cD+cR	3
+bta_dm_act.o - bta_service_id_to_uuid_lkup_tbl		unknown	unknown	46	cf+cD+cR	3
+bta_dm_cfg.o - bta_dm_cfg		unknown	unknown	10	cf+cD+cR	3
+bta_dm_cfg.o - bta_dm_compress_cfg		unknown	unknown	18	cf+cD+cR	3
+bta_dm_cfg.o - bta_dm_pm_md		unknown	unknown	20	cf+cD+cR	3
+bta_dm_cfg.o - bta_dm_pm_spec		unknown	unknown	74	cf+cD+cR	3
+bta_dm_cfg.o - bta_dm_rm_cfg		unknown	unknown	12	cf+cD+cR	3
+bta_dm_main.o - bta_dm_action		unknown	unknown	52	cf+cD+cR	3
+bta_dm_main.o - bta_dm_cb		unknown	unknown	260	cf+cD+cR	3
+bta_dm_main.o - bta_dm_search_action		unknown	unknown	72	cf+cD+cR	3
+bta_dm_main.o - bta_dm_search_cb		unknown	unknown	124	cf+cD+cR	3
+bta_dm_main.o - bta_dm_search_disc_active_st_table		unknown	unknown	27	cf+cD+cR	3
+bta_dm_main.o - bta_dm_search_idle_st_table		unknown	unknown	27	cf+cD+cR	3
+bta_dm_main.o - bta_dm_search_search_active_st_table		unknown	unknown	27	cf+cD+cR	3
+bta_dm_main.o - bta_dm_search_search_cancelling_st_table		unknown	unknown	27	cf+cD+cR	3
+bta_dm_main.o - bta_dm_search_st_tbl		unknown	unknown	16	cf+cD+cR	3
+bta_dm_main.o - bta_dm_st_table		unknown	unknown	39	cf+cD+cR	3
+bta_dm_pm.o - bta_dm_conn_srvcs		unknown	unknown	46	cf+cD+cR	3
+bta_hh_cfg.o - bta_hh_cfg		unknown	unknown	12	cf+cD+cR	3
+bta_hh_main.o - bta_hh_action		unknown	unknown	48	cf+cD+cR	3
+bta_hh_main.o - bta_hh_cb		unknown	unknown	560	cf+cD+cR	3
+bta_hh_main.o - bta_hh_st_connected		unknown	unknown	24	cf+cD+cR	3
+bta_hh_main.o - bta_hh_st_idle		unknown	unknown	24	cf+cD+cR	3
+bta_hh_main.o - bta_hh_st_tbl		unknown	unknown	12	cf+cD+cR	3
+bta_hh_main.o - bta_hh_st_w4_conn		unknown	unknown	24	cf+cD+cR	3
+bta_sys_main.o - bta_sys_cb		unknown	unknown	140	cf+cD+cR	3
+bte_hcisu.o - p_hcisu_cfg		unknown	unknown	4	cf+cD+cR	3
+bte_hcisu.o - p_hcisu_if		unknown	unknown	4	cf+cD+cR	3
+bte_logmsg.o - tmp$2100		unknown	unknown	2000	cD	1
+bte_logmsg.o - tmp$2236		unknown	unknown	2000	cf+cR	2
+bte_main.o - __BTUInterruptHandlerStack		unknown	unknown	4096	cf+cD+cR	3
+bte_main.o - _bte_alarm		unknown	unknown	48	cf+cD+cR	3
+bte_main.o - _bte_app_info		unknown	unknown	4	cf+cD+cR	3
+btm_main.o - btm_cb		unknown	unknown	10180	cf+cD+cR	3
+btm_pm.o - btm_pm_md_comp_matrix		unknown	unknown	9	cf+cD+cR	3
+btm_sco.o - btm_esco_defaults		unknown	unknown	16	cf+cD+cR	3
+btu_task1.o - _btu_g_count		unknown	unknown	4	cf+cD+cR	3
+btu_task1.o - _btu_last_timer_tick		unknown	unknown	4	cf+cD+cR	3
+btu_task1.o - btu_cb		unknown	unknown	132	cf+cD+cR	3
+btu_task1.o - btu_dbg_flag		unknown	unknown	4	cD	1
+consoleExceptionUtil.obj - verbose		unknown	unknown	4	cf+cD+cR	3
+consoleIOException.obj - errors		unknown	unknown	16	cf+cD+cR	3
+consoleInputFormatter.obj - currentFormatter		unknown	unknown	4	cf+cD+cR	3
+consoleMatrixBase.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+consoleMatrixBase.obj - heapImage$1536		unknown	unknown	36	cf+cD+cR	3
+consoleMatrixBase.obj - matrixBaseTTString		unknown	unknown	4	cf+cD+cR	6
+consoleMatrixBase.obj - name_matrixBaseTTString		unknown	unknown	8	cf+cD+cR	6
+consoleMatrixBase.obj - name_r1		unknown	unknown	8	cf+cD+cR	63
+consoleMatrixBase.obj - name_r2		unknown	unknown	8	cf+cD+cR	63
+consoleMatrixBase.obj - name_sVar		unknown	unknown	8	cf+cD+cR	63
+consoleMatrixBase.obj - r1		unknown	unknown	4	cf+cD+cR	63
+consoleMatrixBase.obj - r2		unknown	unknown	4	cf+cD+cR	63
+consoleMatrixBase.obj - sVar		unknown	unknown	4	cf+cD+cR	63
+consoleMsgClass.obj - verboseFile		unknown	unknown	4	cf+cD+cR	3
+consoleMsgClass.obj - verboseLine		unknown	unknown	4	cf+cD+cR	3
+consolePersistList.obj - heapImage$1483		unknown	unknown	36	cf+cD+cR	3
+consolePersistList.obj - name_r1		unknown	unknown	8	cf+cD+cR	45
+consolePersistList.obj - name_r2		unknown	unknown	8	cf+cD+cR	45
+consolePersistList.obj - name_sVar		unknown	unknown	8	cf+cD+cR	45
+consolePersistList.obj - r1		unknown	unknown	4	cf+cD+cR	45
+consolePersistList.obj - r2		unknown	unknown	4	cf+cD+cR	45
+consolePersistList.obj - sVar		unknown	unknown	4	cf+cD+cR	45
+consoleStatUtil.obj - Inf		unknown	unknown	4	cD	1
+consoleStatUtil.obj - globalRand		unknown	unknown	4	cD	1
+consoleStatUtil.obj - name_globalRand		unknown	unknown	12	cD	1
+consoleStaticCleanup.obj - first		unknown	unknown	4	cf+cD+cR	3
+consoleString.obj - buf$6319		unknown	unknown	128	cf+cR	2
+consoleString.obj - buf$6322		unknown	unknown	128	cD	1
+ctype.o - __ctype_mapC		unknown	unknown	512	cf+cD+cR	3
+ctype.o - __lower_mapC		unknown	unknown	256	cf+cD+cR	3
+ctype.o - __upper_mapC		unknown	unknown	256	cf+cD+cR	3
+db.o - DBVerbose		unknown	unknown	4	cf+cD+cR	3
+db.o - __DBInterface		unknown	unknown	4	cf+cD+cR	3
+db_assert.o - sAssertionConsole		unknown	unknown	4	cf+cD+cR	3
+db_assert.o - sWarningAlarm		unknown	unknown	48	cf+cD+cR	3
+db_assert.o - sWarningTime		unknown	unknown	4	cf+cD+cR	3
+db_console.o - sMutex		unknown	unknown	24	cf+cD+cR	3
+db_console.o - sStrBuf		unknown	unknown	1024	cf+cD+cR	3
+db_directPrint.o - sAsciiTable		unknown	unknown	128	cf+cD+cR	3
+db_directPrint.o - sFontData		unknown	unknown	256	cf+cD+cR	3
+db_directPrint.o - sFontData2		unknown	unknown	308	cf+cD+cR	3
+db_directPrint.o - sFrameBufferColor		unknown	unknown	20	cf+cD+cR	3
+db_directPrint.o - sFrameBufferInfo		unknown	unknown	16	cf+cD+cR	3
+db_directPrint.o - sInitialized		unknown	unknown	4	cf+cD+cR	3
+db_directPrint.o - twiceBit$2451		unknown	unknown	16	cD	1
+db_directPrint.o - twiceBit$2488		unknown	unknown	16	cf+cR	2
+db_mapFile.o - GetCharPtr		unknown	unknown	4	cf+cD+cR	3
+db_mapFile.o - sFileInfo		unknown	unknown	60	cf+cD+cR	3
+db_mapFile.o - sFileLength		unknown	unknown	4	cf+cD+cR	3
+db_mapFile.o - sMapBuf		unknown	unknown	512	cf+cD+cR	3
+db_mapFile.o - sMapFileList		unknown	unknown	4	cf+cD+cR	3
+dct.obj - ifimquantlevels8		unknown	unknown	4096	cf+cD+cR	3
+dct.obj - ifiquantlevels8		unknown	unknown	4096	cf+cD+cR	3
+debug_msg.o - buffer		unknown	unknown	256	cD	2
+distancePool.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+dsp.o - __DSP_init_flag		unknown	unknown	4	cf+cD+cR	3
+dsp_task.o - __DSP_curr_task		unknown	unknown	4	cf+cD+cR	3
+dsp_task.o - __DSP_first_task		unknown	unknown	4	cf+cD+cR	3
+dsp_task.o - __DSP_last_task		unknown	unknown	4	cf+cD+cR	3
+dsp_task.o - __DSP_rude_task		unknown	unknown	4	cf+cD+cR	3
+dsp_task.o - __DSP_rude_task_pending		unknown	unknown	4	cf+cD+cR	3
+dsp_task.o - __DSP_tmp_task		unknown	unknown	4	cf+cD+cR	3
+dualArchive.obj - dualArchives		unknown	unknown	4	cf+cD+cR	3
+dualArchive.obj - name_dualArchives		unknown	unknown	8	cf+cD+cR	3
+dvd.o - BB2		unknown	unknown	32	cf+cD+cR	3
+dvd.o - BootGameInfo		unknown	unknown	4	cf+cD+cR	3
+dvd.o - Breaking		unknown	unknown	4	cf+cD+cR	3
+dvd.o - CancelCallback		unknown	unknown	4	cf+cD+cR	3
+dvd.o - CancelLastError		unknown	unknown	4	cf+cD+cR	3
+dvd.o - Canceling		unknown	unknown	4	cf+cD+cR	3
+dvd.o - ChangedDisc		unknown	unknown	4	cf+cD+cR	3
+dvd.o - CommandInfoCounter		unknown	unknown	4	cf+cD+cR	3
+dvd.o - CoverAlarm		unknown	unknown	48	cf+cD+cR	3
+dvd.o - CurrCommand		unknown	unknown	4	cf+cD+cR	3
+dvd.o - CurrDiskID		unknown	unknown	32	cf+cD+cR	3
+dvd.o - DVDInitialized		unknown	unknown	4	cf+cD+cR	3
+dvd.o - DummyCommandBlock		unknown	unknown	48	cf+cD+cR	3
+dvd.o - FatalAlarm		unknown	unknown	48	cf+cD+cR	3
+dvd.o - FatalErrorFlag		unknown	unknown	4	cf+cD+cR	3
+dvd.o - FirstTimeInBootrom		unknown	unknown	4	cf+cD+cR	3
+dvd.o - GameToc		unknown	unknown	4	cf+cD+cR	3
+dvd.o - GameTocBuffer		unknown	unknown	32	cf+cD+cR	3
+dvd.o - IDShouldBe		unknown	unknown	4	cf+cD+cR	3
+dvd.o - ImmCommand		unknown	unknown	12	cf+cD+cR	3
+dvd.o - LastError		unknown	unknown	4	cf+cD+cR	3
+dvd.o - LastResetEnd		unknown	unknown	8	cf+cD+cR	3
+dvd.o - LastState		unknown	unknown	4	cf+cD+cR	3
+dvd.o - MotorState		unknown	unknown	4	cf+cD+cR	3
+dvd.o - MotorStopped		unknown	unknown	4	cf+cD+cR	3
+dvd.o - NumInternalRetry		unknown	unknown	4	cf+cD+cR	3
+dvd.o - PartInfo		unknown	unknown	4	cf+cD+cR	3
+dvd.o - PartInfoBuffer		unknown	unknown	32	cf+cD+cR	3
+dvd.o - PauseFlag		unknown	unknown	4	cf+cD+cR	3
+dvd.o - PausingFlag		unknown	unknown	4	cf+cD+cR	3
+dvd.o - Prepared		unknown	unknown	4	cf+cD+cR	3
+dvd.o - PreparingCover		unknown	unknown	4	cf+cD+cR	3
+dvd.o - ResetAlarm		unknown	unknown	48	cf+cD+cR	3
+dvd.o - ResetRequired		unknown	unknown	4	cf+cD+cR	3
+dvd.o - ResumeFromHere		unknown	unknown	4	cf+cD+cR	3
+dvd.o - TmdBuffer		unknown	unknown	18944	cf+cD+cR	3
+dvd.o - WaitingForCoverClose		unknown	unknown	4	cf+cD+cR	3
+dvd.o - WaitingForCoverOpen		unknown	unknown	4	cf+cD+cR	3
+dvd.o - __BS2DVDLowIntType		unknown	unknown	4	cf+cD+cR	3
+dvd.o - __DVDLayoutFormat		unknown	unknown	4	cf+cD+cR	3
+dvd.o - __DVDRestartMotorCommandBlock		unknown	unknown	48	cf+cR	2
+dvd.o - __DVDStopMotorCommandBlock		unknown	unknown	48	cf+cD+cR	3
+dvd.o - bootInfo		unknown	unknown	4	cf+cD+cR	3
+dvd.o - executing		unknown	unknown	4	cf+cD+cR	3
+dvdFatal.o - FatalFunc		unknown	unknown	4	cf+cD+cR	3
+dvdFatal.o - __DVDErrorMessage		unknown	unknown	28	cf+cD+cR	3
+dvd_broadway.o - coverRegister		unknown	unknown	32	cf+cR	2
+dvd_broadway.o - coverStatus		unknown	unknown	32	cf+cR	2
+dvd_broadway.o - diCommand		unknown	unknown	4	cf+cD+cR	3
+dvd_broadway.o - diRegValCache		unknown	unknown	32	cf+cD+cR	3
+dvd_broadway.o - dvdContexts		unknown	unknown	128	cf+cD+cR	3
+dvd_broadway.o - freeCommandBuf		unknown	unknown	4	cf+cD+cR	3
+dvd_broadway.o - freeDvdContext		unknown	unknown	4	cf+cD+cR	3
+dvd_broadway.o - ioVec		unknown	unknown	40	cf+cD+cR	3
+dvd_broadway.o - lastTicketError		unknown	unknown	32	cf+cD+cR	3
+dvd_broadway.o - pathBuf		unknown	unknown	4	cf+cD+cR	3
+dvd_broadway.o - readLength		unknown	unknown	4	cf+cD+cR	3
+dvd_broadway.o - registerBuf		unknown	unknown	32	cf+cD+cR	3
+dvd_broadway.o - spinUpValue		unknown	unknown	4	cf+cD+cR	3
+dvderror.o - Callback		unknown	unknown	4	cf+cD+cR	3
+dvderror.o - NandCb		unknown	unknown	184	cf+cD+cR	3
+dvderror.o - NandInfo		unknown	unknown	140	cf+cD+cR	3
+dvderror.o - __ErrorInfo		unknown	unknown	128	cf+cD+cR	3
+dvdfs.o - BootInfo		unknown	unknown	4	cf+cD+cR	3
+dvdfs.o - FstStart		unknown	unknown	4	cf+cD+cR	3
+dvdfs.o - FstStringStart		unknown	unknown	4	cf+cD+cR	3
+dvdfs.o - MaxEntryNum		unknown	unknown	4	cf+cD+cR	3
+dvdfs.o - __DVDThreadQueue		unknown	unknown	8	cf+cD+cR	3
+dvdfs.o - currentDirectory		unknown	unknown	4	cf+cD+cR	3
+dvdqueue.o - WaitingQueue		unknown	unknown	32	cf+cD+cR	3
+errno.o - errno		unknown	unknown	4	cf+cD+cR	3
+euart.o - Enabled		unknown	unknown	4	cf+cD+cR	3
+euart.o - __EUARTInitialized		unknown	unknown	4	cf+cD+cR	3
+euart.o - __EUARTLastErrorCode		unknown	unknown	4	cf+cD+cR	3
+euart.o - __EUARTSendStop		unknown	unknown	4	cf+cD+cR	3
+expand.obj - huff4decode00		unknown	unknown	16	cf+cD+cR	3
+expand.obj - huff4decode01		unknown	unknown	32	cf+cD+cR	3
+expand.obj - huff4decode02		unknown	unknown	32	cf+cD+cR	3
+expand.obj - huff4decode03		unknown	unknown	32	cf+cD+cR	3
+expand.obj - huff4decode04		unknown	unknown	32	cf+cD+cR	3
+expand.obj - huff4decode05		unknown	unknown	32	cf+cD+cR	3
+expand.obj - huff4decode06		unknown	unknown	32	cf+cD+cR	3
+expand.obj - huff4decode07		unknown	unknown	64	cf+cD+cR	3
+expand.obj - huff4decode08		unknown	unknown	64	cf+cD+cR	3
+expand.obj - huff4decode09		unknown	unknown	64	cf+cD+cR	3
+expand.obj - huff4decode10		unknown	unknown	64	cf+cD+cR	3
+expand.obj - huff4decode11		unknown	unknown	64	cf+cD+cR	3
+expand.obj - huff4decode12		unknown	unknown	64	cf+cD+cR	3
+expand.obj - huff4decode13		unknown	unknown	128	cf+cD+cR	3
+expand.obj - huff4decode14		unknown	unknown	128	cf+cD+cR	3
+expand.obj - huff4decode15		unknown	unknown	128	cf+cD+cR	3
+expand.obj - huff4decodes		unknown	unknown	64	cf+cD+cR	3
+expand.obj - huff4reads		unknown	unknown	16	cf+cD+cR	3
+expand.obj - mask1		unknown	unknown	64	cf+cD+cR	3
+expand.obj - mask2		unknown	unknown	64	cf+cD+cR	3
+expand.obj - mask3		unknown	unknown	16	cf+cD+cR	3
+expand.obj - mask4		unknown	unknown	16	cf+cD+cR	3
+fs.o - __devfs		unknown	unknown	4	cf+cD+cR	3
+fs.o - _asynCnt		unknown	unknown	4	cf+cD+cR	3
+fs.o - hId		unknown	unknown	4	cf+cD+cR	3
+fs.o - hi$689		unknown	unknown	4	cf+cD+cR	3
+fs.o - lo$688		unknown	unknown	4	cf+cD+cR	3
+gap_utils.o - gap_cb		unknown	unknown	940	cf+cD+cR	3
+gaussianX.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+gaussianX.obj - heapImage$4463		unknown	unknown	36	cf+cD+cR	3
+gaussianX.obj - name_r1		unknown	unknown	8	cf+cD+cR	6
+gaussianX.obj - name_r2		unknown	unknown	8	cf+cD+cR	6
+gaussianX.obj - name_sVar		unknown	unknown	8	cf+cD+cR	6
+gaussianX.obj - r1		unknown	unknown	4	cf+cD+cR	6
+gaussianX.obj - r2		unknown	unknown	4	cf+cD+cR	6
+gaussianX.obj - sVar		unknown	unknown	4	cf+cD+cR	6
+gaussianXMotionClassifier.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - heapImage$4548		unknown	unknown	36	cf+cD+cR	3
+gaussianXMotionClassifier.obj - name_r1		unknown	unknown	8	cf+cD+cR	9
+gaussianXMotionClassifier.obj - name_r2		unknown	unknown	8	cf+cD+cR	9
+gaussianXMotionClassifier.obj - name_sVar		unknown	unknown	8	cf+cD+cR	9
+gaussianXMotionClassifier.obj - name_tmpClassIDsPtr		unknown	unknown	8	cf+cD+cR	3
+gaussianXMotionClassifier.obj - name_tmpGRawPtr		unknown	unknown	8	cf+cD+cR	3
+gaussianXMotionClassifier.obj - name_tmpItemTypesListPtr		unknown	unknown	8	cf+cD+cR	3
+gaussianXMotionClassifier.obj - name_tmpMaskPtr		unknown	unknown	8	cf+cD+cR	3
+gaussianXMotionClassifier.obj - name_tmpProc2RawMapPtr		unknown	unknown	8	cf+cD+cR	3
+gaussianXMotionClassifier.obj - name_tmpScoressPtr		unknown	unknown	8	cf+cD+cR	3
+gaussianXMotionClassifier.obj - r1		unknown	unknown	4	cf+cD+cR	9
+gaussianXMotionClassifier.obj - r2		unknown	unknown	4	cf+cD+cR	9
+gaussianXMotionClassifier.obj - sVar		unknown	unknown	4	cf+cD+cR	9
+gaussianXMotionClassifier.obj - s__Q26AiLive40typeTraits<Q26AiLive17ptr<Q22lm6motion>>		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - s__Q26AiLive55typeTraits<Q26AiLive32ptr<Q26AiLive16matrixDynamic<f>>>		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - tmpClassIDsPtr		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - tmpGRawPtr		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - tmpItemTypesListPtr		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - tmpMaskPtr		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - tmpProc2RawMapPtr		unknown	unknown	4	cf+cD+cR	3
+gaussianXMotionClassifier.obj - tmpScoressPtr		unknown	unknown	4	cf+cD+cR	3
+gaussianXUtil.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+gki_ppc.o - gki_cb		unknown	unknown	166624	cf+cD+cR	3
+global_destructor_chain.o - __global_destructor_chain		unknown	unknown	4	cf+cD+cR	3
+hcisu_h2.o - hcisu_h2		unknown	unknown	20	cf+cD+cR	3
+hcisu_h2.o - hcisu_h2_cb		unknown	unknown	36	cf+cD+cR	3
+heapmm.obj - globalHeapNum		unknown	unknown	4	cf+cD+cR	3
+hidd_mgmt.o - hd_cb		unknown	unknown	324	cf+cD+cR	3
+hidh_api.o - hh_cb		unknown	unknown	1028	cf+cD+cR	3
+hidh_conn.o - hst_reg_info		unknown	unknown	40	cf+cD+cR	3
+hio2.o - __HIO2ConsoleType		unknown	unknown	4	cD+cR	2
+hio2.o - __HIO2Control		unknown	unknown	56	cD+cR	2
+hio2.o - __HIO2Initialized		unknown	unknown	4	cD+cR	2
+hio2.o - __HIO2LastErrorCode		unknown	unknown	4	cD+cR	2
+i2c.o - __i2c_ident_first		unknown	unknown	4	cf+cD+cR	3
+ikNew.obj - __defaultHeap		unknown	unknown	4	cf+cD+cR	3
+ipcMain.o - IPCBufferHi		unknown	unknown	4	cf+cD+cR	3
+ipcMain.o - IPCBufferLo		unknown	unknown	4	cf+cD+cR	3
+ipcMain.o - IPCCurrentBufferHi		unknown	unknown	4	cf+cD+cR	3
+ipcMain.o - IPCCurrentBufferLo		unknown	unknown	4	cf+cD+cR	3
+ipcProfile.o - IpcFdArray		unknown	unknown	128	cf+cD+cR	3
+ipcProfile.o - IpcNumPendingReqs		unknown	unknown	4	cf+cD+cR	3
+ipcProfile.o - IpcNumUnIssuedReqs		unknown	unknown	4	cf+cD+cR	3
+ipcProfile.o - IpcReqPtrArray		unknown	unknown	128	cf+cD+cR	3
+ipcclt.o - __relnchFl		unknown	unknown	4	cf+cD+cR	3
+ipcclt.o - __relnchRpc		unknown	unknown	4	cf+cD+cR	3
+ipcclt.o - __responses		unknown	unknown	80	cf+cD+cR	3
+ipcclt.o - initialized$653		unknown	unknown	4	cf+cR	2
+ipcclt.o - initialized$688		unknown	unknown	4	cD	1
+l2c_main.o - l2cb		unknown	unknown	2024	cf+cD+cR	3
+liveMove.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+liveMove.obj - globalState		unknown	unknown	4	cf+cD+cR	3
+liveMove.obj - lmHeapImage$16575		unknown	unknown	36	cf+cR	2
+liveMove.obj - lmHeapImage$16855		unknown	unknown	36	cD	1
+liveMove.obj - lmMaxUpdatesPerRecording		unknown	unknown	4	cf+cD+cR	3
+lmSplash.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+lmState.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+locale.o - __lconv		unknown	unknown	56	cf+cD+cR	3
+locale.o - _current_locale		unknown	unknown	72	cf+cD+cR	3
+locale.o - _loc_coll_C		unknown	unknown	28	cf+cD+cR	3
+locale.o - _loc_ctyp_C		unknown	unknown	40	cf+cD+cR	3
+locale.o - _loc_mon_C		unknown	unknown	52	cf+cD+cR	3
+locale.o - _loc_num_C		unknown	unknown	20	cf+cD+cR	3
+locale.o - _loc_tim_C		unknown	unknown	40	cf+cD+cR	3
+locale.o - char_coll_tableC		unknown	unknown	192	cf+cD+cR	3
+lyt_bounding.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+lyt_common.o - texCoords$7166		unknown	unknown	32	cD	1
+lyt_common.o - texCoords$7660		unknown	unknown	32	cf+cR	2
+lyt_layout.o - mspAllocator		unknown	unknown	4	cf+cD+cR	3
+lyt_material.o - kAlpSels$8466		unknown	unknown	32	cf+cR	2
+lyt_material.o - kAlpSels$8627		unknown	unknown	32	cD	1
+lyt_material.o - kColSels$8465		unknown	unknown	32	cf+cR	2
+lyt_material.o - kColSels$8626		unknown	unknown	32	cD	1
+lyt_pane.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+lyt_picture.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+lyt_textBox.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+lyt_window.o - flipInfos$7486		unknown	unknown	60	cD	1
+lyt_window.o - flipInfos$8010		unknown	unknown	60	cf+cR	2
+lyt_window.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+math_triangular.o - sArcTanTbl		unknown	unknown	264	cf+cD+cR	3
+math_triangular.o - sSinCosTbl		unknown	unknown	4112	cf+cD+cR	3
+mem_heapCommon.o - sFillVals		unknown	unknown	12	cD	1
+mem_heapCommon.o - sRootList		unknown	unknown	12	cf+cD+cR	3
+mem_heapCommon.o - sRootListInitialized		unknown	unknown	4	cf+cD+cR	3
+mem_heapCommon.o - sRootMutex		unknown	unknown	24	cf+cD+cR	3
+memory.o - __heaps		unknown	unknown	128	cf+cD+cR	3
+metadata.obj - heapImage$1483		unknown	unknown	36	cf+cD+cR	3
+metadata.obj - name_r1		unknown	unknown	8	cf+cD+cR	3
+metadata.obj - name_r2		unknown	unknown	8	cf+cD+cR	3
+metadata.obj - name_sVar		unknown	unknown	8	cf+cD+cR	3
+metadata.obj - r1		unknown	unknown	4	cf+cD+cR	3
+metadata.obj - r2		unknown	unknown	4	cf+cD+cR	3
+metadata.obj - sVar		unknown	unknown	4	cf+cD+cR	3
+motion.obj - counter		unknown	unknown	4	cf+cD+cR	3
+motion.obj - heapImage$4463		unknown	unknown	36	cf+cD+cR	3
+motion.obj - name_r1		unknown	unknown	8	cf+cD+cR	3
+motion.obj - name_r2		unknown	unknown	8	cf+cD+cR	3
+motion.obj - name_sVar		unknown	unknown	8	cf+cD+cR	3
+motion.obj - r1		unknown	unknown	4	cf+cD+cR	3
+motion.obj - r2		unknown	unknown	4	cf+cD+cR	3
+motion.obj - sVar		unknown	unknown	4	cf+cD+cR	3
+motionClassifier.obj - heapImage$4548		unknown	unknown	36	cf+cD+cR	3
+motionClassifier.obj - name_r1		unknown	unknown	8	cf+cD+cR	6
+motionClassifier.obj - name_r2		unknown	unknown	8	cf+cD+cR	6
+motionClassifier.obj - name_sVar		unknown	unknown	8	cf+cD+cR	6
+motionClassifier.obj - r1		unknown	unknown	4	cf+cD+cR	6
+motionClassifier.obj - r2		unknown	unknown	4	cf+cD+cR	6
+motionClassifier.obj - sVar		unknown	unknown	4	cf+cD+cR	6
+motionClassifierGroup.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+motionClassifierGroup.obj - heapImage$4548		unknown	unknown	36	cf+cD+cR	3
+motionClassifierGroup.obj - name_r1		unknown	unknown	8	cf+cD+cR	9
+motionClassifierGroup.obj - name_r2		unknown	unknown	8	cf+cD+cR	9
+motionClassifierGroup.obj - name_sVar		unknown	unknown	8	cf+cD+cR	9
+motionClassifierGroup.obj - r1		unknown	unknown	4	cf+cD+cR	9
+motionClassifierGroup.obj - r2		unknown	unknown	4	cf+cD+cR	9
+motionClassifierGroup.obj - sVar		unknown	unknown	4	cf+cD+cR	9
+motionClassifierGroup.obj - s__Q26AiLive51typeTraits<Q26AiLive28ptr<Q22lm16motionClassifier>>		unknown	unknown	4	cf+cD+cR	3
+motionData.obj - heapImage$4463		unknown	unknown	36	cf+cD+cR	3
+motionData.obj - name_r1		unknown	unknown	8	cf+cD+cR	9
+motionData.obj - name_r2		unknown	unknown	8	cf+cD+cR	9
+motionData.obj - name_sVar		unknown	unknown	8	cf+cD+cR	9
+motionData.obj - r1		unknown	unknown	4	cf+cD+cR	9
+motionData.obj - r2		unknown	unknown	4	cf+cD+cR	9
+motionData.obj - sVar		unknown	unknown	4	cf+cD+cR	9
+motionSet.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+motionSet.obj - heapImage$4463		unknown	unknown	36	cf+cD+cR	3
+motionSet.obj - name_r1		unknown	unknown	8	cf+cD+cR	6
+motionSet.obj - name_r2		unknown	unknown	8	cf+cD+cR	6
+motionSet.obj - name_sVar		unknown	unknown	8	cf+cD+cR	6
+motionSet.obj - r1		unknown	unknown	4	cf+cD+cR	6
+motionSet.obj - r2		unknown	unknown	4	cf+cD+cR	6
+motionSet.obj - sVar		unknown	unknown	4	cf+cD+cR	6
+mtx44.o - mtxUnit		unknown	unknown	16	cD	1
+persistPair.obj - heapImage$1483		unknown	unknown	36	cD	1
+persistPair.obj - name_r1		unknown	unknown	12	cD	3
+persistPair.obj - name_r2		unknown	unknown	12	cD	3
+persistPair.obj - name_sVar		unknown	unknown	12	cD	3
+persistPair.obj - r1		unknown	unknown	4	cD	3
+persistPair.obj - r2		unknown	unknown	4	cD	3
+persistPair.obj - sVar		unknown	unknown	4	cD	3
+persistent.obj - heapImage$1483		unknown	unknown	36	cf+cD+cR	3
+persistent.obj - name_r1		unknown	unknown	8	cf+cD+cR	3
+persistent.obj - name_r2		unknown	unknown	8	cf+cD+cR	3
+persistent.obj - name_sVar		unknown	unknown	8	cf+cD+cR	3
+persistent.obj - r1		unknown	unknown	4	cf+cD+cR	3
+persistent.obj - r2		unknown	unknown	4	cf+cD+cR	3
+persistent.obj - sVar		unknown	unknown	4	cf+cD+cR	3
+popmal.obj - amt		unknown	unknown	128	cf+cD+cR	3
+popmal.obj - ptrs		unknown	unknown	128	cf+cD+cR	3
+popmal.obj - pushcur		unknown	unknown	4	cf+cD+cR	3
+popmal.obj - pushtot		unknown	unknown	4	cf+cD+cR	3
+ptmf.o - __ptmf_null		unknown	unknown	12	cf+cD+cR	3
+radmem.obj - userfree		unknown	unknown	4	cf+cD+cR	3
+radmem.obj - usermalloc		unknown	unknown	4	cf+cD+cR	3
+randIter.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+readableHeader.obj - heapImage$1483		unknown	unknown	36	cf+cD+cR	3
+readableHeader.obj - name_r1		unknown	unknown	8	cf+cD+cR	3
+readableHeader.obj - name_r2		unknown	unknown	8	cf+cD+cR	3
+readableHeader.obj - name_sVar		unknown	unknown	8	cf+cD+cR	3
+readableHeader.obj - r1		unknown	unknown	4	cf+cD+cR	3
+readableHeader.obj - r2		unknown	unknown	4	cf+cD+cR	3
+readableHeader.obj - sVar		unknown	unknown	4	cf+cD+cR	3
+rfc_port_if.o - rfc_cb		unknown	unknown	1048	cf+cD+cR	3
+rfc_utils.o - rfc_crctable		unknown	unknown	256	cf+cD+cR	3
+rt - RES_SCRIPT_gamecube		unknown	unknown	16633	cf+cD+cR	3
+rt - assert_buffer1$21565		unknown	unknown	512	cR	1
+rt - assert_buffer1$21649		unknown	unknown	512	cD	1
+rt - assert_buffer3$21566		unknown	unknown	512	cR	1
+rt - assert_buffer3$21650		unknown	unknown	512	cD	1
+rt - codesize		unknown	unknown	4	cf+cD+cR	3
+rt - dad		unknown	unknown	4	cf+cD+cR	3
+rt - localBuf$10893		unknown	unknown	32	cf	1
+rt - lson		unknown	unknown	4	cf+cD+cR	3
+rt - match_length		unknown	unknown	4	cf+cD+cR	3
+rt - match_position		unknown	unknown	4	cf+cD+cR	3
+rt - name_lookup_$21792		unknown	unknown	96	cD	1
+rt - printcount		unknown	unknown	4	cf+cD+cR	3
+rt - rson		unknown	unknown	4	cf+cD+cR	3
+rt - text_buf		unknown	unknown	4	cf+cD+cR	3
+rt - textsize		unknown	unknown	4	cf+cD+cR	3
+runtime.o - __constants		unknown	unknown	24	cf+cD+cR	3
+scapi_prdinfo.o - ProductAreaAndStringTbl		unknown	unknown	65	cf+cD+cR	3
+scoresHash.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+scoresHash.obj - singleton		unknown	unknown	4	cf+cD+cR	3
+scsystem.o - ConfBuf		unknown	unknown	16384	cf+cD+cR	3
+scsystem.o - ConfBufForFlush		unknown	unknown	16384	cf+cD+cR	3
+scsystem.o - ConfDirName		unknown	unknown	13	cf+cD+cR	3
+scsystem.o - ConfFileName		unknown	unknown	21	cf+cD+cR	3
+scsystem.o - Control		unknown	unknown	396	cf+cD+cR	3
+scsystem.o - ItemIDMaxPlus1		unknown	unknown	4	cf+cD+cR	3
+scsystem.o - ItemIDOffsetTblOffset		unknown	unknown	4	cf+cD+cR	3
+scsystem.o - ItemNumTotal		unknown	unknown	4	cf+cD+cR	3
+scsystem.o - ItemRestSize		unknown	unknown	4	cf+cD+cR	3
+scsystem.o - NameAndIDTbl		unknown	unknown	280	cf+cD+cR	3
+scsystem.o - ProductInfoFileName		unknown	unknown	42	cf+cD+cR	3
+sdp_main.o - sdp_cb		unknown	unknown	17972	cf+cD+cR	3
+sdp_utils.o - sdp_base_uuid		unknown	unknown	16	cf+cD+cR	3
+serial.obj - warnings$11949		unknown	unknown	16	cD	1
+serial.obj - warnings$11972		unknown	unknown	16	cf+cR	2
+signal.o - signal_funcs		unknown	unknown	28	cf+cD+cR	3
+sinFuncFloat.obj - heapImage$1483		unknown	unknown	36	cf+cD+cR	3
+sinFuncFloat.obj - name_r1		unknown	unknown	8	cf+cD+cR	9
+sinFuncFloat.obj - name_r2		unknown	unknown	8	cf+cD+cR	9
+sinFuncFloat.obj - name_sVar		unknown	unknown	8	cf+cD+cR	9
+sinFuncFloat.obj - r1		unknown	unknown	4	cf+cD+cR	9
+sinFuncFloat.obj - r2		unknown	unknown	4	cf+cD+cR	9
+sinFuncFloat.obj - s$10266		unknown	unknown	641	cD	1
+sinFuncFloat.obj - s$10341		unknown	unknown	641	cD	1
+sinFuncFloat.obj - s$10416		unknown	unknown	641	cD	1
+sinFuncFloat.obj - sVar		unknown	unknown	4	cf+cD+cR	9
+snd_AxManager.o - instance$3249		unknown	unknown	41740	cD	1
+snd_AxManager.o - instance$3341		unknown	unknown	41740	cf+cR	2
+snd_AxManager.o - sZeroBuffer		unknown	unknown	256	cf+cD+cR	3
+snd_BasicSound.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+snd_Channel.o - mChannel		unknown	unknown	22504	cf+cD+cR	3
+snd_DisposeCallbackManager.o - instance$6701		unknown	unknown	12	cD	1
+snd_DisposeCallbackManager.o - instance$7237		unknown	unknown	12	cf+cR	2
+snd_DvdSoundArchive.o - headerAlignSize$3026		unknown	unknown	4	cD	1
+snd_EnvGenerator.o - DecibelSquareTable		unknown	unknown	256	cf+cD+cR	3
+snd_EnvGenerator.o - attackTable$1269		unknown	unknown	512	cD	1
+snd_EnvGenerator.o - attackTable$1652		unknown	unknown	512	cf+cR	2
+snd_Lfo.o - sinTable$540		unknown	unknown	33	cf+cR	2
+snd_Lfo.o - sinTable$560		unknown	unknown	33	cD	1
+snd_RemoteSpeakerManager.o - instance$722		unknown	unknown	696	cf+cR	2
+snd_RemoteSpeakerManager.o - instance$725		unknown	unknown	696	cD	1
+snd_SeqPlayer.o - mGlobalVariable		unknown	unknown	32	cf+cD+cR	3
+snd_SeqPlayer.o - sPlayerList		unknown	unknown	12	cf+cD+cR	3
+snd_SeqSound.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+snd_SoundArchiveFile.o - INVALID_DATA_REF$1383		unknown	unknown	8	cf+cR	2
+snd_SoundArchiveFile.o - INVALID_DATA_REF$1639		unknown	unknown	8	cD	1
+snd_SoundArchivePlayer.o - buffer$7836		unknown	unknown	512	cf+cR	2
+snd_SoundArchivePlayer.o - buffer$8493		unknown	unknown	512	cD	1
+snd_SoundArchivePlayer.o - mutex$7838		unknown	unknown	24	cf+cR	2
+snd_SoundArchivePlayer.o - mutex$8495		unknown	unknown	24	cD	1
+snd_SoundThread.o - instance$4862		unknown	unknown	9112	cD	1
+snd_SoundThread.o - instance$4995		unknown	unknown	9112	cf+cR	2
+snd_StrmPlayer.o - mMramBuf		unknown	unknown	16416	cf+cD+cR	3
+snd_StrmPlayer.o - sPlayerList		unknown	unknown	12	cf+cD+cR	3
+snd_StrmSound.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+snd_TaskManager.o - instance$1096		unknown	unknown	68	cf+cR	2
+snd_TaskManager.o - instance$1102		unknown	unknown	68	cD	1
+snd_TaskManager.o - mTaskArea		unknown	unknown	8260	cf+cD+cR	3
+snd_TaskThread.o - instance$1100		unknown	unknown	9064	cf+cR	2
+snd_TaskThread.o - instance$1105		unknown	unknown	9064	cD	1
+snd_Util.o - Decibel2RatioTable		unknown	unknown	3860	cf+cD+cR	3
+snd_Util.o - NoteTable		unknown	unknown	48	cf+cD+cR	3
+snd_Util.o - Pan2RatioTable		unknown	unknown	1028	cf+cD+cR	3
+snd_Util.o - PitchTable		unknown	unknown	1024	cf+cD+cR	3
+snd_WavePlayer.o - sPlayerList		unknown	unknown	12	cf+cD+cR	3
+snd_WaveSound.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+snd_WsdPlayer.o - sPlayerList		unknown	unknown	12	cf+cD+cR	3
+summarize.obj - Inf		unknown	unknown	4	cf+cD+cR	3
+summarize.obj - heapImage$1483		unknown	unknown	36	cf+cD+cR	3
+summarize.obj - name_r1		unknown	unknown	8	cf+cD+cR	24
+summarize.obj - name_r2		unknown	unknown	8	cf+cD+cR	24
+summarize.obj - name_sVar		unknown	unknown	8	cf+cD+cR	24
+summarize.obj - r1		unknown	unknown	4	cf+cD+cR	24
+summarize.obj - r2		unknown	unknown	4	cf+cD+cR	24
+summarize.obj - sVar		unknown	unknown	4	cf+cD+cR	24
+typeDictionary.obj - basicTypes		unknown	unknown	4	cf+cD+cR	3
+typeDictionary.obj - name_typeDictionary		unknown	unknown	8	cf+cD+cR	3
+typeManager.obj - heapImage$1483		unknown	unknown	36	cD	1
+typeManager.obj - name_registrationList		unknown	unknown	8	cf+cD+cR	3
+typeManager.obj - name_typeManager		unknown	unknown	8	cf+cD+cR	3
+typeManager.obj - registrationList		unknown	unknown	4	cf+cD+cR	3
+typeManager.obj - theTD		unknown	unknown	4	cf+cD+cR	3
+typeManager.obj - theTRB		unknown	unknown	4	cf+cD+cR	3
+uart_console_io_gcn.o - initialized$552		unknown	unknown	4	cf+cD+cR	3
+usb.o - hi		unknown	unknown	4	cf+cD+cR	3
+usb.o - lo		unknown	unknown	4	cf+cD+cR	3
+ut_CharWriter.o - fog$5000		unknown	unknown	4	cD	1
+ut_CharWriter.o - fog$5536		unknown	unknown	4	cf+cR	2
+ut_CharWriter.o - mLoadingTexture		unknown	unknown	16	cf+cD+cR	3
+ut_DvdFileStream.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+ut_DvdLockedFileStream.o - sMutex		unknown	unknown	24	cf+cD+cR	3
+ut_DvdLockedFileStream.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+ut_FileStream.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+ut_IOStream.o - typeInfo		unknown	unknown	4	cf+cD+cR	3
+ut_TextWriterBase.o - mDefaultTagProcessor		unknown	unknown	4	cf+cD+cR	6
+ut_TextWriterBase.o - mFormatBuffer		unknown	unknown	4	cf+cD+cR	3
+uusb_ppc.o - __ntd_ohci		unknown	unknown	4	cf+cD+cR	3
+uusb_ppc.o - __ntd_ohci_init_flag		unknown	unknown	4	cf+cD+cR	3
+uusb_ppc.o - __ntd_pid		unknown	unknown	4	cf+cD+cR	3
+uusb_ppc.o - __ntd_vid		unknown	unknown	4	cf+cD+cR	3
+uusb_ppc.o - __uusb_ppc_stack1		unknown	unknown	4096	cf+cD+cR	3
+uusb_ppc.o - __uusb_ppc_stack2		unknown	unknown	4096	cf+cD+cR	3
+uusb_ppc.o - usb		unknown	unknown	76	cf+cD+cR	3
+version.obj - heapImage$1483		unknown	unknown	36	cf+cD+cR	3
+version.obj - name_r1		unknown	unknown	8	cf+cD+cR	3
+version.obj - name_r2		unknown	unknown	8	cf+cD+cR	3
+version.obj - name_sVar		unknown	unknown	8	cf+cD+cR	3
+version.obj - r1		unknown	unknown	4	cf+cD+cR	3
+version.obj - r2		unknown	unknown	4	cf+cD+cR	3
+version.obj - runtimeVersion		unknown	unknown	4	cf+cD+cR	3
+version.obj - sVar		unknown	unknown	4	cf+cD+cR	3
+vi.o - CurrBufAddr		unknown	unknown	4	cf+cD+cR	3
+vi.o - CurrTiming		unknown	unknown	4	cf+cD+cR	3
+vi.o - CurrTvMode		unknown	unknown	4	cf+cD+cR	3
+vi.o - DimmingOFF_Pending$1577		unknown	unknown	4	cD	1
+vi.o - DimmingOFF_Pending$1712		unknown	unknown	4	cf+cR	2
+vi.o - DimmingON_Pending$1576		unknown	unknown	4	cD	1
+vi.o - DimmingON_Pending$1711		unknown	unknown	4	cf+cR	2
+vi.o - FBSet		unknown	unknown	4	cf+cD+cR	3
+vi.o - HorVer		unknown	unknown	88	cf+cD+cR	3
+vi.o - IsInitialized		unknown	unknown	4	cf+cD+cR	3
+vi.o - NEW_TIME_TO_DIMMING		unknown	unknown	4	cf+cD+cR	3
+vi.o - NextBufAddr		unknown	unknown	4	cf+cD+cR	3
+vi.o - PositionCallback		unknown	unknown	4	cf+cD+cR	3
+vi.o - PostCB		unknown	unknown	4	cf+cD+cR	3
+vi.o - PreCB		unknown	unknown	4	cf+cD+cR	3
+vi.o - ShutdownFunctionInfo		unknown	unknown	16	cf+cD+cR	3
+vi.o - THD_TIME_TO_DIMMING		unknown	unknown	4	cf+cD+cR	3
+vi.o - THD_TIME_TO_DVD_STOP		unknown	unknown	4	cf+cD+cR	3
+vi.o - __VIDVDStopFlag_Enable		unknown	unknown	4	cf+cD+cR	3
+vi.o - __VIDimmingFlag_DEV_IDLE		unknown	unknown	40	cf+cD+cR	3
+vi.o - __VIDimmingFlag_Enable		unknown	unknown	4	cf+cD+cR	3
+vi.o - __VIDimmingFlag_RF_IDLE		unknown	unknown	4	cf+cD+cR	3
+vi.o - __VIDimmingFlag_SI_IDLE		unknown	unknown	4	cf+cD+cR	3
+vi.o - __VIDimmingState		unknown	unknown	4	cf+cD+cR	3
+vi.o - __VIDimming_All_Clear		unknown	unknown	4	cf+cD+cR	3
+vi.o - _gIdleCount_dimming		unknown	unknown	4	cf+cD+cR	3
+vi.o - _gIdleCount_dvd		unknown	unknown	4	cf+cD+cR	3
+vi.o - changeMode		unknown	unknown	4	cf+cD+cR	3
+vi.o - changed		unknown	unknown	8	cf+cD+cR	3
+vi.o - count$1516		unknown	unknown	4	cD	1
+vi.o - count$1655		unknown	unknown	4	cf+cR	2
+vi.o - dbgCount$1567		unknown	unknown	4	cD	1
+vi.o - encoderType		unknown	unknown	4	cf+cD+cR	3
+vi.o - flushFlag		unknown	unknown	4	cf+cD+cR	3
+vi.o - flushFlag3in1		unknown	unknown	4	cf+cD+cR	3
+vi.o - g_current_time_to_dim		unknown	unknown	4	cf+cD+cR	3
+vi.o - message$2010		unknown	unknown	4	cD	1
+vi.o - message$2052		unknown	unknown	4	cf+cR	2
+vi.o - regs		unknown	unknown	118	cf+cD+cR	3
+vi.o - retraceCount		unknown	unknown	4	cf+cD+cR	3
+vi.o - retraceQueue		unknown	unknown	8	cf+cD+cR	3
+vi.o - shdwChangeMode		unknown	unknown	4	cf+cD+cR	3
+vi.o - shdwChanged		unknown	unknown	8	cf+cD+cR	3
+vi.o - shdwRegs		unknown	unknown	118	cf+cD+cR	3
+vi.o - taps		unknown	unknown	50	cf+cD+cR	3
+vi.o - timing		unknown	unknown	418	cf+cD+cR	3
+vi.o - timingExtra		unknown	unknown	4	cf+cD+cR	3
+vi.o - vsync_timing_err_cnt		unknown	unknown	4	cf+cD+cR	3
+vi.o - vsync_timing_test_flag		unknown	unknown	4	cf+cD+cR	3
+vi3in1.o - VIEurgb60ACPType1		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIEurgb60ACPType2		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIEurgb60ACPType3		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIMpalACPType1		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIMpalACPType2		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIMpalACPType3		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VINtscACPType1		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VINtscACPType2		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VINtscACPType3		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIPalACPType1		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIPalACPType2		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIPalACPType3		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIProgressiveACPType		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - VIZeroACPType		unknown	unknown	26	cf+cD+cR	3
+vi3in1.o - Vdac_Flag_Changed		unknown	unknown	4	cf+cD+cR	3
+vi3in1.o - Vdac_Flag_Region		unknown	unknown	4	cf+cD+cR	3
+vi3in1.o - __gamma		unknown	unknown	4	cf+cD+cR	3
+vi3in1.o - __level		unknown	unknown	4	cf+cD+cR	3
+vi3in1.o - __type		unknown	unknown	4	cf+cD+cR	3
+vi3in1.o - gammaSet		unknown	unknown	1054	cf+cD+cR	3
+wctype.o - __wctype_mapC		unknown	unknown	512	cf+cD+cR	3
+wctype.o - __wlower_mapC		unknown	unknown	512	cf+cD+cR	3
+wctype.o - __wupper_mapC		unknown	unknown	512	cf+cD+cR	3
+wiiax.obj - aram		unknown	unknown	8	cf+cD+cR	3
+wiiax.obj - numopen		unknown	unknown	4	cf+cD+cR	3
+yuv.obj - BlitS		unknown	unknown	144	cf+cD+cR	3
+audioNumActiveVoices	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioNumPlayMasks	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioPlayBufferEnabled	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioPlayBufferFrq	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioPlayMaskArray	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBufferNumSamples	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBufferReadPos	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBufferWritePos	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBufferx	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+axLastAddr	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+axPhase	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+axPlayedSamples	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+axPlayedSamplesTotal	AUDSimpleAudio.o	unknown	unknown	4	cf+cD+cR	3
+axVoice	AUDSimpleAudio.o	unknown	unknown	8	cf+cD+cR	3
+audioInfoSize$2760	AUDSimplePlayer.o	unknown	unknown	4	cD	1
+audioInfoSize$2837	AUDSimplePlayer.o	unknown	unknown	4	cf	1
+audioInfoSize$2838	AUDSimplePlayer.o	unknown	unknown	4	cR	1
+audio_player	AUDSimplePlayer.o	unknown	unknown	644	cf+cD+cR	3
+fileOffset$2758	AUDSimplePlayer.o	unknown	unknown	4	cD	1
+fileOffset$2835	AUDSimplePlayer.o	unknown	unknown	4	cf	1
+fileOffset$2836	AUDSimplePlayer.o	unknown	unknown	4	cR	1
+headSize$2759	AUDSimplePlayer.o	unknown	unknown	4	cD	1
+headSize$2836	AUDSimplePlayer.o	unknown	unknown	4	cf	1
+headSize$2837	AUDSimplePlayer.o	unknown	unknown	4	cR	1
+readNum	AUDSimplePlayer.o	unknown	unknown	4	cf+cD+cR	3
+workChunk	AUDSimplePlayer.o	unknown	unknown	48	cf+cD+cR	3
+_sgltn_instance$16790	AssMan.o	unknown	unknown	64	cf	1
+_sgltn_instance$17168	AssMan.o	unknown	unknown	64	cR	1
+_sgltn_instance$17242	AssMan.o	unknown	unknown	64	cD	1
+s_asset_lookup	AssMan.o	unknown	unknown	152	cf+cD+cR	3
+s_sgltn_count	AssMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	AssMan.o	unknown	unknown	4	cf+cD+cR	3
+again$21569	Assert.o	unknown	unknown	4	cR	1
+again$21653	Assert.o	unknown	unknown	4	cD	1
+assert_info_handler	Assert.o	unknown	unknown	4	cD+cR	2
+assert_trap_handler	Assert.o	unknown	unknown	4	cD+cR	2
+__PRETTY_FUNCTION	AsyncFilesys.o	unknown	unknown	47	cf+cD+cR	41
+_sgltn_instance$23133	AsyncFilesys.o	unknown	unknown	24	cf	1
+_sgltn_instance$23705	AsyncFilesys.o	unknown	unknown	24	cR	1
+_sgltn_instance$23780	AsyncFilesys.o	unknown	unknown	24	cD	1
+last_audio_update	AsyncFilesys.o	unknown	unknown	4	cf+cD+cR	3
+numAsyncDelays	AsyncFilesys.o	unknown	unknown	4	cf+cD+cR	3
+s_callback_list	AsyncFilesys.o	unknown	unknown	768	cf+cD+cR	3
+s_cur_callback_list_index	AsyncFilesys.o	unknown	unknown	4	cf+cD+cR	3
+s_file_handles	AsyncFilesys.o	unknown	unknown	128	cf+cD+cR	3
+s_free_handle_index	AsyncFilesys.o	unknown	unknown	4	cf+cD+cR	3
+s_manager_busy_count	AsyncFilesys.o	unknown	unknown	4	cf+cD+cR	3
+s_num_callbacks	AsyncFilesys.o	unknown	unknown	8	cf+cD+cR	3
+s_sgltn_count	AsyncFilesys.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	AsyncFilesys.o	unknown	unknown	4	cf+cD+cR	3
+sDumbCount	CString.o	unknown	unknown	4	cf+cD+cR	3
+s_time_change_level	CommonGameHandler.o	unknown	unknown	4	cf+cD+cR	3
+CFS	CompactFileSys.o	unknown	unknown	80	cf+cD+cR	3
+COMPACTHEAP_REPORT_ON_POINTER	CompactPool.o	unknown	unknown	4	cD+cR	2
+s_num_pools	CompactPool.o	unknown	unknown	4	cD+cR	2
+sp_pools	CompactPool.o	unknown	unknown	320	cD+cR	2
+_sgltn_instance$25648	CompassManager.o	unknown	unknown	36	cf	1
+_sgltn_instance$25713	CompassManager.o	unknown	unknown	36	cD	1
+_sgltn_instance$26313	CompassManager.o	unknown	unknown	36	cR	1
+g_max_skater_rank	CompassManager.o	unknown	unknown	4	cf+cD+cR	3
+m_max_blips	CompassManager.o	unknown	unknown	4	cf+cD+cR	3
+m_max_displays	CompassManager.o	unknown	unknown	4	cf+cD+cR	3
+s_sgltn_count	CompassManager.o	unknown	unknown	4	cf+cD+cR	3
+sm_fade_speed	CompassManager.o	unknown	unknown	4	cf+cD+cR	3
+sm_phase	CompassManager.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	CompassManager.o	unknown	unknown	4	cf+cD+cR	3
+AIR_LOOPING_SOUND_INFO	ComponentUtils.o	unknown	unknown	28	cD+cR	2
+_sgltn_instance$20051	CompositeObjectInstanceMgr.o	unknown	unknown	8	cf	1
+_sgltn_instance$23014	CompositeObjectInstanceMgr.o	unknown	unknown	8	cR	1
+_sgltn_instance$23088	CompositeObjectInstanceMgr.o	unknown	unknown	8	cD	1
+sTheoreticalBlockSize	CompositeObjectInstanceMgr.o	unknown	unknown	4	cD+cR	2
+sTotalTheoreticalPadding	CompositeObjectInstanceMgr.o	unknown	unknown	4	cD+cR	2
+s_sgltn_count	CompositeObjectInstanceMgr.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	CompositeObjectInstanceMgr.o	unknown	unknown	4	cf+cD+cR	3
+Dbg_signature	Debug.o	unknown	unknown	8	cD	1
+current_sig	Debug.o	unknown	unknown	4	cD	1
+output	Debug.o	unknown	unknown	4	cD+cR	2
+s_level_mask	Debug.o	unknown	unknown	4	cD+cR	2
+s_printf_buffer	Debug.o	unknown	unknown	512	cD+cR	2
+s_sprintf_buffer	Debug.o	unknown	unknown	512	cD+cR	2
+s_typename	Debug.o	unknown	unknown	16	cD	1
+s_default_face_points	FaceMassage.o	unknown	unknown	56	cf+cD+cR	3
+s_model_face_points	FaceMassage.o	unknown	unknown	56	cf+cD+cR	3
+sp_face_texture_overlay	FaceMassage.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$26126	FrontEnd.o	unknown	unknown	32	cf	1
+_sgltn_instance$26755	FrontEnd.o	unknown	unknown	32	cR	1
+_sgltn_instance$26845	FrontEnd.o	unknown	unknown	32	cD	1
+s_sgltn_count	FrontEnd.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	FrontEnd.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$28462	GameMode.o	unknown	unknown	32	cf	1
+_sgltn_instance$29069	GameMode.o	unknown	unknown	32	cR	1
+_sgltn_instance$29147	GameMode.o	unknown	unknown	32	cD	1
+s_sgltn_count	GameMode.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	GameMode.o	unknown	unknown	4	cf+cD+cR	3
+m_mark_game_time_stamp	GameTimer.o	unknown	unknown	4	cf+cD+cR	3
+m_mark_true_time_stamp	GameTimer.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$27589	HintManager.o	unknown	unknown	32	cf	1
+_sgltn_instance$28208	HintManager.o	unknown	unknown	32	cR	1
+_sgltn_instance$28286	HintManager.o	unknown	unknown	32	cD	1
+s_sgltn_count	HintManager.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	HintManager.o	unknown	unknown	4	cf+cD+cR	3
+ButtonChecksums	InpMan.o	unknown	unknown	176	cf+cD+cR	3
+_sgltn_instance$16018	InpMan.o	unknown	unknown	872	cf	1
+_sgltn_instance$16405	InpMan.o	unknown	unknown	872	cR	1
+_sgltn_instance$16479	InpMan.o	unknown	unknown	872	cD	1
+s_sgltn_count	InpMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	InpMan.o	unknown	unknown	4	cf+cD+cR	3
+RES_FONT_DIALOG	Main.o	unknown	unknown	68375	cf+cD+cR	3
+g_buildver	Main.o	unknown	unknown	64	cf+cD+cR	3
+pre_main_count$30437	Main.o	unknown	unknown	4	cf	1
+pre_main_count$31123	Main.o	unknown	unknown	4	cR	1
+pre_main_count$31230	Main.o	unknown	unknown	4	cD	1
+_sgltn_instance$21322	Mainloop.o	unknown	unknown	204	cf	1
+_sgltn_instance$21756	Mainloop.o	unknown	unknown	204	cR	1
+_sgltn_instance$21843	Mainloop.o	unknown	unknown	204	cD	1
+next_vblanks$21391	Mainloop.o	unknown	unknown	8	cf	1
+next_vblanks$21831	Mainloop.o	unknown	unknown	8	cR	1
+next_vblanks$21919	Mainloop.o	unknown	unknown	8	cD	1
+s_sgltn_count	Mainloop.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	Mainloop.o	unknown	unknown	4	cf+cD+cR	3
+mp_appearance	ModelBuilder.o	unknown	unknown	4	cf+cD+cR	3
+mp_model	ModelBuilder.o	unknown	unknown	4	cf+cD+cR	3
+mp_shadow	ModelBuilder.o	unknown	unknown	4	cf+cD+cR	3
+mp_skeleton	ModelBuilder.o	unknown	unknown	4	cf+cD+cR	3
+m_aTrackedNodes	NavNodeManager.o	unknown	unknown	800	cf+cD+cR	3
+m_countTracked	NavNodeManager.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	NxAnimLookup.o	unknown	unknown	8	cf+cD+cR	3
+g_num_size_arrays	NxFit.o	unknown	unknown	4	cf+cD+cR	3
+gp_sizes_array	NxFit.o	unknown	unknown	4	cf+cD+cR	3
+gs_entry_array	NxFit.o	unknown	unknown	4	cf+cD+cR	3
+zone_address_string_array	NxFit.o	unknown	unknown	16	cf+cD+cR	3
+zone_best_size_string_array	NxFit.o	unknown	unknown	16	cf+cD+cR	3
+zone_order_string_array	NxFit.o	unknown	unknown	16	cf+cD+cR	3
+zone_size_string_array	NxFit.o	unknown	unknown	16	cf+cD+cR	3
+s_rgba	NxFog.o	unknown	unknown	4	cf+cD+cR	3
+s_sky_rgba	NxFog.o	unknown	unknown	4	cf+cD+cR	3
+sp_dynamic_text_list	NxFont.o	unknown	unknown	4	cf+cD+cR	3
+s_debug_font	NxFontMan.o	unknown	unknown	4	cf+cD+cR	3
+s_font_lookup	NxFontMan.o	unknown	unknown	28	cf+cD+cR	3
+s_font_tab	NxFontMan.o	unknown	unknown	448	cf+cD+cR	3
+s_meta_button_map	NxFontMan.o	unknown	unknown	32	cf+cD+cR	3
+stub_bbox$19068	NxGeom.o	unknown	unknown	32	cf	1
+stub_bbox$19456	NxGeom.o	unknown	unknown	32	cR	1
+stub_bbox$19550	NxGeom.o	unknown	unknown	32	cD	1
+stub_mat$19120	NxGeom.o	unknown	unknown	64	cf	1
+stub_mat$19147	NxGeom.o	unknown	unknown	64	cf	1
+stub_mat$19512	NxGeom.o	unknown	unknown	64	cR	1
+stub_mat$19541	NxGeom.o	unknown	unknown	64	cR	1
+stub_mat$19615	NxGeom.o	unknown	unknown	64	cD	1
+stub_mat$19651	NxGeom.o	unknown	unknown	64	cD	1
+stub_vec$19106	NxGeom.o	unknown	unknown	16	cf	1
+stub_vec$19496	NxGeom.o	unknown	unknown	16	cR	1
+stub_vec$19595	NxGeom.o	unknown	unknown	16	cD	1
+stub$16454	NxLight.o	unknown	unknown	16	cf	1
+stub$16665	NxLight.o	unknown	unknown	16	cR	1
+stub$16705	NxLight.o	unknown	unknown	16	cD	1
+_M_list	NxLightMan.o	unknown	unknown	112	cf+cD+cR	3
+affecting_lights$22909	NxLightMan.o	unknown	unknown	124	cf	1
+affecting_lights$23362	NxLightMan.o	unknown	unknown	124	cD	1
+affecting_lights$23703	NxLightMan.o	unknown	unknown	124	cR	1
+best_lights$22908	NxLightMan.o	unknown	unknown	124	cf	1
+best_lights$23361	NxLightMan.o	unknown	unknown	124	cD	1
+best_lights$23702	NxLightMan.o	unknown	unknown	124	cR	1
+best_ratio$22907	NxLightMan.o	unknown	unknown	124	cf	1
+best_ratio$23360	NxLightMan.o	unknown	unknown	124	cD	1
+best_ratio$23701	NxLightMan.o	unknown	unknown	124	cR	1
+dir$22002	NxLightMan.o	unknown	unknown	16	cf	1
+dir$22405	NxLightMan.o	unknown	unknown	16	cD	1
+dir$22455	NxLightMan.o	unknown	unknown	16	cR	1
+s_LightEnv_Table	NxLightMan.o	unknown	unknown	20	cf+cD+cR	3
+s_fake_lights_current_time	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_fake_lights_period	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_light_envs	NxLightMan.o	unknown	unknown	576	cf+cD+cR	3
+s_max_diffuse_lights	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_max_lights	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_max_render_verts_per_geom	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_min_brightness	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_next_fake_light_node_to_process	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_num_fake_lights_nodes	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_num_scene_lights	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_num_sectors	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_num_vc_lights	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_diffuse_brightness	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_extra_heap	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_fake_lights_nodes	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_fake_lights_params	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_queued_sector_names	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_queued_sectors	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_recalculate_color_buffer	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_recalculate_vert_buffer	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_scene_light_range	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_scene_lights	NxLightMan.o	unknown	unknown	1024	cf+cD+cR	3
+sp_vc_lights	NxLightMan.o	unknown	unknown	6000	cf+cD+cR	3
+spp_sectors	NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+s_bar_border_color	NxLoadScreen.o	unknown	unknown	4	cf+cD+cR	3
+s_bar_end_color	NxLoadScreen.o	unknown	unknown	4	cf+cD+cR	3
+s_bar_start_color	NxLoadScreen.o	unknown	unknown	4	cf+cD+cR	3
+s_load_time	NxLoadScreen.o	unknown	unknown	4	cf+cD+cR	3
+p_head	NxPrimMgr.o	unknown	unknown	4	cf+cD+cR	3
+p_unsorted_head	NxPrimMgr.o	unknown	unknown	4	cf+cD+cR	3
+p_screen_flash_details_table	NxScreenFlash.o	unknown	unknown	4	cf+cD+cR	3
+p_shatter_details_table	NxShatter.o	unknown	unknown	4	cf+cD+cR	3
+shatterAccel	NxShatter.o	unknown	unknown	16	cf+cD+cR	3
+shatterAccelVariance	NxShatter.o	unknown	unknown	4	cf+cD+cR	3
+shatterBlendMode	NxShatter.o	unknown	unknown	4	cf+cD+cR	3
+shatterBounceAmplitude	NxShatter.o	unknown	unknown	4	cf+cD+cR	3
+shatterGravity	NxShatter.o	unknown	unknown	16	cf+cD+cR	3
+shatterOrigin	NxShatter.o	unknown	unknown	16	cf+cD+cR	3
+shatterShininess	NxShatter.o	unknown	unknown	4	cf+cD+cR	3
+shatterTexSwap	NxShatter.o	unknown	unknown	4	cf+cD+cR	3
+p_spawned_poly_table	NxSpawnPoly.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	NxSpawnPoly.o	unknown	unknown	8	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	NxSplat.o	unknown	unknown	4	cf+cD+cR	3
+collision_table$24678	NxSplat.o	unknown	unknown	1028	cf	1
+collision_table$24952	NxSplat.o	unknown	unknown	1028	cD	1
+collision_table$25173	NxSplat.o	unknown	unknown	1028	cR	1
+p_splat_details_table	NxSplat.o	unknown	unknown	4	cf+cD+cR	3
+p_splat_trail_details_table	NxSplat.o	unknown	unknown	4	cf+cD+cR	3
+s_default_ignore_flags	NxSplat.o	unknown	unknown	4	cf+cD+cR	3
+sector_table$24677	NxSplat.o	unknown	unknown	1028	cf	1
+sector_table$24951	NxSplat.o	unknown	unknown	1028	cD	1
+sector_table$25172	NxSplat.o	unknown	unknown	1028	cR	1
+s_tex_dict_lookup	NxTexMan.o	unknown	unknown	28	cf+cD+cR	3
+sp_particle_tex_dict	NxTexMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_sprite_tex_dict	NxTexMan.o	unknown	unknown	4	cf+cD+cR	3
+modifiers$24695	NxTexture.o	unknown	unknown	36	cf	1
+modifiers$25092	NxTexture.o	unknown	unknown	36	cD	1
+modifiers$25521	NxTexture.o	unknown	unknown	36	cR	1
+collision_table$24426	NxTextureProjection.o	unknown	unknown	512	cf	1
+collision_table$24910	NxTextureProjection.o	unknown	unknown	512	cR	1
+collision_table$24999	NxTextureProjection.o	unknown	unknown	512	cD	1
+sector_table$24425	NxTextureProjection.o	unknown	unknown	512	cf	1
+sector_table$24909	NxTextureProjection.o	unknown	unknown	512	cR	1
+sector_table$24998	NxTextureProjection.o	unknown	unknown	512	cD	1
+s_2D_in_3D_space_min_scale	NxViewMan.o	unknown	unknown	4	cf+cD+cR	3
+s_num_active_viewports	NxViewMan.o	unknown	unknown	24	cf+cD+cR	3
+s_num_active_viewports_cached	NxViewMan.o	unknown	unknown	4	cf+cD+cR	3
+s_screen_angle	NxViewMan.o	unknown	unknown	4	cf+cD+cR	3
+s_screen_aspect	NxViewMan.o	unknown	unknown	4	cf+cD+cR	3
+s_screen_mode	NxViewMan.o	unknown	unknown	4	cf+cD+cR	3
+s_screen_mode_viewport_indexes	NxViewMan.o	unknown	unknown	96	cf+cD+cR	3
+s_viewport_rects	NxViewMan.o	unknown	unknown	160	cf+cD+cR	3
+sp_viewports	NxViewMan.o	unknown	unknown	40	cf+cD+cR	3
+sp_window_list	NxWin2D.o	unknown	unknown	4	cf+cD+cR	3
+s_CellSearcher	Path.o	unknown	unknown	96	cf+cD+cR	3
+mp_instance	PathMan.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$24165	PlayerProfileManager.o	unknown	unknown	64	cf	1
+_sgltn_instance$24670	PlayerProfileManager.o	unknown	unknown	64	cR	1
+_sgltn_instance$24744	PlayerProfileManager.o	unknown	unknown	64	cD	1
+s_sgltn_count	PlayerProfileManager.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	PlayerProfileManager.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	PoolManager.o	unknown	unknown	8	cf+cD+cR	3
+gHeapPools	Poolable.o	unknown	unknown	4	cD+cR	2
+gLegBoneIndices	PoseScratchPad.o	unknown	unknown	36	cf+cD+cR	3
+p_bone_handled$21861	PoseScratchPad.o	unknown	unknown	64	cf	1
+p_bone_handled$21884	PoseScratchPad.o	unknown	unknown	64	cD	1
+p_bone_handled$22690	PoseScratchPad.o	unknown	unknown	64	cR	1
+sm_last_freed_pose	PoseScratchPad.o	unknown	unknown	4	cf+cD+cR	3
+sm_num_bones	PoseScratchPad.o	unknown	unknown	4	cf+cD+cR	3
+smp_scratch_poses	PoseScratchPad.o	unknown	unknown	14304	cf+cD+cR	3
+smp_valid_bone_flags	PoseScratchPad.o	unknown	unknown	66	cf+cD+cR	3
+_sgltn_instance$25606	ScreenElemMan.o	unknown	unknown	1712	cf	1
+_sgltn_instance$26217	ScreenElemMan.o	unknown	unknown	1712	cR	1
+_sgltn_instance$26291	ScreenElemMan.o	unknown	unknown	1712	cD	1
+s_sgltn_count	ScreenElemMan.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	ScreenElemMan.o	unknown	unknown	4	cf+cD+cR	3
+auditList_$21828	ScreenElement2.o	unknown	unknown	4800	cD	1
+auditList_$22254	ScreenElement2.o	unknown	unknown	4800	cR	1
+auditSize_$21829	ScreenElement2.o	unknown	unknown	8	cD	1
+auditSize_$22255	ScreenElement2.o	unknown	unknown	8	cR	1
+flagStr$21722	ScreenElement2.o	unknown	unknown	256	cD	1
+flagStr$22162	ScreenElement2.o	unknown	unknown	256	cR	1
+name_lookup_$22231	ScreenElement2.o	unknown	unknown	96	cR	1
+s_audit_element	ScreenElement2.o	unknown	unknown	4	cD+cR	2
+write_list_$21831	ScreenElement2.o	unknown	unknown	4	cD	1
+write_list_$22257	ScreenElement2.o	unknown	unknown	4	cR	1
+sm_list	SpawnManager.o	unknown	unknown	8	cf+cD+cR	3
+sp_default_cache	SphereFeeler.o	unknown	unknown	4	cf+cD+cR	3
+QualCollSectors	SuperSector.o	unknown	unknown	8192	cf+cD+cR	3
+_sgltn_instance$23280	TODManager.o	unknown	unknown	4392	cf	1
+_sgltn_instance$23740	TODManager.o	unknown	unknown	4392	cR	1
+_sgltn_instance$23814	TODManager.o	unknown	unknown	4392	cD	1
+s_sgltn_count	TODManager.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	TODManager.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$22389	TransitionAreaManager.o	unknown	unknown	224	cf	1
+_sgltn_instance$22910	TransitionAreaManager.o	unknown	unknown	224	cR	1
+_sgltn_instance$22969	TransitionAreaManager.o	unknown	unknown	224	cD	1
+s_sgltn_count	TransitionAreaManager.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	TransitionAreaManager.o	unknown	unknown	4	cf+cD+cR	3
+last_node_hit$25987	Viewer.o	unknown	unknown	4	cf	1
+last_node_hit$26587	Viewer.o	unknown	unknown	4	cR	1
+last_node_hit$26644	Viewer.o	unknown	unknown	4	cD	1
+last_time$25903	Viewer.o	unknown	unknown	4	cf	1
+last_time$26503	Viewer.o	unknown	unknown	4	cR	1
+last_time$26560	Viewer.o	unknown	unknown	4	cD	1
+sNumQBRdFiles	Viewer.o	unknown	unknown	4	cD+cR	2
+sSymbolListNumEntries	Viewer.o	unknown	unknown	4	cD+cR	2
+s_movement_vel	Viewer.o	unknown	unknown	4	cf+cD+cR	3
+s_rotate_vel	Viewer.o	unknown	unknown	4	cf+cD+cR	3
+s_view_mode	Viewer.o	unknown	unknown	4	cf+cD+cR	3
+spQBRdFiles	Viewer.o	unknown	unknown	5360	cD+cR	2
+spSymbolList	Viewer.o	unknown	unknown	4	cD+cR	2
+sp_viewer	Viewer.o	unknown	unknown	4	cf+cD+cR	3
+current_zone_sound_checksum	ZoneSounds.o	unknown	unknown	4	cf+cD+cR	3
+gp_zone_sound_address	ZoneSounds.o	unknown	unknown	4	cf+cD+cR	3
+zone_sound_loading_checksum	ZoneSounds.o	unknown	unknown	4	cf+cD+cR	3
+zone_sound_loading_id	ZoneSounds.o	unknown	unknown	4	cf+cD+cR	3
+zone_sounds_loaded_address	ZoneSounds.o	unknown	unknown	512	cf+cD+cR	3
+zone_sounds_loaded_checksum	ZoneSounds.o	unknown	unknown	512	cf+cD+cR	3
+zone_sounds_loaded_excludednomemory	ZoneSounds.o	unknown	unknown	128	cf+cD+cR	3
+zone_sounds_loaded_num	ZoneSounds.o	unknown	unknown	4	cf+cD+cR	3
+s_align_stack	alloc.o	unknown	unknown	64	cf+cD+cR	3
+s_align_stack_index	alloc.o	unknown	unknown	4	cf+cD+cR	3
+g_PrimaryChannelAnimUS	animblendsubset.o	unknown	unknown	8	cD+cR	2
+g_PrimarySubsetAnimUS	animblendsubset.o	unknown	unknown	8	cD+cR	2
+g_SecondaryChannelAnimUS	animblendsubset.o	unknown	unknown	8	cD+cR	2
+g_SecondarySubsetAnimUS	animblendsubset.o	unknown	unknown	8	cD+cR	2
+p_looping_types$27298	animblendsubset.o	unknown	unknown	16	cf	1
+p_looping_types$28141	animblendsubset.o	unknown	unknown	16	cD	1
+p_looping_types$28175	animblendsubset.o	unknown	unknown	16	cR	1
+s_max_channels	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+s_max_stages	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+s_max_subsets	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+s_result_pose	animblendsubset.o	unknown	unknown	2112	cf+cD+cR	3
+s_updating_channels_object_id	animblendsubset.o	unknown	unknown	4	cD+cR	2
+sp_channel_poses	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+sp_channel_weights	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+sp_stage_poses	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+sp_stage_weights	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+sp_subset_poses	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+sp_subset_weights	animblendsubset.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	array.o	unknown	unknown	8	cf+cD+cR	3
+s_load_context_allocations	asset.o	unknown	unknown	4	cf+cD+cR	3
+s_load_context_buffers	asset.o	unknown	unknown	688	cf+cD+cR	3
+s_CellSearcher	astar.o	unknown	unknown	96	cf+cD+cR	3
+sp_pool	astar.o	unknown	unknown	8	cf+cD+cR	3
+spMemberFunctions	avoidcomponent.o	unknown	unknown	180	cf+cD+cR	3
+spMemberFunctions	bboxcomponent.o	unknown	unknown	80	cf+cD+cR	3
+EventTypeNames	behaviorController.o	unknown	unknown	56	cf+cD+cR	3
+PedTypeNames	behaviorController.o	unknown	unknown	72	cf+cD+cR	3
+mBank	behaviorController.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	blendchannel.o	unknown	unknown	8	cf+cD+cR	3
+sp_bitmap_alloc_buffer	capture.o	unknown	unknown	4	cf+cD+cR	3
+sp_bitmap_buffer	capture.o	unknown	unknown	4	cf+cD+cR	3
+sp_dest_texture	capture.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	carphysicscomponent.o	unknown	unknown	60	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	chars.o	unknown	unknown	4	cf+cD+cR	3
+pButtonsFont	chars.o	unknown	unknown	4	cf+cD+cR	3
+pFontList	chars.o	unknown	unknown	4	cf+cD+cR	3
+spOverrideFont	chars.o	unknown	unknown	4	cf+cD+cR	3
+num_used_checksum_entries	checksum.o	unknown	unknown	4	cf+cD+cR	3
+s_current_unknown_checksum_buf	checksum.o	unknown	unknown	4	cf+cD+cR	3
+sp_checksum_buckets	checksum.o	unknown	unknown	4	cf+cD+cR	3
+sp_checksum_entries	checksum.o	unknown	unknown	4	cf+cD+cR	3
+sp_checksum_names	checksum.o	unknown	unknown	4	cf+cD+cR	3
+sp_end_of_checksum_names	checksum.o	unknown	unknown	4	cf+cD+cR	3
+sp_unknown_checksum_buf	checksum.o	unknown	unknown	500	cf+cD+cR	3
+sp_pool	component.o	unknown	unknown	8	cf+cD+cR	3
+object_id	compositeobject.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	compositeobject.o	unknown	unknown	700	cf+cD+cR	3
+_sgltn_instance$16492	compositeobjectmanager.o	unknown	unknown	1096	cf	1
+_sgltn_instance$16918	compositeobjectmanager.o	unknown	unknown	1096	cR	1
+_sgltn_instance$16992	compositeobjectmanager.o	unknown	unknown	1096	cD	1
+mp_components_by_type	compositeobjectmanager.o	unknown	unknown	512	cf+cD+cR	3
+s_sgltn_count	compositeobjectmanager.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	compositeobjectmanager.o	unknown	unknown	4	cf+cD+cR	3
+gHardware	config.o	unknown	unknown	4	cf+cD+cR	3
+gLanguage	config.o	unknown	unknown	4	cf+cD+cR	3
+gMemCardHeader	config.o	unknown	unknown	128	cf+cD+cR	3
+gReturnString	config.o	unknown	unknown	128	cf+cD+cR	3
+gReturnTo	config.o	unknown	unknown	128	cf+cD+cR	3
+gTerritory	config.o	unknown	unknown	4	cf+cD+cR	3
+CRCTable	crc.o	unknown	unknown	1024	cf+cD+cR	3
+spMemberFunctions	crowncomponent.o	unknown	unknown	20	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	cutscenedetails.o	unknown	unknown	4	cf+cD+cR	3
+cutsceneName$26470	cutscenedetails.o	unknown	unknown	256	cf	1
+cutsceneName$27564	cutscenedetails.o	unknown	unknown	256	cR	1
+cutsceneName$27664	cutscenedetails.o	unknown	unknown	256	cD	1
+s_cutscene_frames	cutscenedetails.o	unknown	unknown	4	cf+cD+cR	3
+s_cutscene_name	cutscenedetails.o	unknown	unknown	256	cf+cD+cR	3
+s_temp_quats	cutscenedetails.o	unknown	unknown	2048	cf+cD+cR	3
+s_temp_used_bones	cutscenedetails.o	unknown	unknown	128	cf+cD+cR	3
+s_temp_vectors	cutscenedetails.o	unknown	unknown	2048	cf+cD+cR	3
+testBonePositions	cutscenedetails.o	unknown	unknown	80	cf+cD+cR	3
+testBoneScales	cutscenedetails.o	unknown	unknown	80	cf+cD+cR	3
+DebuggeryLineIndex$22174	debuggfx.o	unknown	unknown	4	cR	1
+DebuggeryLineIndex$22194	debuggfx.o	unknown	unknown	4	cD	1
+DebuggeryLineIndex$22234	debuggfx.o	unknown	unknown	4	cD	1
+DebuggeryLineIndex$22254	debuggfx.o	unknown	unknown	4	cR	1
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	debuggfx.o	unknown	unknown	4	cf+cD+cR	3
+ptmp	debuggfx.o	unknown	unknown	98304	cD+cR	2
+sp_emitter_lookup	emitter.o	unknown	unknown	4	cf+cD+cR	3
+sPrecedence	eval.o	unknown	unknown	308	cf+cD+cR	3
+spResult	eval.o	unknown	unknown	16	cf+cD+cR	3
+sp_default_cache	feeler.o	unknown	unknown	4	cf+cD+cR	3
+sNumQBRCallbacks	file.o	unknown	unknown	4	cD+cR	2
+spQBRCallbacks	file.o	unknown	unknown	512	cD+cR	2
+g_flag_checksum	flagcache.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$24593	game.o	unknown	unknown	488	cf	1
+_sgltn_instance$25141	game.o	unknown	unknown	488	cR	1
+_sgltn_instance$25215	game.o	unknown	unknown	488	cD	1
+s_sgltn_count	game.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	game.o	unknown	unknown	4	cf+cD+cR	3
+s_hide_model_helper	gfxutils.o	unknown	unknown	8	cf+cD+cR	3
+spMemberFunctions	goalmanagercomponent.o	unknown	unknown	20	cf+cD+cR	3
+forced_average	gs_IdleProc.o	unknown	unknown	4	cf+cD+cR	3
+low_threshold	gs_IdleProc.o	unknown	unknown	4	cf+cD+cR	3
+num_forced_nodes	gs_IdleProc.o	unknown	unknown	4	cf+cD+cR	3
+num_frames_passed	gs_IdleProc.o	unknown	unknown	4	cf+cD+cR	3
+num_nodes_parsed	gs_IdleProc.o	unknown	unknown	4	cf+cD+cR	3
+vblanks	gs_IdleProc.o	unknown	unknown	8	cf+cD+cR	3
+HEAP_REPORT_ON_POINTER	heap.o	unknown	unknown	4	cD+cR	2
+largest_allocation	heap.o	unknown	unknown	4	cD+cR	2
+m_State	heap.o	unknown	unknown	4	cf+cD+cR	3
+num_debug_pointers	heap.o	unknown	unknown	4	cD+cR	2
+pSpecificHeader	heap.o	unknown	unknown	4	cf+cD+cR	3
+p_debug_pointers	heap.o	unknown	unknown	4	cD+cR	2
+total_pad_allocations	heap.o	unknown	unknown	4	cD+cR	2
+total_unique_pad_allocations	heap.o	unknown	unknown	4	cD+cR	2
+tripThisFollowingAssert$15833	heap.o	unknown	unknown	4	cf	1
+tripThisFollowingAssert$16264	heap.o	unknown	unknown	4	cR	1
+tripThisFollowingAssert$16311	heap.o	unknown	unknown	4	cD	1
+master_checksums	hed.o	unknown	unknown	4	cf+cD+cR	3
+num_stereo_checksums	hed.o	unknown	unknown	4	cf+cD+cR	3
+slave_checksums	hed.o	unknown	unknown	4	cf+cD+cR	3
+s_horse_status	horse.o	unknown	unknown	28	cf+cD+cR	3
+adc_table	inpserv.o	unknown	unknown	152	cf+cD+cR	3
+gDebugBreaks	inpserv.o	unknown	unknown	16	cf+cD+cR	3
+gDebugButtons	inpserv.o	unknown	unknown	16	cf+cD+cR	3
+gDebugMakes	inpserv.o	unknown	unknown	16	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	instance.o	unknown	unknown	4	cf+cD+cR	3
+bone_mtx$24144	instance.o	unknown	unknown	3072	cf	1
+bone_mtx$24597	instance.o	unknown	unknown	3072	cR	1
+bone_mtx$24804	instance.o	unknown	unknown	3072	cD	1
+gCurFrameShadowCount	instance.o	unknown	unknown	4	cD	1
+gCurFrameShadowCountMax	instance.o	unknown	unknown	4	cD	1
+gLightPos	instance.o	unknown	unknown	16	cf+cD+cR	3
+gNumActiveInstances	instance.o	unknown	unknown	4	cf+cD+cR	3
+gNumFrameInstances	instance.o	unknown	unknown	4	cf+cD+cR	3
+gNumVisibleInstances	instance.o	unknown	unknown	4	cf+cD+cR	3
+gNumVisibleShadowInstances	instance.o	unknown	unknown	4	cf+cD+cR	3
+gPosX	instance.o	unknown	unknown	16	cf+cD+cR	3
+gaFrameInstances	instance.o	unknown	unknown	8192	cf+cD+cR	3
+gaVisibleInstances	instance.o	unknown	unknown	8192	cf+cD+cR	3
+gaVisibleShadowInstances	instance.o	unknown	unknown	2048	cf+cD+cR	3
+gpFirstInstance	instance.o	unknown	unknown	4	cf+cD+cR	3
+gpShow1Instance	instance.o	unknown	unknown	4	cD	1
+spMemberFunctions	lockobjcomponent.o	unknown	unknown	60	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	material.o	unknown	unknown	4	cf+cD+cR	3
+RandA	math.o	unknown	unknown	4	cf+cD+cR	3
+RandB	math.o	unknown	unknown	4	cf+cD+cR	3
+RandC	math.o	unknown	unknown	4	cf+cD+cR	3
+RandD	math.o	unknown	unknown	4	cf+cD+cR	3
+RandSeed	math.o	unknown	unknown	4	cf+cD+cR	3
+RandSeed2	math.o	unknown	unknown	4	cf+cD+cR	3
+SinCosTable	math.o	unknown	unknown	1904	cf+cD+cR	3
+_code_end	memman.o	unknown	unknown	4	cf+cD+cR	3
+_code_start	memman.o	unknown	unknown	4	cf+cD+cR	3
+_data_end	memman.o	unknown	unknown	4	cf+cD+cR	3
+_debug_heap_start	memman.o	unknown	unknown	4	cf+cD+cR	3
+_mem_end	memman.o	unknown	unknown	4	cf+cD+cR	3
+_mem_start	memman.o	unknown	unknown	4	cf+cD+cR	3
+_std_mem_end	memman.o	unknown	unknown	4	cf+cD+cR	3
+countPop	memman.o	unknown	unknown	4	cD+cR	2
+countPush	memman.o	unknown	unknown	4	cD+cR	2
+done_sp_instance_init$18842	memman.o	unknown	unknown	4	cf	1
+done_sp_instance_init$19217	memman.o	unknown	unknown	4	cR	1
+done_sp_instance_init$19272	memman.o	unknown	unknown	4	cD	1
+g_pool_size	memman.o	unknown	unknown	128	cf+cD+cR	3
+gp_pool	memman.o	unknown	unknown	128	cf+cD+cR	3
+s_bot_heap_buffer	memman.o	unknown	unknown	188	cf+cD+cR	3
+s_csOver_region_buffer	memman.o	unknown	unknown	32	cf+cR	2
+s_debug_heap_buffer	memman.o	unknown	unknown	188	cf+cR	2
+s_debug_region_buffer	memman.o	unknown	unknown	32	cf+cD+cR	3
+s_manager_buffer	memman.o	unknown	unknown	2984	cf+cD+cR	3
+s_next_profile	memman.o	unknown	unknown	4	cD+cR	2
+s_profile_count	memman.o	unknown	unknown	4	cD+cR	2
+s_profile_list	memman.o	unknown	unknown	4	cD+cR	2
+s_profile_stack	memman.o	unknown	unknown	128	cD+cR	2
+s_profile_stack_depth	memman.o	unknown	unknown	4	cD+cR	2
+s_region_buffer	memman.o	unknown	unknown	32	cf+cD+cR	3
+s_save_pushed	memman.o	unknown	unknown	4	cD+cR	2
+s_script_region_buffer	memman.o	unknown	unknown	32	cf+cR	2
+s_top_heap_buffer	memman.o	unknown	unknown	188	cf+cD+cR	3
+smHeapsUsed	memman.o	unknown	unknown	200	cD+cR	2
+sm_heaps_used	memman.o	unknown	unknown	4	cD+cR	2
+sp_current_profile	memman.o	unknown	unknown	4	cD+cR	2
+sp_instance	memman.o	unknown	unknown	4	cf+cD+cR	3
+sp_saved_profile	memman.o	unknown	unknown	32	cD+cR	2
+Functions	memview.o	unknown	unknown	4	cD+cR	2
+MemView_Active	memview.o	unknown	unknown	4	cf+cD+cR	3
+_callstack_start	memview.o	unknown	unknown	2227952	cD+cR	2
+fragmem$17027	memview.o	unknown	unknown	4	cD	1
+fragmem$17091	memview.o	unknown	unknown	4	cR	1
+pFilebuffer	memview.o	unknown	unknown	2048	cD+cR	2
+ptmpB$17055	memview.o	unknown	unknown	4	cD	1
+ptmpB$17119	memview.o	unknown	unknown	4	cR	1
+reportedproblem$17088	memview.o	unknown	unknown	4	cD	1
+reportedproblem$17152	memview.o	unknown	unknown	4	cR	1
+used_list	memview.o	unknown	unknown	272	cD+cR	2
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	mesh.o	unknown	unknown	4	cf+cD+cR	3
+s_currentVertIndex	mesh.o	unknown	unknown	4	cf+cD+cR	3
+s_pBonePositions	mesh.o	unknown	unknown	4	cf+cD+cR	3
+s_pBoneScales	mesh.o	unknown	unknown	4	cf+cD+cR	3
+s_pWeightIndices	mesh.o	unknown	unknown	4	cf+cD+cR	3
+s_pWeights	mesh.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	modelcomponent.o	unknown	unknown	880	cf+cD+cR	3
+_sgltn_instance$10675	modman.o	unknown	unknown	28	cf	1
+_sgltn_instance$10745	modman.o	unknown	unknown	28	cR	1
+_sgltn_instance$10904	modman.o	unknown	unknown	28	cD	1
+s_sgltn_count	modman.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	modman.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	motioncomponent.o	unknown	unknown	1020	cf+cD+cR	3
+_sgltn_instance$19151	net.o	unknown	unknown	464	cf	1
+_sgltn_instance$19477	net.o	unknown	unknown	464	cR	1
+_sgltn_instance$19567	net.o	unknown	unknown	464	cD	1
+s_sgltn_count	net.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	net.o	unknown	unknown	4	cf+cD+cR	3
+s_prefixed_node_lookup	nodearray.o	unknown	unknown	244	cf+cD+cR	3
+sp_found_node_names	nodearray.o	unknown	unknown	4000	cf+cD+cR	3
+_sgltn_instance$16385	nodearrayman.o	unknown	unknown	3600	cf	1
+_sgltn_instance$16752	nodearrayman.o	unknown	unknown	10256	cR	1
+_sgltn_instance$16826	nodearrayman.o	unknown	unknown	10256	cD	1
+s_sgltn_count	nodearrayman.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	nodearrayman.o	unknown	unknown	4	cf+cD+cR	3
+m_checksum_count	nodeflags.o	unknown	unknown	4	cf+cD+cR	3
+m_checksum_hash	nodeflags.o	unknown	unknown	2048	cf+cD+cR	3
+m_checksum_value	nodeflags.o	unknown	unknown	512	cf+cD+cR	3
+m_queued_actions	nodeflags.o	unknown	unknown	8	cf+cD+cR	3
+mp_nodelist_head	nodeflags.o	unknown	unknown	4096	cf+cD+cR	3
+g_pSkyScene	nx.o	unknown	unknown	4	cf+cD+cR	3
+m_pCallBack	nx.o	unknown	unknown	4	cf+cD+cR	3
+m_render_lock_id	nx.o	unknown	unknown	4	cf+cD+cR	3
+m_safe_render_lock_count	nx.o	unknown	unknown	40	cf+cD+cR	3
+m_safe_render_lock_id	nx.o	unknown	unknown	40	cf+cD+cR	3
+m_safe_render_lock_id_active_count	nx.o	unknown	unknown	4	cf+cD+cR	3
+mp_common_gamenet_manager	nx.o	unknown	unknown	4	cf+cD+cR	3
+mp_flex_particle_manager	nx.o	unknown	unknown	4	cf+cD+cR	3
+mp_imposter_manager	nx.o	unknown	unknown	4	cf+cD+cR	3
+mp_particle_manager	nx.o	unknown	unknown	4	cf+cD+cR	3
+mp_screen_effects	nx.o	unknown	unknown	4	cf+cD+cR	3
+mp_weather	nx.o	unknown	unknown	4	cf+cD+cR	3
+s_current_rendering_viewport	nx.o	unknown	unknown	4	cf+cD+cR	3
+s_debug_ignore_0	nx.o	unknown	unknown	4	cf+cD+cR	3
+s_debug_ignore_1	nx.o	unknown	unknown	4	cf+cD+cR	3
+s_loaded_scenes	nx.o	unknown	unknown	20	cf+cD+cR	3
+s_render_mode	nx.o	unknown	unknown	4	cf+cD+cR	3
+s_supersector_managers	nx.o	unknown	unknown	128	cf+cD+cR	3
+s_supersector_scene	nx.o	unknown	unknown	128	cf+cD+cR	3
+s_wireframe_mode	nx.o	unknown	unknown	4	cf+cD+cR	3
+sp_moving_object_manager	nx.o	unknown	unknown	4	cf+cD+cR	3
+EngineGlobals	nx_init.o	unknown	unknown	612	cf+cD+cR	3
+shadowDPStack	nx_init.o	unknown	unknown	16	cf+cD+cR	3
+shadowDPStackIndex	nx_init.o	unknown	unknown	4	cf+cD+cR	3
+g_load_context	nxpak.o	unknown	unknown	2304	cf+cD+cR	3
+g_num_pak_context	nxpak.o	unknown	unknown	4	cf+cD+cR	3
+g_split_binary	nxpak.o	unknown	unknown	4	cf+cD+cR	3
+g_split_header	nxpak.o	unknown	unknown	4	cf+cD+cR	3
+g_split_headersize	nxpak.o	unknown	unknown	4	cf+cD+cR	3
+gp_load_pak_callback_name	nxpak.o	unknown	unknown	4	cf+cD+cR	3
+gp_pak_context	nxpak.o	unknown	unknown	1024	cf+cD+cR	3
+g_ParticleLOD	nxparticle.o	unknown	unknown	36	cf+cD+cR	3
+g_color_perm_table	nxparticle.o	unknown	unknown	16	cf+cD+cR	3
+g_vector_127	nxparticle.o	unknown	unknown	16	cf+cD+cR	3
+g_vector_128	nxparticle.o	unknown	unknown	16	cf+cD+cR	3
+g_vector_255	nxparticle.o	unknown	unknown	16	cf+cD+cR	3
+g_vector_reci_127	nxparticle.o	unknown	unknown	16	cf+cD+cR	3
+sm_frame_rate	nxparticlemgr.o	unknown	unknown	4	cf+cD+cR	3
+s_default_mangle	object.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	object.o	unknown	unknown	420	cf+cD+cR	3
+sp_pool	object.o	unknown	unknown	8	cf+cD+cR	3
+_sgltn_instance$19305	objtrack.o	unknown	unknown	524	cf	1
+_sgltn_instance$20134	objtrack.o	unknown	unknown	45760	cR	1
+_sgltn_instance$20209	objtrack.o	unknown	unknown	45760	cD	1
+s_sgltn_count	objtrack.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	objtrack.o	unknown	unknown	8	cf+cD+cR	3
+sp_sgltn_instance	objtrack.o	unknown	unknown	4	cf+cD+cR	3
+CurrentView	occlude.o	unknown	unknown	4	cf+cD+cR	3
+NextOcclusionPolyToCheck	occlude.o	unknown	unknown	4	cf+cD+cR	3
+NumOccluders	occlude.o	unknown	unknown	4	cf+cD+cR	3
+NumOcclusionPolys	occlude.o	unknown	unknown	4	cf+cD+cR	3
+Occluders	occlude.o	unknown	unknown	832	cf+cD+cR	3
+OcclusionPolys	occlude.o	unknown	unknown	11264	cf+cD+cR	3
+sPrintOccluderStat	occlude.o	unknown	unknown	4	cf+cD+cR	3
+_file_handles$21554	p_AsyncFilesys.o	unknown	unknown	9216	cf	1
+_file_handles$22002	p_AsyncFilesys.o	unknown	unknown	17408	cR	1
+_file_handles$22052	p_AsyncFilesys.o	unknown	unknown	17408	cD	1
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_NxGeom.o	unknown	unknown	4	cf+cD+cR	3
+bbox$25462	p_NxGeom.o	unknown	unknown	32	cf	1
+bbox$26061	p_NxGeom.o	unknown	unknown	32	cR	1
+bbox$26098	p_NxGeom.o	unknown	unknown	32	cD	1
+last_audio_update	p_NxGeom.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_NxLightMan.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_NxMesh.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_NxShadowVolume.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_NxViewport.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_NxWin2D.o	unknown	unknown	4	cf+cD+cR	3
+buffer_size	p_buffer.o	unknown	unknown	4	cf+cD+cR	3
+current_bytes	p_buffer.o	unknown	unknown	4	cf+cD+cR	3
+g_p_buffer	p_buffer.o	unknown	unknown	4	cf+cD+cR	3
+head_offset	p_buffer.o	unknown	unknown	4	cf+cD+cR	3
+max_bytes	p_buffer.o	unknown	unknown	4	cf+cD+cR	3
+tail_offset	p_buffer.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_camera.o	unknown	unknown	4	cf+cD+cR	3
+TargetInfo	p_camera.o	unknown	unknown	304	cf+cD+cR	3
+gTargetInfoSaved	p_camera.o	unknown	unknown	304	cf+cD+cR	3
+s_elf_name	p_config.o	unknown	unknown	64	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_display.o	unknown	unknown	4	cf+cD+cR	3
+RenderQ	p_display.o	unknown	unknown	64	cf+cD+cR	3
+_reset_dvd_check_result	p_display.o	unknown	unknown	4	cf+cD+cR	3
+blurFilter	p_display.o	unknown	unknown	7	cf+cD+cR	3
+copyXFB	p_display.o	unknown	unknown	4	cf+cD+cR	3
+dispXFB	p_display.o	unknown	unknown	4	cf+cD+cR	3
+gScreenShotMem$25082	p_display.o	unknown	unknown	8192	cR	1
+gScreenShotMem$25141	p_display.o	unknown	unknown	8192	cD	1
+g_pLastFrameEnd	p_display.o	unknown	unknown	4	cf+cD+cR	3
+g_pLastFrameStart	p_display.o	unknown	unknown	4	cf+cD+cR	3
+initCount	p_display.o	unknown	unknown	4	cf+cD+cR	3
+lastDispXFB	p_display.o	unknown	unknown	4	cf+cD+cR	3
+lastFrameBufToken	p_display.o	unknown	unknown	4	cf+cD+cR	3
+lasty	p_display.o	unknown	unknown	4	cf+cD+cR	3
+myXFB1	p_display.o	unknown	unknown	4	cf+cD+cR	3
+myXFB2	p_display.o	unknown	unknown	4	cf+cD+cR	3
+newFrameBufToken	p_display.o	unknown	unknown	4	cf+cD+cR	3
+overrideclear$24618	p_display.o	unknown	unknown	4	cf	1
+overrideclear$25089	p_display.o	unknown	unknown	4	cR	1
+overrideclear$25148	p_display.o	unknown	unknown	4	cD	1
+prevx	p_display.o	unknown	unknown	4	cf+cD+cR	3
+prevy	p_display.o	unknown	unknown	4	cf+cD+cR	3
+queueStalls	p_display.o	unknown	unknown	4	cf+cD+cR	3
+resetDown	p_display.o	unknown	unknown	4	cf+cD+cR	3
+reset_enabled_frames	p_display.o	unknown	unknown	4	cf+cD+cR	3
+selection	p_display.o	unknown	unknown	4	cf+cD+cR	3
+selection_max	p_display.o	unknown	unknown	4	cf+cD+cR	3
+shutdown	p_display.o	unknown	unknown	4	cf+cD+cR	3
+g_skyFile	p_filesys.o	unknown	unknown	828	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+VidFile	p_movies.o	unknown	unknown	148	cf+cD+cR	3
+audioNumActiveVoices	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioNumPlayMasks	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioPlayBackPossible	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioPlayBufferEnabled	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioPlayBufferFrq	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioPlayMaskArray	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBuffer	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBufferNumSamples	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBufferReadPos	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+audioReadBufferWritePos	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+axCurrentFrq	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+axLastAddr	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+axMinAvailFrames	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+axPhase	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+axPlayedSamples	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+axVoice	p_movies.o	unknown	unknown	8	cf+cD+cR	3
+currentTexture	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+currentlyPlayingMovieCount	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+movieMemBuf	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+movieOpenState	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+numVidReadBuffers	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+p_buffer_offset	p_movies.o	unknown	unknown	4	cf+cD+cR	3
+player	p_movies.o	unknown	unknown	932	cf+cD+cR	3
+gLastDvdCallbackCounters	p_music.o	unknown	unknown	32	cf+cD+cR	3
+gLastDvdCallbackFileInfoPtrs	p_music.o	unknown	unknown	32	cf+cD+cR	3
+gLastDvdCallbackLengths	p_music.o	unknown	unknown	32	cf+cD+cR	3
+gLastDvdCallbacks	p_music.o	unknown	unknown	32	cf+cD+cR	3
+music_volume	p_music.o	unknown	unknown	4	cf+cD+cR	3
+name_buffer$22693	p_music.o	unknown	unknown	256	cf	1
+name_buffer$23150	p_music.o	unknown	unknown	256	cR	1
+name_buffer$23194	p_music.o	unknown	unknown	256	cD	1
+num_streams	p_music.o	unknown	unknown	4	cf+cD+cR	3
+p_filename$22724	p_music.o	unknown	unknown	444	cf	1
+p_filename$23181	p_music.o	unknown	unknown	444	cR	1
+p_filename$23221	p_music.o	unknown	unknown	444	cD	1
+p_stream_hed	p_music.o	unknown	unknown	4	cf+cD+cR	3
+preload_music_checksum	p_music.o	unknown	unknown	4	cf+cD+cR	3
+preload_music_filename	p_music.o	unknown	unknown	256	cf+cD+cR	3
+streams	p_music.o	unknown	unknown	3408	cf+cD+cR	3
+g_wait_count	p_persistentmem.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_prim.o	unknown	unknown	4	cf+cD+cR	3
+inDrawingContext	p_prim.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	p_render.o	unknown	unknown	4	cf+cD+cR	3
+inRenderingContext	p_render.o	unknown	unknown	4	cf+cD+cR	3
+g_connected	p_screenshot.o	unknown	unknown	4	cD+cR	2
+g_hio2Initilized	p_screenshot.o	unknown	unknown	4	cD+cR	2
+g_mail_waiting	p_screenshot.o	unknown	unknown	4	cD+cR	2
+gStoredTimerInfo	p_timer.o	unknown	unknown	56	cf+cD+cR	3
+gTimerInfo	p_timer.o	unknown	unknown	56	cf+cD+cR	3
+now	p_timer.o	unknown	unknown	8	cf+cD+cR	3
+s_count	p_timer.o	unknown	unknown	8	cf+cD+cR	3
+s_milliseconds	p_timer.o	unknown	unknown	4	cf+cD+cR	3
+s_render_frame	p_timer.o	unknown	unknown	8	cf+cD+cR	3
+s_stored_vblank	p_timer.o	unknown	unknown	8	cf+cD+cR	3
+s_total_vblanks	p_timer.o	unknown	unknown	8	cf+cD+cR	3
+s_vblank	p_timer.o	unknown	unknown	8	cf+cD+cR	3
+gAssertForOldGlobalSyntax	parse.o	unknown	unknown	4	cf+cD+cR	3
+gDetectOldGlobalSyntax	parse.o	unknown	unknown	4	cf+cD+cR	3
+sExpressionEvaluator	parse.o	unknown	unknown	504	cf+cD+cR	3
+sTemp	parse.o	unknown	unknown	16	cf+cD+cR	3
+s_num_stored_randoms	parse.o	unknown	unknown	4	cf+cD+cR	3
+s_qb_being_parsed	parse.o	unknown	unknown	4	cf+cD+cR	3
+sp_first_stored_random	parse.o	unknown	unknown	4	cf+cD+cR	3
+sp_last_stored_random	parse.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	parse.o	unknown	unknown	8	cf+cD+cR	3
+sNumLoadedQBs	parsedbg.o	unknown	unknown	4	cD+cR	2
+spLoadedQBs	parsedbg.o	unknown	unknown	4	cD+cR	2
+sNumPatchedSymbols	patch.o	unknown	unknown	4	cf+cD+cR	3
+spPatchedSymbols	patch.o	unknown	unknown	4000	cf+cD+cR	3
+sm_mission_objects	pedlifecomponent.o	unknown	unknown	8	cf+cD+cR	3
+sm_pedlife_objects	pedlifecomponent.o	unknown	unknown	8	cf+cD+cR	3
+spMemberFunctions	pedlifecomponent.o	unknown	unknown	40	cf+cD+cR	3
+lastFileNumber	pip.o	unknown	unknown	4	cf+cD+cR	3
+lastKnown	pip.o	unknown	unknown	4	cf+cD+cR	3
+lastNumFiles	pip.o	unknown	unknown	4	cf+cD+cR	3
+sp_unpreed_files	pip.o	unknown	unknown	3200	cf+cD+cR	3
+spp_pre_files	pip.o	unknown	unknown	400	cf+cD+cR	3
+sp_sgltn_instance	proxim.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$15482	records.o	unknown	unknown	12	cf	1
+_sgltn_instance$15832	records.o	unknown	unknown	12	cR	1
+_sgltn_instance$15906	records.o	unknown	unknown	12	cD	1
+s_sgltn_count	records.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	records.o	unknown	unknown	4	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	render.o	unknown	unknown	4	cf+cD+cR	3
+NEWSTUFF_OFF	render.o	unknown	unknown	4	cf+cD+cR	3
+cidxbuf$24112	render.o	unknown	unknown	98304	cR	1
+cidxbuf$24134	render.o	unknown	unknown	98304	cD	1
+cullstats	render.o	unknown	unknown	16	cf+cD+cR	3
+do_wibs	render.o	unknown	unknown	4	cf+cD+cR	3
+gCurrentCam	render.o	unknown	unknown	272	cf+cD+cR	3
+gNCBDebugRenderStats	render.o	unknown	unknown	180	cD	1
+gNCBRenderStateCache	render.o	unknown	unknown	156	cf+cD+cR	3
+gNumTranslucentMeshes	render.o	unknown	unknown	4	cf+cD+cR	3
+gTranslucentMeshes	render.o	unknown	unknown	98304	cf+cD+cR	3
+g_identityMtx	render.o	unknown	unknown	48	cf+cD+cR	3
+gbDisableNCBCache	render.o	unknown	unknown	12	cD	1
+gpSkinColors	render.o	unknown	unknown	4	cf+cD+cR	3
+idxbuf$24111	render.o	unknown	unknown	98304	cR	1
+idxbuf$24133	render.o	unknown	unknown	98304	cD	1
+meshes_considered	render.o	unknown	unknown	4	cf+cD+cR	3
+pTextureProjectionDetailsTable	render.o	unknown	unknown	4	cf+cD+cR	3
+timeSpentInResolverUpdates	resolver.o	unknown	unknown	8	cD+cR	2
+c_Half_Sqrt_Two$33584	rigidbodycomponent.o	unknown	unknown	4	cf	1
+c_Half_Sqrt_Two$34024	rigidbodycomponent.o	unknown	unknown	4	cD	1
+c_Half_Sqrt_Two$34656	rigidbodycomponent.o	unknown	unknown	4	cR	1
+s_collide_sound_allowed_time	rigidbodycomponent.o	unknown	unknown	4	cf+cD+cR	3
+s_collision_cache	rigidbodycomponent.o	unknown	unknown	4048	cf+cD+cR	3
+s_skater_head_height	rigidbodycomponent.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	rigidbodycomponent.o	unknown	unknown	400	cf+cD+cR	3
+sp_collisions	rigidbodycomponent.o	unknown	unknown	1344	cf+cD+cR	3
+sp_constraint_states	rigidbodycomponent.o	unknown	unknown	32	cf+cD+cR	3
+sp_contact_states	rigidbodycomponent.o	unknown	unknown	384	cf+cD+cR	3
+sp_dynamic_collider_radius_boosts	rigidbodycomponent.o	unknown	unknown	32	cf+cD+cR	3
+sp_dynamic_colliders	rigidbodycomponent.o	unknown	unknown	96	cf+cD+cR	3
+sp_sphere_contact_states	rigidbodycomponent.o	unknown	unknown	384	cf+cD+cR	3
+gTokenToId	rule.o	unknown	unknown	512	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	scene.o	unknown	unknown	4	cf+cD+cR	3
+g_o_mat	scene.o	unknown	unknown	32	cf+cD+cR	3
+g_o_pass	scene.o	unknown	unknown	44	cf+cD+cR	3
+g_pLastBlendDL	scene.o	unknown	unknown	4	cf+cD+cR	3
+g_pLastTextureDL	scene.o	unknown	unknown	4	cf+cD+cR	3
+g_use_sep_display_lists$25170	scene.o	unknown	unknown	4	cD	1
+last_audio_update	scene.o	unknown	unknown	4	cf+cD+cR	3
+texTransFactorBase$24938	scene.o	unknown	unknown	4	cf	1
+texTransFactorBase$25197	scene.o	unknown	unknown	4	cD	1
+texTransFactorBase$25434	scene.o	unknown	unknown	4	cR	1
+DEPREC_VALUES	score.o	unknown	unknown	20	cf+cD+cR	3
+SPIN_MULT_VALUES	score.o	unknown	unknown	24	cf+cD+cR	3
+_numScriptNames	script.o	unknown	unknown	4	cD	1
+_scriptChecksums	script.o	unknown	unknown	256	cD	1
+_scriptNameBuf	script.o	unknown	unknown	4096	cD	1
+_scriptNameOffset	script.o	unknown	unknown	4	cD	1
+_scriptNames	script.o	unknown	unknown	256	cD	1
+gWarningLevel	script.o	unknown	unknown	4	cf+cD+cR	3
+num_scripts	script.o	unknown	unknown	4	cD+cR	2
+sCurrentlyUpdating	script.o	unknown	unknown	4	cf+cD+cR	3
+s_next_unique_id	script.o	unknown	unknown	4	cf+cD+cR	3
+s_num_cscripts	script.o	unknown	unknown	4	cf+cD+cR	3
+spDisassemblyBuffer	script.o	unknown	unknown	1024	cD+cR	2
+sp_pool	script.o	unknown	unknown	8	cf+cD+cR	5
+sp_script_info	script.o	unknown	unknown	1000	cD+cR	2
+sp_scripts	script.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$21070	scriptcache.o	unknown	unknown	36	cf	1
+_sgltn_instance$21510	scriptcache.o	unknown	unknown	292	cR	1
+_sgltn_instance$21584	scriptcache.o	unknown	unknown	292	cD	1
+s_sgltn_count	scriptcache.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	scriptcache.o	unknown	unknown	8	cf+cD+cR	3
+sp_sgltn_instance	scriptcache.o	unknown	unknown	4	cf+cD+cR	3
+Distance$26298	searchspace.o	unknown	unknown	4	cD	1
+s_CellSearcher	searchspace.o	unknown	unknown	96	cf+cD+cR	3
+s_World	searchspace.o	unknown	unknown	36	cf+cD+cR	3
+spMemberFunctions	shadowcomponent.o	unknown	unknown	120	cf+cD+cR	3
+WPAD_to_PS2_buttons	siodev.o	unknown	unknown	64	cf+cD+cR	3
+WPAD_to_PS2_buttons_when_select_is_pressed	siodev.o	unknown	unknown	64	cf+cD+cR	3
+WPAD_to_PS2_deck_buttons	siodev.o	unknown	unknown	64	cf+cR	2
+WPAD_to_PS2_forwards_buttons	siodev.o	unknown	unknown	64	cf+cR	2
+WPAD_to_PS2_lefty_buttons	siodev.o	unknown	unknown	64	cf+cR	2
+WPAD_to_PS2_menu_buttons	siodev.o	unknown	unknown	64	cf+cD+cR	3
+WPAD_to_PS2_viewer_buttons	siodev.o	unknown	unknown	64	cf+cD+cR	3
+guess_table	siodev.o	unknown	unknown	576	cf+cD+cR	3
+ndev_mapping	siodev.o	unknown	unknown	64	cf+cD+cR	3
+_sgltn_instance$17593	sioman.o	unknown	unknown	28	cf	1
+_sgltn_instance$17881	sioman.o	unknown	unknown	28	cR	1
+_sgltn_instance$17971	sioman.o	unknown	unknown	28	cD	1
+padData	sioman.o	unknown	unknown	48	cf+cD+cR	3
+s_sgltn_count	sioman.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	sioman.o	unknown	unknown	4	cf+cD+cR	3
+_sgltn_instance$37365	skate.o	unknown	unknown	176	cf	1
+_sgltn_instance$38188	skate.o	unknown	unknown	176	cR	1
+_sgltn_instance$38282	skate.o	unknown	unknown	176	cD	1
+hack_controller_reconnect_timer$38277	skate.o	unknown	unknown	4	cf	1
+hack_controller_reconnect_timer$39251	skate.o	unknown	unknown	4	cR	1
+hack_controller_reconnect_timer$39342	skate.o	unknown	unknown	4	cD	1
+iLastUnpluggedNunchuk$38323	skate.o	unknown	unknown	4	cf	1
+iLastUnpluggedNunchuk$39334	skate.o	unknown	unknown	4	cR	1
+iLastUnpluggedNunchuk$39425	skate.o	unknown	unknown	4	cD	1
+iLastUnpluggedWiimote$38324	skate.o	unknown	unknown	4	cf	1
+iLastUnpluggedWiimote$39335	skate.o	unknown	unknown	4	cR	1
+iLastUnpluggedWiimote$39426	skate.o	unknown	unknown	4	cD	1
+next_beep_time$38223	skate.o	unknown	unknown	4	cf	1
+next_beep_time$39197	skate.o	unknown	unknown	4	cR	1
+next_beep_time$39289	skate.o	unknown	unknown	4	cD	1
+s_sgltn_count	skate.o	unknown	unknown	4	cf+cD+cR	3
+spAbilitiesData	skate.o	unknown	unknown	4	cf+cD+cR	3
+spCATData	skate.o	unknown	unknown	4	cf+cD+cR	3
+spStatData	skate.o	unknown	unknown	4	cf+cD+cR	3
+sp_sgltn_instance	skate.o	unknown	unknown	4	cf+cD+cR	3
+mg_KickedGotMsg	skatenet.o	unknown	unknown	4	cf+cD+cR	3
+mg_KickedMsg	skatenet.o	unknown	unknown	548	cf+cD+cR	3
+spMemberFunctions	skeletoncomponent.o	unknown	unknown	200	cf+cD+cR	3
+gp_current_sky	sky.o	unknown	unknown	4	cf+cD+cR	3
+sky_map	sky.o	unknown	unknown	52	cf+cD+cR	3
+sp_mem_profile	sky.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	soundcomponent.o	unknown	unknown	100	cf+cD+cR	3
+spMemberFunctions	specialitemcomponent.o	unknown	unknown	100	cf+cD+cR	3
+spMemberFunctions	spotlightcomponent.o	unknown	unknown	20	cf+cD+cR	3
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	sprite.o	unknown	unknown	4	cf+cD+cR	3
+menu_counter	sprite.o	unknown	unknown	4	cf+cD+cR	3
+s_last_base_sprite	sprite.o	unknown	unknown	36	cf+cD+cR	3
+sp_2D_draw_list	sprite.o	unknown	unknown	4	cf+cD+cR	3
+z$23729	sprite.o	unknown	unknown	4	cf	1
+z$24161	sprite.o	unknown	unknown	4	cR	1
+z$24185	sprite.o	unknown	unknown	4	cD	1
+z$24287	sprite.o	unknown	unknown	4	cf	1
+z$24592	sprite.o	unknown	unknown	4	cD	1
+z$24717	sprite.o	unknown	unknown	4	cR	1
+s_max_permanent_string_checksums	string.o	unknown	unknown	4	cD+cR	2
+s_num_permanent_string_checksums	string.o	unknown	unknown	4	cf+cD+cR	3
+s_permanent_string_heap_size	string.o	unknown	unknown	4	cf+cD+cR	3
+sp_permanent_string_checksums	string.o	unknown	unknown	4	cf+cD+cR	3
+sp_permanent_string_heap	string.o	unknown	unknown	4	cf+cD+cR	3
+sp_permanent_string_heap_top	string.o	unknown	unknown	4	cf+cD+cR	3
+sp_script_string	string.o	unknown	unknown	256	cf+cD+cR	3
+localBuf$10952	stringutils.o	unknown	unknown	32	cR	1
+localBuf$11012	stringutils.o	unknown	unknown	32	cD	1
+gCStructLookupTime	struct.o	unknown	unknown	8	cD+cR	2
+s_num_contains_component_named_recursions	struct.o	unknown	unknown	4	cD+cR	2
+s_num_contains_flag_recursions	struct.o	unknown	unknown	4	cD+cR	2
+s_num_getchecksum_recursions	struct.o	unknown	unknown	4	cD+cR	2
+s_num_search_for_recursions	struct.o	unknown	unknown	4	cD+cR	2
+sp_pool	struct.o	unknown	unknown	8	cf+cD+cR	3
+x__6Script	struct.o	unknown	unknown	4	cf+cD+cR	3
+sp_pool	subanimcontroller.o	unknown	unknown	8	cf+cD+cR	3
+m_burst_out	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_corona_size	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_last_pos	sun.o	unknown	unknown	16	cf+cD+cR	3
+m_lens_flare	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_morph_in	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_morph_out	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_num_lens_flare	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_phi	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_radius	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_rgba	sun.o	unknown	unknown	16	cf+cD+cR	3
+m_size	sun.o	unknown	unknown	4	cf+cD+cR	3
+m_theta	sun.o	unknown	unknown	4	cf+cD+cR	3
+mp_corona_texture	sun.o	unknown	unknown	4	cf+cD+cR	3
+mp_texture	sun.o	unknown	unknown	4	cf+cD+cR	3
+p_buffer$17741	symboltable.o	unknown	unknown	1024	cR	1
+p_buffer$17818	symboltable.o	unknown	unknown	1024	cD	1
+s_current_hash_index$17729	symboltable.o	unknown	unknown	4	cf	1
+s_current_hash_index$18141	symboltable.o	unknown	unknown	4	cD	1
+s_current_hash_index$18146	symboltable.o	unknown	unknown	4	cR	1
+sp_head	symboltable.o	unknown	unknown	4	cf+cD+cR	3
+sp_last$18142	symboltable.o	unknown	unknown	4	cD	1
+sp_last$18147	symboltable.o	unknown	unknown	4	cR	1
+sp_pool	symboltable.o	unknown	unknown	8	cf+cD+cR	3
+spp_hash_table	symboltable.o	unknown	unknown	4	cf+cD+cR	3
+s_terrainAction_Table	terrain.o	unknown	unknown	28	cf+cD+cR	3
+s_terrainType_Table	terrain.o	unknown	unknown	28	cf+cD+cR	3
+s_terrain_loaded	terrain.o	unknown	unknown	64	cD+cR	2
+GLOBAL_LIGHTMAP_NAME_CHECKSUM	texture.o	unknown	unknown	4	cf+cD+cR	3
+spMemberFunctions	trickcomponent.o	unknown	unknown	860	cf+cD+cR	3
+gPrintContentsBuffer	utils.o	unknown	unknown	4	cD+cR	2
+gPrintContentsBufferLengthRemaining	utils.o	unknown	unknown	4	cD+cR	2
+gpPrintContentsStructureName	utils.o	unknown	unknown	100	cD+cR	2
+printcontents_space_formatting_name	utils.o	unknown	unknown	4	cD+cR	2
+sp_pool	vecpair.o	unknown	unknown	8	cf+cD+cR	6
+g_DefaultVec0001	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_NegativeZero	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_One	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_OneHalf	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select0001	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select0010	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select0011	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select0100	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select0101	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select0110	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select0111	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select1000	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select1001	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select1010	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select1011	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select1100	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select1101	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Select1110	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleWWWZ	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleWXWX	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleWZWY	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleXXYW	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleXXYY	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleXXZZ	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleXYXY	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleXYZX	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleYWXZ	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleYXXX	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleYXXZ	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleYXZW	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleYZXW	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleYZXY	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZWYZ	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZWZW	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZXYW	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZXYX	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZXZX	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZYZW	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZZYX	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_SwizzleZZZW	vector.o	unknown	unknown	16	cf+cD+cR	3
+g_Zero	vector.o	unknown	unknown	16	cf+cD+cR	3
+sp_info	wait.o	unknown	unknown	17	cD+cR	2
+current_frame	zone.o	unknown	unknown	4	cf+cD+cR	3
+defer_block	zone.o	unknown	unknown	16	cf+cD+cR	3
+defer_callback	zone.o	unknown	unknown	64	cf+cD+cR	3
+defer_frame	zone.o	unknown	unknown	64	cf+cD+cR	3
+defer_p_entry	zone.o	unknown	unknown	64	cf+cD+cR	3
+g_anim_size	zone.o	unknown	unknown	4	cf+cD+cR	3
+g_extra_size	zone.o	unknown	unknown	4	cf+cD+cR	3
+g_gfx_size	zone.o	unknown	unknown	4	cf+cD+cR	3
+g_instances	zone.o	unknown	unknown	4	cf+cD+cR	3
+g_model_size	zone.o	unknown	unknown	4	cf+cD+cR	3
+g_objects	zone.o	unknown	unknown	4	cf+cD+cR	3
+g_scene_size	zone.o	unknown	unknown	4	cf+cD+cR	3
+g_sfx_size	zone.o	unknown	unknown	4	cf+cD+cR	3
+num_defer	zone.o	unknown	unknown	4	cf+cD+cR	3
+num_pending	zone.o	unknown	unknown	4	cf+cD+cR	3
+p_current_entry	zone.o	unknown	unknown	4	cf+cD+cR	3
+save_zone_name	zone.o	unknown	unknown	128	cf+cD+cR	3
+sp_mem_profile	zone.o	unknown	unknown	4	cf+cD+cR	3
+zone_folder	zone.o	unknown	unknown	128	cf+cD+cR	3
+zone_map	zone.o	unknown	unknown	52	cf+cD+cR	3

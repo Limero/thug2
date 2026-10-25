@@ -1,0 +1,196 @@
+# Tony Hawk's Underground 2 (USA) - G2TE52
+object_base: orig/G2TE52
+object: sys/main.dol
+hash: ff6faeb0f2b524ecbe1aeaff78ff154a284c27c9
+symbols: config/G2TE52/symbols.txt
+splits: config/G2TE52/splits.txt
+# THUG2's game code was built with SN Systems ProDG (GCC 2.95.2 "ngccc"),
+# NOT Metrowerks mwcc — see docs/gamecube-decomp-plan.md §5. The CRT/runtime
+# objects are mwcc-era; game-code objects are compiled by ngccc via the
+# ProDG/<ver> mw_version in configure.py (selected per-object in project.py).
+# mw_comment_version only affects parsing of mwcc comment sections during
+# analysis; leave at 11.
+mw_comment_version: 11
+
+# THUG2 was compiled with -sdata2 0 (all small data via r13), but dtk
+# classifies the second small-data region (.sdata2 @ 0x803CAF80) as r2
+# addressed. tools/patch_dol.py rewrites those accesses to r13 after linking.
+# The template hardcodes _stack_end = 0x803CC200 (END of .sdata2, not its
+# 0x803CAF80 start): the original __start computes the initial stack pointer
+# _stack_addr = (_stack_end + 0x10006) & ~0x7 = 0x803DC200 ("ori r1,r1,0xc200").
+# Note: ProDG game code is additionally built with -G0 (no small data), so
+# decompiled game objects carry no sdata sections at all.
+ldscript_template: config/G2TE52/ldscript.tpl
+
+# Neversoft engine uses computed jump tables (mtlr r0 / blrl dispatch)
+# that stall control-flow analysis. Skip the affected range.
+skip_cfa_ranges:
+- start: .text:0x8025B92C
+  end: .text:0x80261D5C
+
+# Force-active symbols: survive mwld dead-stripping even though nothing
+# references them. __GXGetTexTileShift (standalone copy kept by retail's
+# linker) and HW2GXFiltConv (unreferenced SDK table) both live in the
+# GXTexture object and must be emitted. GXGetOverflowCount (8B sdata read in
+# GXFifo.c) has no caller in the wired objects (DEMOInit.c not linked yet).
+# DCStoreRangeNoSync (os/OSCache.c) is only called from raw-address game asm
+# at 0x8025FB48 (inside a skip_cfa/gap region, so dtk emits no relocation)
+# — mwld would dead-strip it and shift the whole OSCache region by 0x2C.
+force_active:
+- __GXGetTexTileShift
+- HW2GXFiltConv
+- GXGetOverflowCount
+- DCStoreRangeNoSync
+- GXInitLightSpot
+# TRK state getters (promoted 2026-10-09): no wired caller references them
+# (the callers are in the skip_cfa MetroTRK gap region), so mwld would
+# dead-strip their 8B each and shift the whole 0x8025E region by 0x10.
+- fn_8025EA58
+- fn_8025EA60
+# VM-manager region (0x8025E9AC-0x80260168, mwcc GC/1.3.2) promoted
+# 2026-10-09: these have no reference from any wired object or auto-asm unit,
+# so mwld dead-strips their text and shifts everything after them (verified:
+# fn_8025F6E4's 44B + fn_8025FCA8's 4B vanished without this).
+- fn_8025ED48
+- fn_8025F1D4
+- fn_8025F214
+- fn_8025F26C
+- fn_8025F284
+- fn_8025F5CC
+- fn_8025F5F4
+- fn_8025F61C
+- fn_8025F6E4
+- fn_8025F710
+- fn_8025F720
+- fn_8025F730
+- fn_8025F73C
+- fn_8025F764
+- fn_8025F76C
+- fn_8025F7A8
+- fn_8025F7D8
+- fn_8025F808
+- fn_8025FA60
+- fn_8025FB84
+- fn_8025FB9C
+- fn_8025FCA8
+# GXFrameBuf render-mode objects: pure data kept by the retail linker with no
+# code references (only the 480-progressive Df/Int pairs are referenced). All
+# 31 must survive dead-stripping to byte-match the DOL table at 0x8030FE50.
+- GXNtsc240Ds
+- GXNtsc240DsAa
+- GXNtsc240Int
+- GXNtsc240IntAa
+- GXNtsc480IntDf
+- GXNtsc480Int
+- GXNtsc480IntAa
+- GXNtsc480Prog
+- GXNtsc480ProgAa
+- GXMpal240Ds
+- GXMpal240DsAa
+- GXMpal240Int
+- GXMpal240IntAa
+- GXMpal480IntDf
+- GXMpal480Int
+- GXMpal480IntAa
+- GXPal264Ds
+- GXPal264DsAa
+- GXPal264Int
+- GXPal264IntAa
+- GXPal528IntDf
+- GXPal528Int
+- GXPal524IntAa
+- GXEurgb60Hz240Ds
+- GXEurgb60Hz240DsAa
+- GXEurgb60Hz240Int
+- GXEurgb60Hz240IntAa
+- GXEurgb60Hz480IntDf
+- GXEurgb60Hz480Int
+- GXEurgb60Hz480IntAa
+- GXRmHW
+# ORPHAN EXACT drafts (promoted 2026-09-02): referenced by nothing in the
+# retail DOL — mwld deadstrips standalone objects without this (doc-13).
+- fn_8025A248
+- fn_8013A744
+- fn_8013A8D0
+- fn_8013A9FC
+- fn_802245A4
+- fn_8025A5FC
+# doc-13 ORIGINAL orphan (8B leaf, promoted 2026-09-02): proven in repro +
+# second instance; mitigation finally executed in-repo.
+- fn_8025254C
+# doc-13 orphan variant "cross-unit branch" (promoted 2026-09-25): the two
+# callers of this MetroTRK FP/PS restore helper live in the NEXT auto-asm unit,
+# and dtk emits those `bl`s as raw relative displacements (`tbl -0x578`,
+# `tbl -0xa68` — the target address lies BEFORE the unit's start, so no symbol
+# relocation is produced). Nothing then referenced fn_8025B180, mwld dropped
+# its 448B .text and the whole image shifted by 0x1C0 (patch_dol's r2 assert
+# fired at 0x803D2DC0 vs 0x803D2F80). Verified fix: FORCEACTIVE keeps it and
+# the DOL is byte-identical (the raw displacements resolve correctly because
+# the layout is byte-exact).
+- fn_8025B180
+# doc-13 orphan (same auto-unit as fn_8025B180 above, promoted 2026-10-08):
+# its callers sit in the NEXT auto-asm unit (0x8025B554+) and their `bl`s are
+# emitted as raw relative displacements, so no relocation points at this
+# definition; without force_active mwld drops its 532B .text and the image
+# shifts (patch_dol's r2 assert fired at 0x803D2D80 vs 0x803D2F80).
+- fn_8025B340
+# doc-13 orphans (promoted 2026-09-25, same class as fn_8025B180 above): the
+# targets of the runtime's compiler-generated save/restore call sequences are
+# only ever called via the _savegpr_N/_restgpr_N mid-entries, which are defined
+# in OTHER auto-asm or libgcc units as raw relative displacements -- so no
+# symbol relocation points at these definitions and mwld dead-stripped them
+# (the built .text lost exactly their bytes and patch_dol's r2 assert fired at
+# 0x803D2F40 vs 0x803D2F80). Use the REAL symbols.txt name here, not the
+# fn_<addr> split key: fn_80274A78's actual symbol is __save_gpr (nm showed the
+# function absent from main.elf and everything after it shifted -0x4C).
+- __save_gpr
+- __restore_gpr
+# fn_8025AE3C (promoted 2026-10-11): no BL caller in the DOL's .text (verified:
+# zero `bl` to 0x8025AE3C; likely invoked via function pointer/blrl from the
+# Vtable0x80308A40_m5 region it shares the auto unit with), so mwld
+# dead-stripped its 176B .text and the whole image shifted by -0xB0
+# (patch_dol's r2 assert fired at 0x803D2EE0 vs 0x803D2F80; ELF .text came out
+# 0x28AAF0 instead of 0x28ABA0). Same class as the doc-13 orphans above.
+- fn_8025AE3C
+# fn_8025D944/fn_8025D964 (promoted 2026-10-11): DABR clear/set stubs carved
+# from the 0x8025D010-0x8025DF74 gap. All their BL callers (4 + 5) live in
+# the still-unclaimed gap filler, which emits verbatim bytes with no
+# linker-visible relocs, so mwld dead-strips the new objects without this.
+- fn_8025D944
+- fn_8025D964
+# fn_8025D988/fn_8025DA10/fn_8025DAD4 (promoted 2026-10-11): EXI-debugger MMIO
+# init pair (callers of the DABR stubs) + ternary clamp. All BL callers live
+# in still-unclaimed gap filler (no linker-visible relocs) — same class.
+- fn_8025D988
+- fn_8025DA10
+- fn_8025DA54
+- fn_8025DAD4
+# fn_8025D550 (promoted 2026-10-11): EXI poll + callback dispatcher. Zero
+# branch/call references in the DOL (likely reached via function pointer),
+# so mwld dead-strips its 168B .text without this — same orphan class.
+- fn_8025D550
+# fn_8025D5F8 (promoted 2026-10-11): D550 sibling with pre-check. Its one BL
+# caller (0x8025D538) lives in still-unclaimed gap filler with no
+# linker-visible reloc — same orphan class.
+- fn_8025D5F8
+# fn_8025D114 (promoted 2026-10-22): EXI packet builder carved out of the
+# 0x8025D010 gap filler. Its callers live in the same verbatim-byte filler (no
+# linker-visible relocs), so mwld would dead-strip its 0x8C .text — same orphan
+# class as fn_8025D550 above.
+- fn_8025D114
+# --- managed by tools/gen_str_data.py: BEGIN (do not hand-edit) ---
+# Unreferenced game data: mwld dead-strips standalone objects
+# (verified: missing from main.elf + shifted layout without it).
+# Synced from an ELF census (tools/gen_data.py); monotonic.
+- lbl_8029EF50
+- lbl_802A7B88
+- lbl_802B1CE0
+- lbl_80308B5C
+- lbl_803092E0
+- lbl_80309C6C
+- lbl_8030A7B0
+- lbl_8030A810
+- lbl_8030F458
+- lbl_8030FDF4
+- lbl_80310944
+# --- managed by tools/gen_str_data.py: END ---

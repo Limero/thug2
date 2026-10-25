@@ -1,0 +1,237 @@
+string	thug2_addr	thug2_funcs	wii_addr	wii_funcs
+%%.%df	0x8029D23C	fn_801168CC	0x804CF651	
+%.2d:%.2d	0x802A8E30	ScriptFillRankingScreen	0x804D963B	
+%d:%.2d	0x802A93D0	fn_80181300	0x804D932C	
+%i:%02i.%02i	0x802A94E8	fn_801860B8	0x804DD18A	
+%s %d bps	0x802AFD88	fn_8021805C	0x804D0041	config.o::Init
+%s%04d	0x80298610	fn_800ADE30	0x804CF989	
+%s-Goals	0x802A8560	fn_801672B8	0x804D8ABE	
+%s-NetworkSettings	0x802A8528	fn_801672B8	0x804D8A8E	
+%s-Park	0x802A8558	fn_801672B8	0x804D8AB6	
+%s-Trick	0x802A854C	fn_801672B8	0x804D8AAD	
+%s.%s.%s	0x80293164,0x8029BAD4	fn_80055334,fn_800F4F78	0x804CDCB8,0x804CFE51	
+%s.tex	0x80293924	fn_8005D6C8	0x804CDC48,0x804CDE21	
+%s/goals.ico	0x802A8808	ScriptDeleteMemCardFile	0x804D8B58	
+%s/icon.sys	0x802A87CC	ScriptDeleteMemCardFile	0x804D8B32	
+%s/network.ico	0x802A8828	ScriptDeleteMemCardFile	0x804D8B65	
+%s/tricks.ico	0x802A87D8	ScriptDeleteMemCardFile	0x804D8B3E	
+%s=%%a	0x8029D2AC	ScriptDump	0x804CF6D2	
+%s=[!! DOES NOT EXIST !!]	0x8029D290	ScriptDump	0x804CF6B8	
+%s\c%d %s	0x802B0270	fn_802288E0	0x804D9C85	
+%s\c%d %s \c%d %d	0x802B027C	fn_802288E0	0x804D9C8F	
+%s_%s%02i	0x802A82E8,0x802A9874	ScriptPlaySkaterStream	0x804D0586,0x804D8F1D	
+%s_Far%s%02i	0x802A983C	fn_80191260	0x804D8EEB	
+%s_camAnim%02i	0x802A9808	fn_80190ACC	0x804D8EBE	
+%s_camAnim%02i_%s	0x802A9818	fn_80190ACC	0x804D8ECD	
+%s_goal_%s	0x802A9880	fn_80191CC0	0x804D8F27	
+%s_lip	0x802A9834	fn_80190ACC	0x804D8EE4	
+%s_next_waypoint_script_id	0x802A9B94	NextRaceWaypoint	0x804D9198	RaceGoal.o::NextRaceWaypoint
+(%.3f,%.3f)	0x8029D244	fn_801168CC	0x804CF658	
+(%.3f,%.3f,%.3f)	0x8029D250	fn_801168CC	0x804CF664	
+(%d) Lag: %d Resends: %d Bps: %d %d	0x802AFDAC		0x804D004B	eval.o::execute_operation
+--EMPTY--	0x802A7F24	ScriptSendChatMessage	0x804CF5C8	netfuncs.o::ScriptSendChatMessage
+.img.ngc	0x80295810,0x80295F80	fn_80077C9C,fn_8007D5C4	0x804DC047,0x804DC251	
+/%s%s/%s%s	0x802A8770	ScriptDeleteMemCardFile,ScriptLoadFromMemoryCard,ScriptMemCardFileExists	0x804D8B27	
+/%s/%s	0x802A8578	ScriptGetMemCardDirectoryListing,ScriptLoadFromMemoryCard,ScriptMemCardFileExists,fn_80167408	0x804D8B1B	
+0.0.0.0	0x802AFE40	fn_8021E18C	0x804D009C	
+12345678901234567890	0x802A7F30	ScriptTryCheatString	0x804D0666	
+<No Name>	0x802B0298	fn_80229404	0x804D00B0	
+<No Text>	0x8029F06C	fn_80137434	0x804CE900	
+<Unknown>	0x8029F160	fn_80137434	0x804CE8EF	
+Addition not supported for this type	0x8029E9DC	fn_80132458	0x804CE1AB	
+AnimScratch	0x80291A34	fn_80031AF0	0x804CDB08	animblendsubset.o::Init
+Animation	0x8029B604	fn_800F40B8	0x804CF9FE	
+Array element operator not supported for this type	0x8029EE3C	fn_80132458	0x804CE68F	
+Array type cannot be accessed using [] yet ...	0x8029EEA4	fn_80132458	0x804CE660	
+Bootstrap	0x80290054,0x802A1938	fn_8000B348	0x804CD774,0x804D2714	
+BottomUp	0x802903AC	fn_8000EE70	0x804CD9CF	
+ButtonsNgc	0x80292F50	ScriptLoadFont	0x804CDCEF	
+CAssMan	0x8029FA48	fn_80145C14	0x804D0224	
+CBlendChannel	0x802A89E4	fn_8016A714	0x804D8900	gs_init.o::Init
+CComponent	0x8029E510	fn_80125AEC	0x804CE762	
+CCompositeObjectManager	0x8029FA6C	fn_80145C14	0x804D028B	
+CGameMode	0x8029FAB0	fn_80145C14	0x804D02ED	
+CGameRecords	0x8029FAD4	fn_80145C14	0x804D02F7	
+CIRCLE	0x80298300	fn_800AA0BC	0x804CF78A	
+CNodeArrayManager	0x8029FB40	fn_80145C14	0x804D034D	
+CPathMan	0x8029FA3C	fn_80145C14	0x804D0269	
+CPlayerProfileManager	0x8029FABC	fn_80145C14	0x804D020E	
+CScreenElementManager	0x8029FB28	fn_80145C14	0x804D0337	
+CScriptCacheEntry	0x8029E4D8		0x804CE750	init.o::AllocatePools
+CSfxManager	0x8029FA50	fn_80145C14	0x804D0272	
+CTODManager	0x8029FB54	fn_80145C14	0x804D035F	
+CTrickObjectManager	0x8029FA9C	fn_80145C14	0x804D02D9	
+Change	0x802A1ED4,0x802A8490	fn_80166640	0x804D2E48	
+CommonGameNet	0x8029FB0C	fn_80145C14	0x804D0329	
+Cutscene	0x8029BE7C	fn_800F6384	0x804CFA86,0x804CFC8F	
+CutsceneBottomUp	0x802904C0	fn_8000F36C,fn_8000FF18	0x804CDA78	
+CutsceneTopDown	0x802904D4	fn_8000F36C,fn_8000FF18	0x804CDA89	
+Default printf text	0x8029D268	fn_80116D2C	0x804CF698	
+DefaultInitials	0x802ABDB4	fn_801B0FA4	0x804D9770	
+Define <goal_description> for this goal and it will appear here....If you'd like, also define <view_goals_tip>, it's optional.	0x802A9500	fn_80187C14	0x804DD197	
+Division not supported for this type	0x8029ED48	fn_80132458	0x804CE4FA	
+Dot product not supported for this type	0x8029EE14	fn_80132458	0x804CE5BA	
+FLAG_PROSET1_GEO_ON	0x802AFEE4	ScriptResetProSetFlags	0x804D9DDC	
+Face Data	0x802A90B0,0x802AFE18	fn_8021BEE0	0x804D9695,0x804D9DB6	
+Female1	0x80298538	fn_800AD890	0x8066F068	
+File System	0x8029F9F8	fn_80145C14	0x804D0199	
+Float cannot be divided by second arg	0x8029ECD0	fn_80132458	0x804CE488	
+Float division by zero	0x8029EC90	fn_80132458	0x804CE449	
+FlxParticles	0x8029488C	fn_80068338	0x804CDD88	
+FrameRate	0x80290084	fn_8000B348	0x804CD79A	
+FrontEnd	0x80290520,0x8029FAEC	fn_8000FAB4,fn_80145C14	0x804CDA30,0x804D030F	
+Game Singletons	0x8029FA2C	fn_80145C14	0x804D022C	
+GameNet::Manager	0x8029FAF8	fn_80145C14	0x804D0318	
+Hash Item Pool Manager	0x8029F9E0	fn_80145C14	0x804D017D	
+HashItem	0x80290830	PoolManager_SSetupPool	0x804CDAC8	PoolManager.o::SSetupPool
+Initialization	0x8029F9B4	fn_80145C14	0x804D03CE	
+Integer cannot be divided by second arg	0x8029ECA8	fn_80132458	0x804CE460	
+Integer division by zero	0x8029EC74	fn_80132458	0x804CE430	
+LaunchLevel	0x802A157C,0x802A8DA8	fn_80174B14	0x804D21E8,0x804D95D3	
+LoadNodeArray	0x8029FFC8,0x802A7D18	ScriptLoadNodeArray	0x804D0632,0x804D0923	
+MUSIC\VAG\SONGS\%s	0x8029D0D4	ScriptPlayTrack	0x804CF746	
+MainLoop	0x8029FB94	fn_80145C14	0x804D03DD	
+Match Skate4	0x802AFDF0	fn_8021A850	0x804D008F	
+Midgoal	0x802A9860	fn_80191980	0x804D8F09	
+Multiplication not supported for this type	0x8029EC48	fn_80132458	0x804CE405	
+Net::Manager	0x8029FA5C	fn_80145C14	0x804D027E	
+NetJudge	0x802A948C	fn_801835B4	0x804DD156	
+Network	0x80290518	fn_8000FAB4	0x804CDA28	
+No restarts in level	0x802A7FB4	ScriptAddRestartsToMenu	0x804D069B	
+NoExtraMem	0x80290048	fn_8000B348	0x804CD75A	
+Node Array	0x8029BF94	fn_800F6A8C	0x804CFAD6	
+Non-zero parentheses count	0x8029E7AC	fn_80132458	0x804CDFD0	
+Not enough values in stack to execute operation	0x8029E77C	fn_80132458	0x804CDFA0	eval.o::GetResult,eval.o::Input,eval.o::execute_operation
+NotBootstrap	0x80290068	fn_8000B348	0x804CD784	
+Operator not supported	0x8029EED4	fn_80132458	0x804CE6C2	
+Operator stack overflow	0x8029EF00	fn_80133F24	0x804CE6D9	
+Pair can only be dot producted with another pair	0x8029EDA8	fn_80132458	0x804CE554	
+Pair cannot be divided by second arg	0x8029ED20	fn_80132458	0x804CE4D5	
+Pair cannot be multiplied by second arg	0x8029EC20	fn_80132458	0x804CE3DD	
+ParseNodeArray	0x8029FFE8,0x802A7CB8	ScriptParseNodeArray	0x804D0941	
+Perfect 	0x802A9D0C,0x802AA63C	fn_801937EC,fn_80196EF8	0x804D96B1,0x804D9737	
+Permanent Assets	0x802A8D68	fn_80172C44	0x804D9440	
+PreLoadModels	0x802A80A0	ScriptPreloadModels	0x804D8C11	
+Random Ped Parts	0x802A80CC	ScriptPreloadPedestrians	0x804D8C1F	
+RegisterAllComponents	0x8029FA84	fn_80145C14	0x804D02C3	
+Reserve CComponent	0x802A8868	ScriptCreateTemporaryMemCardPools	0x804D89EF	
+Reserve CStruct	0x802A8890	ScriptCreateTemporaryMemCardPools	0x804D8A02	
+Resgistering and starting modules	0x8029FB60	fn_80145C14	0x804D039F	
+RestartName	0x802A7F98	ScriptAddRestartsToMenu	0x804D068F	
+Result of local-string addition too long	0x8029E908	fn_80132458	0x804CE11B	
+Result of string addition too long	0x8029E8BC	fn_80132458	0x804CE0D1	
+SELECT	0x80298338	fn_800AA0BC	0x804CF7B4	
+SQUARE	0x802982F8	fn_800AA0BC	0x804CF783	
+SceneColl	0x8029B880	fn_800F4B28	0x804CFDE0	
+Script	0x80290550	fn_8000FAB4	0x804CDA3F,0x804CFCB1,0x804CFE13	
+Second arg cannot be added to a checksum	0x8029E840	fn_80132458	0x804CE05C	
+Second arg cannot be added to a float	0x8029E818	fn_80132458	0x804CE036	
+Second arg cannot be added to a local-string	0x8029E934	fn_80132458	0x804CE144	
+Second arg cannot be added to a pair	0x8029E894	fn_80132458	0x804CE0AC	
+Second arg cannot be added to a string	0x8029E8E0	fn_80132458	0x804CE0F4	
+Second arg cannot be added to a vector	0x8029E86C	fn_80132458	0x804CE085	
+Second arg cannot be added to an integer	0x8029E7EC	fn_80132458	0x804CE00D	
+Second arg cannot be multiplied by a float	0x8029EBC8	fn_80132458	0x804CE388	
+Second arg cannot be multiplied by an integer	0x8029EB98	fn_80132458	0x804CE35A	
+Second arg cannot be subtracted from a float	0x8029EA34	fn_80132458	0x804CE200	
+Second arg cannot be subtracted from a pair	0x8029EA94	fn_80132458	0x804CE25B	
+Second arg cannot be subtracted from a vector	0x8029EA64	fn_80132458	0x804CE22D	
+Second arg cannot be subtracted from an integer	0x8029EA04	fn_80132458	0x804CE1D0	
+Skate4	0x802AFDE8	fn_8021A31C,fn_8021A784	0x804D0088	cfuncs.o::ScriptPFXManLoad
+Skeleton	0x8029B9B8	fn_800F4EF4	0x804CFC6B,0x804CFE3E	
+SkinColl	0x8029BC40	fn_800F5C60	0x804CFE60	
+Structure add operator requires 2nd arg to be a structure	0x8029E964	fn_80132458	0x804CE171	
+Structure dot operator requires 2nd arg to be a name	0x8029EDDC	fn_80132458	0x804CE585	
+Structure minus operator requires 2nd arg to be a name, an array of names, or a structure	0x8029EB14	fn_80132458	0x804CE2D8	
+Subtracting an array from a structure requires the array to be an array of names	0x8029EAC0	fn_80132458	0x804CE287	
+Subtraction not supported for this type	0x8029EB70	fn_80132458	0x804CE332	
+Symbol Hash Table	0x8029F9CC	fn_80145C14	0x804D016B	
+System Singletons	0x8029FA0C	fn_80145C14	0x804D01A5	
+TEMPFlxPrtcl	0x802948A8	fn_80068528	0x804CDD95	
+THUG2 Viewer	0x802A8B08	fn_8016CD30	0x804D8D40	
+TRIANGLE	0x80298308	fn_800AA0BC	0x804CF791	
+TexDict	0x8029BD5C	fn_800F6164	0x804CFE70	
+Top Down	0x802903A0	fn_8000EE70	0x804CD9C6	
+TrickObj Buffer	0x802A93DC,0x802AB964,0x802B0118	fn_801814F0,fn_801815EC,fn_801A8E5C,fn_80223448	0x804D9337,0x804D97D7,0x804D9CB8	GameHandler.o::handle_player_restarted,GameHandler.o::s_handle_dropped_flag,GameHandler.o::s_handle_fcfs_request,GameHandler.o::s_handle_player_info_ack,GameHandler.o::s_handle_team_change
+Tried to execute with no operator	0x8029E7C8	fn_80132458	0x804CDFEB	
+Unimplemented	0x802A7BD8,0x802A8498	ScriptSetCustomSkaterFilename,fn_80166640	0x804D0624,0x804D8A23,0x804D97B0	
+Unique Ped Parts	0x802A80E0	ScriptPreloadPedestrians	0x804D8C30	
+Unknown	0x802AAFF8	fn_801A058C	0x804CFC38,0x804D9182	nxpak.o::ScriptBeginUnloadPak,nxpak.o::ScriptEndUnloadPak,nxpak.o::ScriptLoadPakInternal,nxpak.o::_BeginUnloadPak,nxpak.o::process,nxpak.o::sInit
+Unnamed Asset	0x8029B478	fn_800F3894	0x804CFA1F	
+Unnamed Gap	0x802AC9BC	SkaterGapComponent_end_gap	0x804D9A30	SkaterGapComponent.o::end_gap
+Unnamed restart	0x802A7FA4	ScriptAddRestartsToMenu,ScriptAddWarpPointsToMenu	0x804D067F	
+VERSION_CAT	0x802A84C4	fn_801671A0	0x804D8A48	
+VERSION_CREATEDGOALS	0x802A84F8	fn_801671A0	0x804D8A79	
+VERSION_NETWORKSETTINGS	0x802A84E0	fn_801671A0	0x804D8A61	
+VERSION_OPTIONSANDPROS	0x802A84AC	fn_801671A0	0x804D8A31	
+VERSION_PARK	0x802A84D0	fn_801671A0	0x804D8A54	
+Value stack overflow	0x8029EF18	fn_8013400C	0x804CE6F1	
+Vector can only be dot producted with another vector	0x8029ED70	fn_80132458	0x804CE51F	
+Vector cannot be divided by second arg	0x8029ECF8	fn_80132458	0x804CE4AE	
+Vector cannot be multiplied by second arg	0x8029EBF4	fn_80132458	0x804CE3B3	
+You are a %s!	0x802AAB8C	fn_8019B84C	0x804D9174	
+[] index must be an integer	0x8029EE70	fn_80132458	0x804CE5E2	
+[] index out of range	0x8029EE8C	fn_80132458	0x804CE64A	
+\c%d%.2d:%.2d	0x802A8E3C	ScriptFillRankingScreen	0x804D965F	
+\c%d%d	0x802A8E4C	ScriptFillRankingScreen	0x804D966D	
+\c%d%s	0x802A8DF0,0x802AD09C,0x802B0290	ScriptFillRankingScreen,fn_80175AFC,fn_801CB7B8,fn_802288E0	0x804CEA79,0x804D9611,0x804D9A28,0x804D9CA1	SkaterFloatingNameComponent.o::Update
+\c%d%s %s	0x802A8E0C	ScriptFillRankingScreen	0x804D9628	
+\c%d> %s	0x802A8E24	ScriptFillRankingScreen	0x804D9632	
+\c4%s\c%d %s \c%d %d:%.2d	0x802B0254	fn_802288E0	0x804D9C1C	
+\c4%s\c%d %s \c%d %d:%.2d:%.2d	0x802B0234	fn_802288E0	0x804D9BFD	
+\c5%i\c0 	0x802A9D18,0x802AA648	fn_801937EC,fn_80196EF8	0x804D96BA,0x804D9740	
+_auto32m0.png	0x802936D8	fn_8005CCFC	0x804CDE3D	
+_begin	0x80298688	fn_800AFA90	0x804CF9AB	
+_classic	0x802A9580	ScriptGoalManager_CreateGoalName	0x804DD27E	
+_goal_	0x802A958C	ScriptGoalManager_CreateGoalName	0x804DD28F	
+_nodearray	0x8029B364	fn_800F1F74	0x804CFF9C	
+_params	0x80298680	fn_800AFA90	0x804CF9A3	
+_subtitles	0x80298698	fn_800AFA90	0x804CEBED,0x804CF9B7	
+appendx	0x80290D70	ScriptNgc_Message	0x804DB416	
+appendy	0x80290D78	ScriptNgc_Message	0x804DB41E	
+autoid%d	0x8029809C	GetFreshId	0x804CE7E8	objtrack.o::GetFreshId
+bronze	0x802A81C4	ScriptStartCompetition	0x804D8E14	
+dialog	0x80291234	fn_80023E94	0x804D03E6,0x804DB3A1	
+fam\%08x.fam	0x8029B234,0x802A984C	fn_800EF9C0,fn_80191618	0x804D8EF8	
+gamecube	0x802AAD5C	fn_8019D62C	0x804CFF71	
+gamecube.qb	0x8029FA20	fn_80145C14	0x804D01B7	
+got_%d	0x802A962C,0x802AE2D4	fn_8018D404,fn_801F3D30	0x804D8D89	
+horse_time_limit	0x802A8114	ScriptSetPreferencesFromUI	0x804D8C4C	
+images/%s	0x802936A8	fn_8005BF60	0x804CDE11,0x804CDE33	
+images\xxxxx	0x802A7F04	ScriptDisplayLoadingScreen	0x804D064D	
+item%d	0x80290DC0	ScriptNgc_Menu	0x804DB444	
+load_%s	0x802A8DE8	ScriptRequestLevel	0x804D9609	
+loadscreen	0x80295FFC	fn_8007D5C4	0x804DC067	
+medium	0x802A97F4	fn_80190ACC	0x804D8EB1	
+models\%s	0x80293018	fn_800542DC,fn_80054388	0x804CDB7C	
+nd place	0x802A94CC	fn_801860B8	0x804DD175	
+netexceptionprops	0x802AFD68	fn_80217F08	0x804D0026	nx.o::sAddScene,nx.o::sGenerateSceneFilename,nx.o::sLoadScene,nx.o::sQuickReloadGeometry,nx.o::s_post_load_scene
+netstatusprops	0x802AFEAC	ScriptStartNetworkGame	0x804D9DCD	
+num_%d	0x802AFDD0	fn_80219C60,fn_80219E54	0x804D006F	
+num_players	0x802A8140	ScriptOnlyOnePlayerLeft	0x804D065A	
+pre\%s	0x80290324,0x8029083C	fn_8000D478,fn_800122FC	0x804CD8C0	pip.o::LoadAlloc,pip.o::LoadPre
+rd place	0x802A94D8	fn_801860B8	0x804DD17E	
+sStartEngine	0x8029FB84	fn_80145C14	0x804D03C1	
+screen	0x8029CEA0	ScriptScreenShot	0x804CF63F	
+screenmode	0x802AA7CC	fn_801992A8	0x804D8D77	
+scripts\qdir.txt	0x802A8974	fn_8016A480	0x804D88B6	
+show_all_trick_objects	0x802AB93C	fn_801A80DC	0x804D97C0	TrickObject.o::AddTrickObject,TrickObject.o::ApplyObserverGraffitiState,TrickObject.o::MyLogTrickObject
+silver	0x802A81BC	ScriptStartCompetition	0x804D8E1B	
+single	0x802B0D84	fn_8023A8A0	0x804D9116	
+skin.ngc	0x802961E0	fn_8007E710	0x804DC08E	
+skt_info	0x80290558	fn_8000FAB4	0x804CDA46	
+sprite	0x8029392C	fn_8005DA6C	0x804CDE28	
+st place	0x802A94C0	fn_801860B8	0x804DD16C	
+streams/streamsn.wad	0x8029D830	fn_80120D14	0x804DCAFF	
+tags\cas_01	0x802AF238	fn_802063D0	0x804D9B1C	
+tags\sticker	0x802AF244	fn_802063D0	0x804D9B28	
+target_score	0x802A8130	ScriptSetPreferencesFromUI	0x804D8C5D	
+team_%d_name	0x802A8DFC,0x802A9074,0x802AFE24,0x802B0130	ScriptFillRankingScreen,fn_8017A79C,fn_8017BB28,fn_8021C7EC,fn_8021CEC0,fn_8021DAD4,fn_80224E28,fn_80226068,fn_8022755C	0x804D961B,0x804D9678,0x804D9CA8,0x804D9CD3,0x804D9DC0	skatenet.o::handle_face_data,skatenet.o::handle_obs_init_graffiti_state,skatenet.o::handle_score_update,skatenet.o::handle_sh_object_announcement
+texture	0x802A7DBC	ScriptDoFlash	0x804D0645	
+time = %02d : %02d : %02d	0x802985C8	fn_800ADE30	0x804CF956	
+time = %f sec. / %f sec.	0x802985EC	fn_800ADE30	0x804CF970	
+time_limit	0x802A8108	ScriptSetPreferencesFromUI	0x804D8C41	
+time_limit_type	0x802AA7A4	fn_801992A8	0x804D8D50	GameMode.o::OverrideOptions,GameMode.o::ScriptOverrideGameModeOptions
+timer_runout_beep	0x802A8D3C	fn_80172A90	0x804D942E	
+unknown	0x802AAB7C	fn_8019B7C0,fn_8019B84C	0x804CFD0B,0x804D9166	
+victory_condition_type	0x802AA7B4	fn_801992A8	0x804D8D60	

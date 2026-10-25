@@ -1,0 +1,9 @@
+// Auto-generated from tools/gen_leaves.py
+// range 0x8005D038-0x8005D04C (20B). Byte-identical.
+#include "types.h"
+#include "structs.h"
+void fn_8005D038(CStruct *o) {
+    o->unk0x0 = 0;
+    o->unk0x4 = 0;
+    o->unk0x8 = 0;
+}
